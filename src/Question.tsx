@@ -1,7 +1,6 @@
 import { Box, Paper, Typography } from "@material-ui/core";
 import styled from "styled-components";
 import * as React from "react";
-import "./styles.css";
 
 export interface Question {
   title: string;
@@ -52,7 +51,11 @@ export function QuestionComponent({
     <QuestionPaper elevation={3} correct={selected === question.correctAnswear}>
       <Box padding={2}>
         <Box textAlign="center" paddingBottom={2}>
-          <Typography variant="h5" component="h5">
+          <Typography
+            variant="h6"
+            component="h6"
+            style={{ whiteSpace: "pre-line" }}
+          >
             {question.question}
           </Typography>
         </Box>
@@ -64,7 +67,10 @@ export function QuestionComponent({
             state = "INCORRECT";
           }
           return (
-            <AnswearButton state={state} onClick={() => onSelected(index)}>
+            <AnswearButton
+              state={state}
+              onClick={() => selected != null || onSelected(index)}
+            >
               <Typography>
                 {letters[index]}: {item}
               </Typography>

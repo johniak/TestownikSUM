@@ -11,6 +11,7 @@ import {
 import questions from "../data/gineksy.json";
 import { Box, Button, CssBaseline, Link } from "@material-ui/core";
 import { QuestionPage } from "./QuestionPage";
+import { TestConfigPage } from "./TestConfigPage";
 
 export function App() {
   return (
@@ -18,8 +19,11 @@ export function App() {
       <CssBaseline />
       <Router>
         <Switch>
-          <Route path="/question/:questionId">
+          <Route path="/tests/:testId/questions/:questionId">
             <QuestionPage />
+          </Route>
+          <Route path="/tests/:testId">
+            <TestConfigPage />
           </Route>
         </Switch>
       </Router>
