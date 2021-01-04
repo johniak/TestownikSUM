@@ -10,7 +10,7 @@
     ],
     "id": "0",
     "question": "Do objawów raka jajnika nie należy:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 2",
@@ -23,7 +23,7 @@
     ],
     "id": "1",
     "question": "Wskaż fałszywe stwierdzenie dotyczące łożyska:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 3",
@@ -36,14 +36,14 @@
     ],
     "id": "2",
     "question": "Do czynników anatomicznych, które mogą być przyczyną poronień, należy zaliczyć:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 4",
     "answers": ["I.", "II.", "III.", "IV.", "V."],
     "id": "3",
-    "question": "Który stopień endometriozy według klasyfikacji Amerykańskiego TowarzystwaMedycyny Rozrodu (American Society for Reproductive Medicine - ASRM) należyrozpoznać u pacjentki z torbielą endometrialną jajnika lewego o śr. 4 cm, częściowąobliteracją zatoki Douglasa oraz powierzchownymi zmianami na otrzewnej o śr. < 1 cm?",
-    "correctAnswear": 2
+    "question": "Który stopień endometriozy według klasyfikacji Amerykańskiego Towarzystwa Medycyny Rozrodu (American Society for Reproductive Medicine - ASRM) należy rozpoznać u pacjentki z torbielą endometrialną jajnika lewego o śr. 4 cm, częściową obliteracją zatoki Douglasa oraz powierzchownymi zmianami na otrzewnej o śr. < 1 cm?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 5",
@@ -56,7 +56,7 @@
     ],
     "id": "4",
     "question": "Najczęstszym powikłaniem w ciąży bliźniaczej jednoowodniowej jest:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 6",
@@ -68,8 +68,8 @@
       "wszystkie wymienione."
     ],
     "id": "5",
-    "question": "Do czynników obniżających płodność mężczyzn, poprzez hamowanie syntezytestosteronu w jądrach, należy:",
-    "correctAnswear": 4
+    "question": "Do czynników obniżających płodność mężczyzn, poprzez hamowanie syntezy testosteronu w jądrach, należy:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 7",
@@ -81,8 +81,8 @@
       "tylko po 32. tygodniu ciąży w ciąży pojedynczej."
     ],
     "id": "6",
-    "question": "Zakres prawidłowych wartości Indeksu Płynu Owodniowego (AFI - Amniotic Fluid Index)od 5 do 25 cm może być stosowany w odniesieniu do pacjentek:",
-    "correctAnswear": 1
+    "question": "Zakres prawidłowych wartości Indeksu Płynu Owodniowego (AFI - Amniotic Fluid Index) od 5 do 25 cm może być stosowany w odniesieniu do pacjentek:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 8",
@@ -95,14 +95,14 @@
     ],
     "id": "7",
     "question": "Wskazaniem do zakończenia ciąży cięciem cesarskim nie jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 9",
     "answers": ["1,2,3.", "1,3,5.", "2,4.", "3,4,5.", "wszystkie wymienione."],
     "id": "8",
     "question": "Na obraz położenia poprzecznego zaniedbanego składają się:\n1) zaklinowanie przodującego barku w płaszczyźnie wchodu;\n2) przedwczesne odpłynięcie płynu owodniowego;\n3) całkowite rozwarcie ujść macicy;\n4) nadmierne rozciągnięcie dolnego odcinka macicy;\n5) obkurczenie macicy na silnie zgiętym płodzie.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 10",
@@ -114,15 +114,15 @@
       "autoimmunologicznej choroby tarczycy."
     ],
     "id": "9",
-    "question": "Częstość występowania której z wymienionych chorób nie wzrasta w przypadkupacjentek z zespołem Turnera?",
-    "correctAnswear": 1
+    "question": "Częstość występowania której z wymienionych chorób nie wzrasta w przypadku pacjentek z zespołem Turnera?",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 11",
     "answers": ["1,2,3,4.", "1,3.", "1,2,4,5.", "1,3,5.", "2,3,4."],
     "id": "10",
     "question": "Do czynników ryzyka wystąpienia położenia poprzecznego płodu zalicza się:\n1) małowodzie;\n2) wielowodzie;\n3) łożysko przodujące;\n4) ciążę wielopłodową;\n5) ciążę pojedynczą.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 12",
@@ -134,8 +134,8 @@
       "defekt blizny myometrium po cięciu cesarskim."
     ],
     "id": "11",
-    "question": "35-letnia pacjentka zgłosiła się do poradni ginekologicznej z powodu śródcyklicznychkrwawień z dróg rodnych od około roku. Krwawienie ciemnobrązową krwiąrozpoczynało się około 11.-12. dnia cyklu i trwało 2-3 dni. Cykle co 30 dni. Dwa latawcześniej pacjentka przebyła cięcie cesarskie. Najbardziej prawdopodobną przyczynąkrwawień jest:",
-    "correctAnswear": 4
+    "question": "35-letnia pacjentka zgłosiła się do poradni ginekologicznej z powodu śródcyklicznych krwawień z dróg rodnych od około roku. Krwawienie ciemnobrązową krwią rozpoczynało się około 11.-12. dnia cyklu i trwało 2-3 dni. Cykle co 30 dni. Dwa lata wcześniej pacjentka przebyła cięcie cesarskie. Najbardziej prawdopodobną przyczyną krwawień jest:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 13",
@@ -147,22 +147,22 @@
       "oznaczenie stężenia folitropiny."
     ],
     "id": "12",
-    "question": "U pacjentki stwierdzono brak owulacji, trądzik oraz hirsutyzm, co może sugerowaćobecność zespołu policystycznych jajników. Dodatkowo jednak występują rozstępyskórne, bawoli kark i nadciśnienie tętnicze krwi, co pozwala rozpoznać zespółCushinga. W celu zróżnicowania wymienionych schorzeń należy wykonać:",
-    "correctAnswear": 1
+    "question": "U pacjentki stwierdzono brak owulacji, trądzik oraz hirsutyzm, co może sugerować obecność zespołu policystycznych jajników. Dodatkowo jednak występują rozstępy skórne, bawoli kark i nadciśnienie tętnicze krwi, co pozwala rozpoznać zespół Cushinga. W celu zróżnicowania wymienionych schorzeń należy wykonać:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 14",
     "answers": ["od 1 do 3.", "4.", "7.", "6.", "5."],
     "id": "13",
-    "question": "Któremu stopniowi wg klasyfikacji Quigley odpowiada zespół kompletnej niewrażliwościna androgeny (complete androgen insensitivity syndrome, CAIS)?",
-    "correctAnswear": 2
+    "question": "Któremu stopniowi wg klasyfikacji Quigley odpowiada zespół kompletnej niewrażliwości na androgeny (complete androgen insensitivity syndrome, CAIS)?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 15",
     "answers": ["1,2,5.", "1,2,3.", "1,2,3,5.", "tylko 2.", "3,4."],
     "id": "14",
-    "question": "Wskaż prawdziwe stwierdzenia dotyczące indukcji porodu:\n1) w przypadku cholestazy ciężarnych i stężenia kwasów tłuszczowych wynoszącego\n45 nmol/l należy rozważyć ukończenie ciąży po 34. tygodniu ciąży;\n2) w przypadku cukrzycy ciążowej indukcję porodu należy rozważyć po 39. tygodniu\nciąży;\n3) pęknięty pęcherz płodowy stanowi bezwzględne przeciwwskazanie do preindukcji\nporodu z zastosowaniem prostaglandyn;\n4) w przypadku cukrzycy przedciążowej indukcję porodu należy rozważyć po 39.\ntygodniu ciąży;\n5) w ciąży powikłanej cukrzycą indukcja porodu jest zalecana, gdy różnica między\nprzekątną brzucha płodu a wymiarem dwuciemieniowym główki płodu wynosi ponad 4cm.Prawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Wskaż prawdziwe stwierdzenia dotyczące indukcji porodu:\n1) w przypadku cholestazy ciężarnych i stężenia kwasów tłuszczowych wynoszącego\n45 nmol/l należy rozważyć ukończenie ciąży po 34. tygodniu ciąży;\n2) w przypadku cukrzycy ciążowej indukcję porodu należy rozważyć po 39. tygodniu\nciąży;\n3) pęknięty pęcherz płodowy stanowi bezwzględne przeciwwskazanie do preindukcji\nporodu z zastosowaniem prostaglandyn;\n4) w przypadku cukrzycy przedciążowej indukcję porodu należy rozważyć po 39.\ntygodniu ciąży;\n5) w ciąży powikłanej cukrzycą indukcja porodu jest zalecana, gdy różnica między\nprzekątną brzucha płodu a wymiarem dwuciemieniowym główki płodu wynosi ponad 4 cm. Prawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 16",
@@ -175,7 +175,7 @@
     ],
     "id": "15",
     "question": "Wskazaniem do elektywnego cięcia cesarskiego w ciąży bliźniaczej nie jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 17",
@@ -187,8 +187,8 @@
       "dostęp laparoskopowy."
     ],
     "id": "16",
-    "question": "Który z wymienionych dostępów operacyjnych charakteryzuje niewidoczna blizna,korzystniejsze gojenie u kobiet otyłych, bardzo ograniczone pole widzenia?",
-    "correctAnswear": 3
+    "question": "Który z wymienionych dostępów operacyjnych charakteryzuje niewidoczna blizna, korzystniejsze gojenie u kobiet otyłych, bardzo ograniczone pole widzenia?",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 18",
@@ -201,7 +201,7 @@
     ],
     "id": "17",
     "question": "Niewydolność cieśniowo-szyjkowa w wywiadzie jest wskazaniem do:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 19",
@@ -213,8 +213,8 @@
       "ablacja łożyska."
     ],
     "id": "18",
-    "question": "Wskazaniem bezwzględnym do pierwotnego cięcia cesarskiego w położeniumiednicowym nie jest:",
-    "correctAnswear": 0
+    "question": "Wskazaniem bezwzględnym do pierwotnego cięcia cesarskiego w położeniu miednicowym nie jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 20",
@@ -227,14 +227,14 @@
     ],
     "id": "19",
     "question": "W diagnostyce hiperandrogenizmu u 25-letniej kobiety wykorzystuje się oznaczanie:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 21",
     "answers": ["1,2,4,5.", "1,3,4,5.", "1,2,3,4.", "1,2,3,5.", "3,4,5."],
     "id": "20",
     "question": "Nieleczona niedokrwistość z niedoboru żelaza u kobiet ciężarnych może być przyczyną:\n1) zahamowania wewnątrzmacicznego wzrostu płodu;\n2) porodu przedwczesnego;\n3) wydłużenia czasu trwania ciąży;\n4) wad rozwojowych;\n5) przedłużającego się porodu.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 22",
@@ -247,7 +247,7 @@
     ],
     "id": "21",
     "question": "Do czynników wysokiego ryzyka rozwoju cukrzycy ciążowej należą:\n1) otyłość ciężarnej (BMI > 30);\n2) cukrzyca w rodzinie w pierwszym stopniu pokrewieństwa;\n3) masa urodzeniowa noworodków w poprzednich ciążach > 4000 g;\n4) wiek ciężarnej < 25 lat;\n5) nieobciążony wywiad położniczy.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 23",
@@ -260,7 +260,7 @@
     ],
     "id": "22",
     "question": "Do charakterystycznych objawów raka szyjki macicy nie należą:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 24",
@@ -273,7 +273,7 @@
     ],
     "id": "23",
     "question": "Do nieprawidłowości w ułożeniu główki w czasie porodu nie należy:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 25",
@@ -285,8 +285,8 @@
       "16-18 tydzień ciąży."
     ],
     "id": "24",
-    "question": "W którym tygodniu ciąży podjednostka β-hCG osiąga najwyższe stężenie we krwiciężarnej?",
-    "correctAnswear": 2
+    "question": "W którym tygodniu ciąży podjednostka β-hCG osiąga najwyższe stężenie we krwi ciężarnej?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 26",
@@ -299,14 +299,14 @@
     ],
     "id": "25",
     "question": "Cechą charakterystyczną guzów granicznych jajnika jest:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 27",
     "answers": ["1,3,5.", "2,3,5.", "2,3,4.", "1,4,5.", "4,5."],
     "id": "26",
-    "question": "Podanie specyficznej immunoglobuliny jest niezbędne w przypadku kontaktu kobietyciężarnej, która wcześniej nie chorowała bądź nie była szczepiona, z chorymzakażonym wirusem:\n1) wzw typu B;\n2) CMV;\n3) choroby piątej;\n4) różyczki;\n5) ospy wietrznej.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Podanie specyficznej immunoglobuliny jest niezbędne w przypadku kontaktu kobiety ciężarnej, która wcześniej nie chorowała bądź nie była szczepiona, z chorym zakażonym wirusem:\n1) wzw typu B;\n2) CMV;\n3) choroby piątej;\n4) różyczki;\n5) ospy wietrznej.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 28",
@@ -318,15 +318,15 @@
       "żadne z powyższych."
     ],
     "id": "27",
-    "question": "Mikroskopowa ocena materiału pobranego z tarczy części pochwowej i kanału szyjkimacicy, zwana cytologią, służy do rozpoznawania stanów przedrakowych i raka szyjkimacicy. W przypadku uzyskania nieprawidłowego wyniku cytologii - HSIL (high-gradesquamous intraepithelial lesion) - śródnabłonkowe zmiany dysplastyczne dużegostopnia, prawidłowym postępowaniem jest:",
-    "correctAnswear": 1
+    "question": "Mikroskopowa ocena materiału pobranego z tarczy części pochwowej i kanału szyjki macicy, zwana cytologią, służy do rozpoznawania stanów przedrakowych i raka szyjki macicy. W przypadku uzyskania nieprawidłowego wyniku cytologii - HSIL (high-grade squamous intraepithelial lesion) - śródnabłonkowe zmiany dysplastyczne dużego stopnia, prawidłowym postępowaniem jest:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 29",
     "answers": ["IA.", "IB.", "II.", "IIIA.", "IIIB."],
     "id": "28",
-    "question": "64-letnia, otyła pacjentka zgłosiła się z objawami pomenopauzalnego krwawienia z drógrodnych. Pobrano rozmaz cytologiczny oraz wykonano przezpochwowe badanieultrasonograficzne, w trakcie którego stwierdzono przerost endometrium. Wykonanobiopsję błony śluzowej i uzyskano wynik badania histopatologicznego - gruczolakorak.Wynik badania cytologicznego był prawidłowy. Wykonano całkowite wycięcie macicy zprzydatkami oraz sampling węzłów chłonnych. W badaniu pooperacyjnym stwierdzonoobecność komórek gruczolakoraka w obrębie macicy (bez cech naciekaniasurowicówki) oraz kanału szyjki macicy w okolicy ujścia wewnętrznego, nie stwierdzonocech naciekania przydatków oraz nie wykazano przerzutów do węzłów chłonnych.Wskaż zaawansowanie nowotworu wg klasyfikacji FIGO:",
-    "correctAnswear": 2
+    "question": "64-letnia, otyła pacjentka zgłosiła się z objawami pomenopauzalnego krwawienia z dróg rodnych. Pobrano rozmaz cytologiczny oraz wykonano przezpochwowe badanie ultrasonograficzne, w trakcie którego stwierdzono przerost endometrium. Wykonano biopsję błony śluzowej i uzyskano wynik badania histopatologicznego - gruczolakorak. Wynik badania cytologicznego był prawidłowy. Wykonano całkowite wycięcie macicy z przydatkami oraz sampling węzłów chłonnych. W badaniu pooperacyjnym stwierdzono obecność komórek gruczolakoraka w obrębie macicy (bez cech naciekania surowicówki) oraz kanału szyjki macicy w okolicy ujścia wewnętrznego, nie stwierdzono cech naciekania przydatków oraz nie wykazano przerzutów do węzłów chłonnych. Wskaż zaawansowanie nowotworu wg klasyfikacji FIGO:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 30",
@@ -339,7 +339,7 @@
     ],
     "id": "29",
     "question": "Do przyczyn występowania niewydolności cieśniowo-szyjkowej zalicza się:\n1) zaburzenia wrodzone;\n2) urazy szyjki macicy;\n3) stan po konizacji szyjki macicy;\n4) ciążę wielopłodową.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 31",
@@ -351,27 +351,27 @@
       "zespół samych komórek Sertoliego."
     ],
     "id": "30",
-    "question": "Mężczyzna lat 25 o prawidłowym fenotypie męskim jest diagnozowany z powoduniepłodności. Oprócz obniżonej liczby plemników w ejakulacie stwierdzono u niegoginekomastię, a w badaniach laboratoryjnych obniżone stężenie folitropiny, przypodwyższonym stężeniu testosteronu. Najbardziej prawdopodobną przyczynąpowyższych zmian jest:",
-    "correctAnswear": 2
+    "question": "Mężczyzna lat 25 o prawidłowym fenotypie męskim jest diagnozowany z powodu niepłodności. Oprócz obniżonej liczby plemników w ejakulacie stwierdzono u niego ginekomastię, a w badaniach laboratoryjnych obniżone stężenie folitropiny, przy podwyższonym stężeniu testosteronu. Najbardziej prawdopodobną przyczyną powyższych zmian jest:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 32",
     "answers": ["1%.", "5%.", "10%.", "30%.", "50%."],
     "id": "31",
-    "question": "Jaki odsetek pacjentek z rozpoznanym rakiem jajnika jest nosicielem mutacjigerminalnej BRCA1/BRCA2?",
-    "correctAnswear": 2
+    "question": "Jaki odsetek pacjentek z rozpoznanym rakiem jajnika jest nosicielem mutacji germinalnej BRCA1/BRCA2?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 33",
     "answers": ["tylko 1.", "tylko 2.", "tylko 3.", "1,3,4,5.", "1,2,4,5."],
     "id": "32",
     "question": "U kobiety ciężarnej będącej wegetarianką należy spodziewać się niedoboru witaminy:\n1) B ;\n2) B ;\n3) D;\n4) C;\n5) E.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 34",
     "answers": [
-      "8-9 lat. 2 12",
+      "8-9 lat.",
       "9-16 lat.",
       "16-17 lat.",
       ">18 lat.",
@@ -379,7 +379,7 @@
     ],
     "id": "33",
     "question": "Prawidłowy wiek wystąpienia menarche w Polsce określa się na:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 35",
@@ -392,7 +392,7 @@
     ],
     "id": "34",
     "question": "Infekcja wewnątrzmaciczna nie może spowodować:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 36",
@@ -405,7 +405,7 @@
     ],
     "id": "35",
     "question": "Wskaż fałszywe stwierdzenie dotyczące hiperprolaktynemii:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 37",
@@ -417,15 +417,15 @@
       "10/10 punktów."
     ],
     "id": "36",
-    "question": "Ciężarna, lat 33, w 37. tygodniu drugiej ciąży zgłosiła się do poradni położniczoginekologicznejz powodu słabszego odczuwania ruchów płodu. Przebieg poprzedniejciąży bez powikłań. W poradni wykonano badanie kardiotokograficzne - wynikreaktywny. Następnie wykonano w usg badanie profilu biofizycznego płodu, w trakciektórego stwierdzono normowodzie, 1 epizod ruchów oddechowych trwający 60 sekund,3 ruchy tułowia płodu oraz dwukrotne zaciśnięcie i otworzenie dłoni. Wynik badaniaprofilu biofizycznego to:",
-    "correctAnswear": 4
+    "question": "Ciężarna, lat 33, w 37. tygodniu drugiej ciąży zgłosiła się do poradni położniczoginekologicznej z powodu słabszego odczuwania ruchów płodu. Przebieg poprzedniej ciąży bez powikłań. W poradni wykonano badanie kardiotokograficzne - wynik reaktywny. Następnie wykonano w usg badanie profilu biofizycznego płodu, w trakcie którego stwierdzono normowodzie, 1 epizod ruchów oddechowych trwający 60 sekund, 3 ruchy tułowia płodu oraz dwukrotne zaciśnięcie i otworzenie dłoni. Wynik badania profilu biofizycznego to:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 38",
     "answers": ["1,2,3.", "1,2,3,4.", "1,2,4,5.", "1,2,5.", "3,4,5."],
     "id": "37",
     "question": "Wskazaniami do inseminacji są:\n1) obniżone parametry nasienia;\n2) zaburzenia ejakulacji;\n3) PCOS;\n4) endometrioza III stopnia;\n5) niepłodność idiopatyczna.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 39",
@@ -437,8 +437,8 @@
       "wypisać pacjentkę do domu informując, że ból związany jest najprawdopodobniej z owulacją."
     ],
     "id": "38",
-    "question": "Jeśli u pacjentki leczonej z powodu ciąży ektopowej ok. 2-3 dni po podaniumetotreksatu pojawia się ból podbrzusza to należy:",
-    "correctAnswear": 3
+    "question": "Jeśli u pacjentki leczonej z powodu ciąży ektopowej ok. 2-3 dni po podaniu metotreksatu pojawia się ból podbrzusza to należy:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 40",
@@ -450,8 +450,8 @@
       "prawidłowe jajniki."
     ],
     "id": "39",
-    "question": "U osób z zespołem Turnera (kariotyp 45,X) w obrębie narządów płciowych u jednegoosobnika obserwuje się:",
-    "correctAnswear": 0
+    "question": "U osób z zespołem Turnera (kariotyp 45,X) w obrębie narządów płciowych u jednego osobnika obserwuje się:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 41",
@@ -463,8 +463,8 @@
       "występują co 21 dni i są skąpe."
     ],
     "id": "40",
-    "question": "U kobiet stosujących dwufazową antykoncepcję hormonalną typowe krwawieniamiesiączkowe są:",
-    "correctAnswear": 1
+    "question": "U kobiet stosujących dwufazową antykoncepcję hormonalną typowe krwawienia miesiączkowe są:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 42",
@@ -477,7 +477,7 @@
     ],
     "id": "41",
     "question": "Wskaż prawdziwe stwierdzenie dotyczące tętnicy macicznej:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 43",
@@ -489,8 +489,8 @@
       "która ma grupę krwi RhD ujemną, 300 μg immunoglobuliny anty-RhD po 34. tygodniu ciąży."
     ],
     "id": "42",
-    "question": "Śródciążowa profilaktyka konfliktu serologicznego obejmuje podanie każdej kobiecieciężarnej:",
-    "correctAnswear": 0
+    "question": "Śródciążowa profilaktyka konfliktu serologicznego obejmuje podanie każdej kobiecie ciężarnej:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 44",
@@ -503,7 +503,7 @@
     ],
     "id": "43",
     "question": "Który z wymienionych stanów w trakcie ciąży wymaga szybkiego ukończenia ciąży?",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 45",
@@ -515,8 +515,8 @@
       "odwrócony sposób praski."
     ],
     "id": "44",
-    "question": "W porodzie drogami natury z położenia podłużnego miednicowego sposobem pomocyręcznej wytoczenia barków płodu jest:",
-    "correctAnswear": 0
+    "question": "W porodzie drogami natury z położenia podłużnego miednicowego sposobem pomocy ręcznej wytoczenia barków płodu jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 46",
@@ -528,8 +528,8 @@
       "wszystkie wyżej wymienione."
     ],
     "id": "45",
-    "question": "Które z podanych kryteriów diagnostycznych przemawiają za rozpoznaniem zespołuantyfosfolipidowego?",
-    "correctAnswear": 4
+    "question": "Które z podanych kryteriów diagnostycznych przemawiają za rozpoznaniem zespołu antyfosfolipidowego?",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 47",
@@ -541,8 +541,8 @@
       "fluoksetyna."
     ],
     "id": "46",
-    "question": "Spośród wymienionych jedynym lekiem zarejestrowanym do leczenia wysiłkowegonietrzymania moczu jest:",
-    "correctAnswear": 2
+    "question": "Spośród wymienionych jedynym lekiem zarejestrowanym do leczenia wysiłkowego nietrzymania moczu jest:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 48",
@@ -555,21 +555,21 @@
     ],
     "id": "47",
     "question": "W ocenie stanu szyjki macicy wg skali Bishopa nie uwzględnia się:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 49",
     "answers": ["1,4.", "1,2,4.", "2,3,5.", "1,3.", "tylko 1."],
     "id": "48",
-    "question": "2Wskaż leki, których stosowanie w ciąży jest bezpieczne:\n1) związki glinu w terapii refluksu żołądkowo-przełykowego;\n2) niesteroidowe leki przeciwzapalne z grupy nieselektywnych inhibitorów\ncyklooksygenazy;\n3) nystatyna w terapii chorób infekcyjnych;\n4) nitrofurantoina i furazydyna w leczeniu zakażeń układu moczowego;\n5) inhibitory konwertazy angiotensyny w leczeniu nadciśnienia tętniczego.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "2 Wskaż leki, których stosowanie w ciąży jest bezpieczne:\n1) związki glinu w terapii refluksu żołądkowo-przełykowego;\n2) niesteroidowe leki przeciwzapalne z grupy nieselektywnych inhibitorów\ncyklooksygenazy;\n3) nystatyna w terapii chorób infekcyjnych;\n4) nitrofurantoina i furazydyna w leczeniu zakażeń układu moczowego;\n5) inhibitory konwertazy angiotensyny w leczeniu nadciśnienia tętniczego.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 50",
     "answers": ["1,3.", "1,5.", "1,3,5.", "2,3,4.", "2,3,5."],
     "id": "49",
     "question": "Bakteryjna waginoza:\n1) u większości kobiet przebiega bezobjawowo, natomiast w przypadkach objawowych\nobserwuje się szarą lub białawą, homogenną wydzielinę z pochwy;\n2) jest związana z dysurią i dyspareunią;\n3) jest diagnozowana na podstawie zgłaszanego przez pacjentkę „rybiego” zapachu\nnasilającego się po stosunku;\n4) jest związana ze wzrostem liczby pałeczek kwasu mlekowego;\n5) charakteryzuje się obecnością komórek jeżowych („clue cells”) w rozmazie.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 51",
@@ -581,8 +581,8 @@
       "zespołu policystycznych jajników."
     ],
     "id": "50",
-    "question": "W grupie dziewcząt bez cech rozwoju gruczołów piersiowych należy oznaczyć stężeniegonadotropin w celu wykluczenia:",
-    "correctAnswear": 1
+    "question": "W grupie dziewcząt bez cech rozwoju gruczołów piersiowych należy oznaczyć stężenie gonadotropin w celu wykluczenia:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 52",
@@ -594,15 +594,15 @@
       "nadciśnienie płucne."
     ],
     "id": "51",
-    "question": "Bezwzględnym przeciwwskazaniem do operacji laparoskopowej w ginekologii niejest:",
-    "correctAnswear": 3
+    "question": "Bezwzględnym przeciwwskazaniem do operacji laparoskopowej w ginekologii nie jest:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 53",
     "answers": ["1,2,3,5.", "2,3,4,5.", "3,4,5.", "4,5.", "tylko 5."],
     "id": "52",
     "question": "Ciąża ektopowa to pojęcie, które można zastosować w przypadkach:\n1) ciąży bańkowej;\n2) ciąży brzusznej;\n3) ciąży rogowej;\n4) ciąży wewnątrzmacicznej;\n5) ciąży w bliźnie po cięciu cesarskim.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 54",
@@ -614,15 +614,15 @@
       "poronienie zatrzymane, wdrożenie leczenia progesteronem dopochwowo."
     ],
     "id": "53",
-    "question": "U 25-letniej pacjentki w 8. tygodniu ciąży stwierdzono krwawienie z dróg rodnych, bólepodbrzusza, w badaniu ginekologicznym skrócenie szyjki macicy z rozwartym ujściemwewnętrznym, w którym widoczne są elementy jaja płodowego. Wskaż rozpoznanie ipostępowanie z wyboru:",
-    "correctAnswear": 1
+    "question": "U 25-letniej pacjentki w 8. tygodniu ciąży stwierdzono krwawienie z dróg rodnych, bóle podbrzusza, w badaniu ginekologicznym skrócenie szyjki macicy z rozwartym ujściem wewnętrznym, w którym widoczne są elementy jaja płodowego. Wskaż rozpoznanie i postępowanie z wyboru:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 55",
     "answers": ["wszystkie wymienione.", "2,4.", "1,2,3.", "2,3,4.", "3,4."],
     "id": "54",
     "question": "Wskaż prawdziwe stwierdzenia dotyczące fizjologii męskiego układu płciowego:\n1) cykl nabłonka plemnikotwórczego trwa około 74 dni;\n2) w jądrach u mężczyzny FSH działa głównie na komórki Sertolego, a LH głównie na\nkomórki Leydiga;\n3) na skutek stymulacji gonadotropinami, komórki Leydiga produkują testosteron;\n4) estrogeny nie uczestniczą w regulacji funkcji układu płciowego męskiego.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 56",
@@ -635,7 +635,7 @@
     ],
     "id": "55",
     "question": "Określenie menarche oznacza:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 57",
@@ -647,15 +647,15 @@
       "przyjmowanie progestagenów w drugiej fazie cyklu."
     ],
     "id": "56",
-    "question": "Podstawowe zalecenie dla kobiety z zespołem policystycznych jajników, BMI > 27,nieregularnymi cyklami miesiączkowania i niepłodnością to:",
-    "correctAnswear": 0
+    "question": "Podstawowe zalecenie dla kobiety z zespołem policystycznych jajników, BMI > 27, nieregularnymi cyklami miesiączkowania i niepłodnością to:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 58",
     "answers": ["1,2,3.", "1,5.", "3,4,5.", "4,5.", "1,3,4."],
     "id": "57",
-    "question": "Wskaż prawdziwe stwierdzenia dotyczące skriningu schorzeń nowotworowych żeńskichnarządów płciowych:\n1) skrining w kierunku raka pochwy i sromu nie jest prowadzony ze względu na małe\nrozpowszechnienie chorób w populacji;\n2) skrining w kierunku raka endometrium nie jest prowadzony, gdyż pierwsze objawy w\npostaci krwawienia z macicy są łatwo zauważane przez kobiety i zgłaszane lekarzowi;\n3) skrining w kierunku nowotworów nienabłonkowych jajnika, trzonu macicy i pochwy\nnie jest prowadzony ze względu na rzadkość występowania tych schorzeń;\n4) skrining w kierunku raka jajnika jest prowadzony i obejmuje badanie\nultrasonograficzne oraz oznaczenie markerów: CA 125, HE 4 (human epididymisprotein 4) oraz gonadotropinę kosmówkową;\n5) skrining w kierunku raka szyjki macicy jest prowadzony i obejmuje test cytologiczny,\nktórego czułość wynosi w najlepszych ośrodkach 85-90%.Prawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "question": "Wskaż prawdziwe stwierdzenia dotyczące skriningu schorzeń nowotworowych żeńskich narządów płciowych:\n1) skrining w kierunku raka pochwy i sromu nie jest prowadzony ze względu na małe\nrozpowszechnienie chorób w populacji;\n2) skrining w kierunku raka endometrium nie jest prowadzony, gdyż pierwsze objawy w\npostaci krwawienia z macicy są łatwo zauważane przez kobiety i zgłaszane lekarzowi;\n3) skrining w kierunku nowotworów nienabłonkowych jajnika, trzonu macicy i pochwy\nnie jest prowadzony ze względu na rzadkość występowania tych schorzeń;\n4) skrining w kierunku raka jajnika jest prowadzony i obejmuje badanie\nultrasonograficzne oraz oznaczenie markerów: CA 125, HE 4 (human epididymis protein 4) oraz gonadotropinę kosmówkową;\n5) skrining w kierunku raka szyjki macicy jest prowadzony i obejmuje test cytologiczny,\nktórego czułość wynosi w najlepszych ośrodkach 85-90%. Prawidłowa odpowiedź to:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 59",
@@ -667,8 +667,8 @@
       "wszystkie wymienione."
     ],
     "id": "58",
-    "question": "Które z wymienionych chorób serca u ciężarnej są bezwzględnym wskazaniem dorozwiązania drogą cięcia cesarskiego?\n1) ASD bez korekcji;\n2) VSD bez korekcji;\n3) koarktacja aorty bez korekcji;\n4) zespół Marfana.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Które z wymienionych chorób serca u ciężarnej są bezwzględnym wskazaniem do rozwiązania drogą cięcia cesarskiego?\n1) ASD bez korekcji;\n2) VSD bez korekcji;\n3) koarktacja aorty bez korekcji;\n4) zespół Marfana.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 60",
@@ -680,8 +680,8 @@
       "uwięźnięcia łożyska."
     ],
     "id": "59",
-    "question": "Krwotok, silny ból w podbrzuszu, brak wyczuwalnego dna macicy powyżej spojeniałonowego oraz szybko pogarszający się stan ogólny pacjentki w III okresie porodu toobjawy:",
-    "correctAnswear": 0
+    "question": "Krwotok, silny ból w podbrzuszu, brak wyczuwalnego dna macicy powyżej spojenia łonowego oraz szybko pogarszający się stan ogólny pacjentki w III okresie porodu to objawy:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 61",
@@ -694,7 +694,7 @@
     ],
     "id": "60",
     "question": "Jaka jest rola estrogenów w tabletce antykoncepcyjnej estrogenowo-gestagenowej?",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 62",
@@ -706,15 +706,15 @@
       "ropień gruczołu przedsionkowego większego, naciąć go i zdrenować."
     ],
     "id": "61",
-    "question": "U 34-letniej pacjentki ok. 3 miesiące po porodzie drogami natury wystąpił nagły bólsromu, pacjentka podała, że nie może siadać, a przy próbie siadania czuje opór poprawej stronie. W aspekcie zgłaszanych objawów należy rozpoznać:",
-    "correctAnswear": 4
+    "question": "U 34-letniej pacjentki ok. 3 miesiące po porodzie drogami natury wystąpił nagły ból sromu, pacjentka podała, że nie może siadać, a przy próbie siadania czuje opór po prawej stronie. W aspekcie zgłaszanych objawów należy rozpoznać:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 63",
     "answers": ["1,4.", "2,5.", "3,5.", "4,5.", "4,6."],
     "id": "62",
     "question": "W ocenie dojrzałości dziewcząt w okresie pokwitania wykorzystuje się:\n1) skalę Bishopa;\n2) skalę Nugenta;\n3) skalę POP-Q;\n4) stadia Tannera;\n5) klasyfikację TBS;\n6) kryteria Lauritzena.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 64",
@@ -726,8 +726,8 @@
       "średnicy pęcherzyka ciążowego (GS)."
     ],
     "id": "63",
-    "question": "W badaniu ultrasonograficznym płodu wykonywanym między 11. a 13. tygodniem ciążynajdokładniejszą metodą oceny czasu trwania ciąży jest pomiar:",
-    "correctAnswear": 3
+    "question": "W badaniu ultrasonograficznym płodu wykonywanym między 11. a 13. tygodniem ciąży najdokładniejszą metodą oceny czasu trwania ciąży jest pomiar:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 65",
@@ -739,8 +739,8 @@
       "zmniejszenie libido."
     ],
     "id": "64",
-    "question": "Do objawów ubocznych leczenia zespołu napięcia przedmiesiączkowego selektywnymimodulatorami zwrotnego wychwytu serotoniny należy:",
-    "correctAnswear": 4
+    "question": "Do objawów ubocznych leczenia zespołu napięcia przedmiesiączkowego selektywnymi modulatorami zwrotnego wychwytu serotoniny należy:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 66",
@@ -753,7 +753,7 @@
     ],
     "id": "65",
     "question": "Terminem azoospermia określa się:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 67",
@@ -765,8 +765,8 @@
       "ciążę dwupłodową, dwukosmówkową, jednoowodniową."
     ],
     "id": "66",
-    "question": "W badaniu USG w 6. tygodniu ciąży stwierdzono współistnienie dwóch płodów ijednego pęcherzyka żółtkowego. Na tej podstawie stwierdzono:",
-    "correctAnswear": 1
+    "question": "W badaniu USG w 6. tygodniu ciąży stwierdzono współistnienie dwóch płodów i jednego pęcherzyka żółtkowego. Na tej podstawie stwierdzono:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 68",
@@ -778,8 +778,8 @@
       "wszystkie wymienione."
     ],
     "id": "67",
-    "question": "Do czynników zwiększających ryzyko wystąpienia niepowściągliwych wymiotówciężarnych należą:\n1) palenie papierosów;\n2) bulimia;\n3) otyłość;\n4) ciąża u nieródki;\n5) zaburzenia metabolizmu lipidów.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Do czynników zwiększających ryzyko wystąpienia niepowściągliwych wymiotów ciężarnych należą:\n1) palenie papierosów;\n2) bulimia;\n3) otyłość;\n4) ciąża u nieródki;\n5) zaburzenia metabolizmu lipidów.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 69",
@@ -791,15 +791,15 @@
       "zawał serca."
     ],
     "id": "68",
-    "question": "U pacjentki w stanie przedrzucawkowym po podaniu hydralazyny i siarczanu magnezunagle pojawiła się niewydolność oddechowa. Jej prawdopodobną przyczyną jest:",
-    "correctAnswear": 2
+    "question": "U pacjentki w stanie przedrzucawkowym po podaniu hydralazyny i siarczanu magnezu nagle pojawiła się niewydolność oddechowa. Jej prawdopodobną przyczyną jest:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 70",
     "answers": ["1,2,3.", "4,5.", "1,2.", "1,2,4.", "wszystkie wymienione."],
     "id": "69",
     "question": "Badanie zewnętrzne kobiety rodzącej wykonuje się przy pomocy:\n1) pierwszego chwytu Leopolda;\n2) miednicomierza;\n3) piątego chwytu Leopolda;\n4) manewru McRobertsa;\n5) manewru Brachta.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 71",
@@ -811,8 +811,8 @@
       "sterylizacja."
     ],
     "id": "70",
-    "question": "Pacjentka lat 42, zgłosiła się do ginekologa w celu porady antykoncepcyjnej. Pali do 5papierosów dziennie i leczy się na nadciśnienie tętnicze. Miesiączki obfite, trwające do7 dni. Jaka będzie najwłaściwsza metoda antykoncepcyjna?",
-    "correctAnswear": 3
+    "question": "Pacjentka lat 42, zgłosiła się do ginekologa w celu porady antykoncepcyjnej. Pali do 5 papierosów dziennie i leczy się na nadciśnienie tętnicze. Miesiączki obfite, trwające do 7 dni. Jaka będzie najwłaściwsza metoda antykoncepcyjna?",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 72",
@@ -824,15 +824,15 @@
       "płuc."
     ],
     "id": "71",
-    "question": "W okresie ostatnich 5 lat (2010-2014) najczęściej występującym nowotworem złośliwymw populacji polskich kobiet był rak:",
-    "correctAnswear": 0
+    "question": "W okresie ostatnich 5 lat (2010-2014) najczęściej występującym nowotworem złośliwym w populacji polskich kobiet był rak:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 73",
     "answers": ["1,3.", "2,4.", "2,5.", "2,3.", "3,5."],
     "id": "72",
-    "question": "Prawidłowy kardiotokograficzny test niestresowy w ciąży charakteryzuje się międzyinnymi:\n1) podstawową czynnością serca płodu - 100/min;\n2) podstawową czynnością serca płodu - 150/min;\n3) skaczącą zmiennością czynności serca płodu;\n4) brakiem akceleracji;\n5) brakiem deceleracji.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Prawidłowy kardiotokograficzny test niestresowy w ciąży charakteryzuje się między innymi:\n1) podstawową czynnością serca płodu - 100/min;\n2) podstawową czynnością serca płodu - 150/min;\n3) skaczącą zmiennością czynności serca płodu;\n4) brakiem akceleracji;\n5) brakiem deceleracji.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 74",
@@ -844,8 +844,8 @@
       "pęknięciem torbieli jajnika."
     ],
     "id": "73",
-    "question": "28-letnia kobieta, dotychczas miesiączkująca co około 35 dni, zgłasza się do izbyprzyjęć szpitala z bólami w podbrzuszu i plamieniem z dróg rodnych, utrzymującym sięod 3 dni. Ostatnia miesiączka około 45 dni temu. Dodatkowo podaje częstomocz itkliwość piersi. Z jakim rozpoznaniem należy się liczyć w pierwszej kolejności?",
-    "correctAnswear": 2
+    "question": "28-letnia kobieta, dotychczas miesiączkująca co około 35 dni, zgłasza się do izby przyjęć szpitala z bólami w podbrzuszu i plamieniem z dróg rodnych, utrzymującym się od 3 dni. Ostatnia miesiączka około 45 dni temu. Dodatkowo podaje częstomocz i tkliwość piersi. Z jakim rozpoznaniem należy się liczyć w pierwszej kolejności?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 75",
@@ -857,15 +857,15 @@
       "wszystkie wymienione."
     ],
     "id": "74",
-    "question": "Do przeciwwskazań bezwzględnych do stosowania dwuskładnikowych hormonalnychtabletek antykoncepcyjnych należą:\n1) palenie tytoniu w wieku powyżej 35 lat;\n2) ciąża lub niewykluczona możliwość ciąży;\n3) migrenowe bóle głowy;\n4) wypadanie płatka zastawki mitralnej;\n5) nowotwory estrogenozależne.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Do przeciwwskazań bezwzględnych do stosowania dwuskładnikowych hormonalnych tabletek antykoncepcyjnych należą:\n1) palenie tytoniu w wieku powyżej 35 lat;\n2) ciąża lub niewykluczona możliwość ciąży;\n3) migrenowe bóle głowy;\n4) wypadanie płatka zastawki mitralnej;\n5) nowotwory estrogenozależne.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 76",
     "answers": ["1,2.", "3,4.", "2,5.", "1,2,5.", "1,3,5."],
     "id": "75",
     "question": "Wskaż prawdziwe stwierdzenia dotyczące poronień zagrażających:\n1) obecne jest zwykle niebolesne krwawienie z dróg rodnych;\n2) w badaniu ginekologicznym stwierdza się sformowaną część pochwową szyjki\nmacicy;\n3) w badaniu ginekologicznym część pochwowa szyjki macicy jest drożna dla palca;\n4) w badaniu we wzierniku widoczne są elementy jaja płodowego;\n5) postępowaniem z wyboru jest terapia zachowawcza.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 77",
@@ -877,8 +877,8 @@
       "w ciąży pojedynczej nie dochodzi do zmian objętości krwi krążącej u ciężarnej."
     ],
     "id": "76",
-    "question": "W następstwie zmian fizjologicznych w układzie krążenia ciężarnej kobiety, w ciążypojedynczej dochodzi do zwiększenia objętości krwi krążącej maksymalnie nawet o:",
-    "correctAnswear": 3
+    "question": "W następstwie zmian fizjologicznych w układzie krążenia ciężarnej kobiety, w ciąży pojedynczej dochodzi do zwiększenia objętości krwi krążącej maksymalnie nawet o:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 78",
@@ -891,7 +891,7 @@
     ],
     "id": "77",
     "question": "Do czynników ryzyka wystąpienia zespołu hiperstymulacji jajników u pacjentki należy:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 79",
@@ -904,7 +904,7 @@
     ],
     "id": "78",
     "question": "Do objawów związanych z obecnością mięśniaków macicy nie należy/ą:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 80",
@@ -917,7 +917,7 @@
     ],
     "id": "79",
     "question": "Wskaż prawdziwe stwierdzenia dotyczące testu oksytocynowego:\n1) należy do testów stresowych;\n2) jest testem biofizycznym oceniającym wydolność łożyska;\n3) wynik pozytywny stwierdza się na podstawie obecności deceleracji późnych po co\nnajmniej połowie skurczów;\n4) jest testem stosowanym z wyboru u ciężarnych z łożyskiem przodującym.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 81",
@@ -930,7 +930,7 @@
     ],
     "id": "80",
     "question": "Wskaż fałszywe stwierdzenie dotyczące infekcji HPV:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 82",
@@ -942,15 +942,15 @@
       "długotrwałe stosowanie antykoncepcji hormonalnej zwiększa ryzyko zachorowania."
     ],
     "id": "81",
-    "question": "Wskaż prawdziwe stwierdzenie dotyczące czynników ryzyka zachorowania na rakajajnika:",
-    "correctAnswear": 1
+    "question": "Wskaż prawdziwe stwierdzenie dotyczące czynników ryzyka zachorowania na raka jajnika:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 83",
     "answers": ["1,2,4,5.", "2,3,4,5.", "4,5.", "tylko 5.", "1,5."],
     "id": "82",
-    "question": "Rutynowe badanie seminologiczne stanowi podstawowy element oceny czynnikamęskiego jako przyczyny niepłodności. Poniżej przedstawiono wartości ocenymikroskopowej nasienia:\n1) objętość od 1,5-6 ml;\n2) koncentracja plemników > 15 mln/ml;\n3) żywotność >38% plemników żywych;\n4) ruchliwość A i B >32%;\n5) >4% plemników o prawidłowej budowie.\nWskaż parametry prawidłowe (normospermii) wg norm WHO z 2010 r.:",
-    "correctAnswear": 0
+    "question": "Rutynowe badanie seminologiczne stanowi podstawowy element oceny czynnika męskiego jako przyczyny niepłodności. Poniżej przedstawiono wartości oceny mikroskopowej nasienia:\n1) objętość od 1,5-6 ml;\n2) koncentracja plemników > 15 mln/ml;\n3) żywotność >38% plemników żywych;\n4) ruchliwość A i B >32%;\n5) >4% plemników o prawidłowej budowie.\nWskaż parametry prawidłowe (normospermii) wg norm WHO z 2010 r.:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 84",
@@ -962,8 +962,8 @@
       "wszystkich wymienionych."
     ],
     "id": "83",
-    "question": "U pacjentek z zespołem policystycznych jajników obserwuje się zwiększone ryzykowystąpienia:",
-    "correctAnswear": 4
+    "question": "U pacjentek z zespołem policystycznych jajników obserwuje się zwiększone ryzyko wystąpienia:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 85",
@@ -976,7 +976,7 @@
     ],
     "id": "84",
     "question": "Wskaż prawidłowy opis wpływu gonadotropiny kosmówkowej na czynność tarczycy:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 86",
@@ -989,7 +989,7 @@
     ],
     "id": "85",
     "question": "Przeciwwskazaniem do pożycia seksualnego u ciężarnej nie jest:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 87",
@@ -1001,8 +1001,8 @@
       "konieczne jest wdrożenie diagnostyki inwazyjnej zarażenia (amniocenteza, poszukiwanie cyst pierwotniakowych w płynie owodniowym)."
     ],
     "id": "86",
-    "question": "25-letnia ciężarna w 12. tygodniu pierwszej ciąży wykonała badanie przeciwciałprzeciwko toksoplazmozie. Otrzymała wynik IgG = 300 IU/ml, IgM (-). Wynik sprzeddwóch lat jaki przyniosła ze sobą na wizytę był następujący: IgG = 480 IU/ml, IgM (-).Należy ją poinformować, że:",
-    "correctAnswear": 3
+    "question": "25-letnia ciężarna w 12. tygodniu pierwszej ciąży wykonała badanie przeciwciał przeciwko toksoplazmozie. Otrzymała wynik IgG = 300 IU/ml, IgM (-). Wynik sprzed dwóch lat jaki przyniosła ze sobą na wizytę był następujący: IgG = 480 IU/ml, IgM (-). Należy ją poinformować, że:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 88",
@@ -1015,14 +1015,14 @@
     ],
     "id": "87",
     "question": "Wskaż fałszywe stwierdzenie dotyczące zaśniadu groniastego:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 89",
     "answers": ["600 ml.", "500 ml.", "400 ml.", "300 ml.", "200 ml."],
     "id": "88",
     "question": "Małowodzie to zmniejszenie ilości płynu owodniowego poniżej:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 90",
@@ -1034,8 +1034,8 @@
       "rzeżączka."
     ],
     "id": "89",
-    "question": "Która z chorób przenoszonych drogą płciową nie daje objawów w obrębie narządupłciowego?",
-    "correctAnswear": 0
+    "question": "Która z chorób przenoszonych drogą płciową nie daje objawów w obrębie narządu płciowego?",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 91",
@@ -1047,8 +1047,8 @@
       "wkładki wewnątrzmacicznej z lewonorgestrelem."
     ],
     "id": "90",
-    "question": "41-letnia pacjentka zgłosiła się do lekarza ginekologa po poradę dotyczącązabezpieczenia się przed niechcianą ciążą w okresie okołomenopauzalnym. Ma dwójkędzieci, choruje na cukrzycę typu pierwszego od 4. roku życia. Aktualne wartościhemoglobiny glikowanej HbA C wynoszą 8,9%, wydalanie albumin z moczem - 40μg/mg kreatyniny, ciśnienie tętnicze waha się w granicach 130/80 mmHg, w badaniudna oka - retinopatia przedproliferacyjna. Wobec powyższego jakiej metodyantykoncepcyjnej nie powinno się proponować tej pacjentce?",
-    "correctAnswear": 2
+    "question": "41-letnia pacjentka zgłosiła się do lekarza ginekologa po poradę dotyczącą zabezpieczenia się przed niechcianą ciążą w okresie okołomenopauzalnym. Ma dwójkę dzieci, choruje na cukrzycę typu pierwszego od 4. roku życia. Aktualne wartości hemoglobiny glikowanej HbA C wynoszą 8,9%, wydalanie albumin z moczem - 40 μg/mg kreatyniny, ciśnienie tętnicze waha się w granicach 130/80 mmHg, w badaniu dna oka - retinopatia przedproliferacyjna. Wobec powyższego jakiej metody antykoncepcyjnej nie powinno się proponować tej pacjentce?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 92",
@@ -1060,8 +1060,8 @@
       "badaniu we wziernikach, podłączeniu wlewu dożylnego z fenoterolu, kontynuowaniu ciąży do ukończenia 38. tygodnia."
     ],
     "id": "91",
-    "question": "Pacjentka 30-letnia w 37. tygodniu pierwszej ciąży z potwierdzonym w dwukrotniewykonanym badaniu USG łożyskiem częściowo przodującym zgłasza się do izbyprzyjęć z powodu miernego krwawienia z dróg rodnych. Właściwe postępowanie polegana:",
-    "correctAnswear": 2
+    "question": "Pacjentka 30-letnia w 37. tygodniu pierwszej ciąży z potwierdzonym w dwukrotnie wykonanym badaniu USG łożyskiem częściowo przodującym zgłasza się do izby przyjęć z powodu miernego krwawienia z dróg rodnych. Właściwe postępowanie polega na:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 93",
@@ -1074,7 +1074,7 @@
     ],
     "id": "92",
     "question": "Do niedozwolonych szczepień w okresie ciąży zalicza się szczepienie przeciwko:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 94",
@@ -1086,8 +1086,8 @@
       "raka jajnika."
     ],
     "id": "93",
-    "question": "Do SOR-u położniczo-ginekologicznego zgłosiła się 28-letnia kobieta, która kolejny razw domu nagle zemdlała. W trakcie przyjęcia do szpitala była blada, spocona na twarzy,miała przyśpieszone tętno. Temperatura ciała 36,6°C. Zaniepokoiło ją, że ostatniąmiesiączkę miała przed 8 tygodniami, mimo założenia przed rokiem antykoncepcyjnejwkładki wewnątrzmacicznej. Wstępne badanie ginekologiczne wykazało: delikatnekrwawienie z pochwy, nieco powiększoną macicę, bolesny opór w rzucie lewychprzydatków oraz ciastowaty guz w zatoce Douglasa. Objawy te przemawiają zarozpoznaniem:",
-    "correctAnswear": 0
+    "question": "Do SOR-u położniczo-ginekologicznego zgłosiła się 28-letnia kobieta, która kolejny raz w domu nagle zemdlała. W trakcie przyjęcia do szpitala była blada, spocona na twarzy, miała przyśpieszone tętno. Temperatura ciała 36,6°C. Zaniepokoiło ją, że ostatnią miesiączkę miała przed 8 tygodniami, mimo założenia przed rokiem antykoncepcyjnej wkładki wewnątrzmacicznej. Wstępne badanie ginekologiczne wykazało: delikatne krwawienie z pochwy, nieco powiększoną macicę, bolesny opór w rzucie lewych przydatków oraz ciastowaty guz w zatoce Douglasa. Objawy te przemawiają za rozpoznaniem:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 95",
@@ -1099,8 +1099,8 @@
       "wystąpienia nadciśnienia indukowanego ciążą przed 20. tygodniem ciąży."
     ],
     "id": "94",
-    "question": "Rak kosmówki jest jednym z najrzadszych, ale najbardziej agresywnych nowotworówzłośliwych u kobiet. Jego rozpoznanie stawiane jest na podstawie:",
-    "correctAnswear": 3
+    "question": "Rak kosmówki jest jednym z najrzadszych, ale najbardziej agresywnych nowotworów złośliwych u kobiet. Jego rozpoznanie stawiane jest na podstawie:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 96",
@@ -1112,8 +1112,8 @@
       "żadne z wymienionych."
     ],
     "id": "95",
-    "question": "Do czynników zwiększających prawdopodobieństwo wystąpienia ciąży bliźniaczejjednozygotycznej zalicza się:",
-    "correctAnswear": 1
+    "question": "Do czynników zwiększających prawdopodobieństwo wystąpienia ciąży bliźniaczej jednozygotycznej zalicza się:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 97",
@@ -1125,8 +1125,8 @@
       "w opisanej powyżej sytuacji klinicznej nie ma wskazań do włączenia terapii gestagennej."
     ],
     "id": "96",
-    "question": "58-letnia pacjentka zgłasza objawy suchości pochwy oraz plamienia kontaktowe powspółżyciu seksualnym. W badaniu ginekologicznym stwierdzono zmiany atroficznepochwy, trzon macicy oraz przydatki bez odchyleń od normy. W wykonanym badaniucytologicznym szyjki macicy nie stwierdzono żadnych nieprawidłowości. Zdecydowanoo włączeniu miejscowej, dopochwowej estrogenoterapii, w związku z czym:",
-    "correctAnswear": 4
+    "question": "58-letnia pacjentka zgłasza objawy suchości pochwy oraz plamienia kontaktowe po współżyciu seksualnym. W badaniu ginekologicznym stwierdzono zmiany atroficzne pochwy, trzon macicy oraz przydatki bez odchyleń od normy. W wykonanym badaniu cytologicznym szyjki macicy nie stwierdzono żadnych nieprawidłowości. Zdecydowano o włączeniu miejscowej, dopochwowej estrogenoterapii, w związku z czym:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 98",
@@ -1139,7 +1139,7 @@
     ],
     "id": "97",
     "question": "Kompletny zespół niewrażliwości na androgeny cechuje się:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 99",
@@ -1152,7 +1152,7 @@
     ],
     "id": "98",
     "question": "Zaletą dostępu operacyjnego z cięcia Pfannenstiela nie jest:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 100",
@@ -1165,7 +1165,7 @@
     ],
     "id": "99",
     "question": "Do działania biologicznego progesteronu nie należy:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 101",
@@ -1178,7 +1178,7 @@
     ],
     "id": "100",
     "question": "W skład płynu owodniowego wchodzą następujące białka produkowane przez płód:\n1) transferyna;\n2) alfa-fetoproteina;\n3) beta-mikroglobulina;\n4) immunoglobuliny IgG.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 102",
@@ -1190,8 +1190,8 @@
       "lizynopryl."
     ],
     "id": "101",
-    "question": "Podstawowym lekiem stosowanym w długotrwałej terapii nadciśnienia tętniczego wciąży jest:",
-    "correctAnswear": 0
+    "question": "Podstawowym lekiem stosowanym w długotrwałej terapii nadciśnienia tętniczego w ciąży jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 103",
@@ -1203,8 +1203,8 @@
       "jest wskazaniem do natychmiastowego przebicia błon płodowych."
     ],
     "id": "102",
-    "question": "Wypadnięcie tętniącej pępowiny w trakcie II okresu porodu przy położeniu płodupodłużnym główkowym:",
-    "correctAnswear": 2
+    "question": "Wypadnięcie tętniącej pępowiny w trakcie II okresu porodu przy położeniu płodu podłużnym główkowym:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 104",
@@ -1217,7 +1217,7 @@
     ],
     "id": "103",
     "question": "Bradykardię u płodu definiuje się jako:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 105",
@@ -1229,8 +1229,8 @@
       "łożysko przodujące."
     ],
     "id": "104",
-    "question": "Który spośród niżej wymienionych czynników nie predysponuje do położeniamiednicowego płodu?",
-    "correctAnswear": 2
+    "question": "Który spośród niżej wymienionych czynników nie predysponuje do położenia miednicowego płodu?",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 106",
@@ -1242,8 +1242,8 @@
       "protokołu krótkiego."
     ],
     "id": "105",
-    "question": "Podawanie krótko działających analogów GnRH rozpoczyna się w 1. dniu cyklupłciowego a od 3. dnia cyklu dołącza się gonadotropiny - postępowanie dotyczykontrolowanej hiperstymulacji jajników z wykorzystaniem:",
-    "correctAnswear": 4
+    "question": "Podawanie krótko działających analogów GnRH rozpoczyna się w 1. dniu cyklu płciowego a od 3. dnia cyklu dołącza się gonadotropiny - postępowanie dotyczy kontrolowanej hiperstymulacji jajników z wykorzystaniem:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 107",
@@ -1256,14 +1256,14 @@
     ],
     "id": "106",
     "question": "Wskaż prawdziwe stwierdzenie dotyczące wysiłkowego nietrzymania moczu:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 108",
     "answers": ["1,2,5.", "2,4,5.", "3,4.", "1,3,4.", "tylko 1."],
     "id": "107",
-    "question": "Rak endometrium stanowi obecnie najczęstszy nowotwór żeńskich narządów płciowychw krajach rozwiniętych. Wśród niżej wymienionych wskaż cechy charakterystyczne dlapodtypu I raka endometrium:\n1) estrogenozależność (dodatni stan receptorowy E+ i P+);\n2) agresywny przebieg, częste przerzuty;\n3) najczęściej występują mutacje PTEN, K-ras, niestabilność mikrosatelitarna;\n4) najczęstszy typ histopatologiczny to rak endometrioidalny endometrium;\n5) najczęściej występują mutacje p53, HER2/neu, p16.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Rak endometrium stanowi obecnie najczęstszy nowotwór żeńskich narządów płciowych w krajach rozwiniętych. Wśród niżej wymienionych wskaż cechy charakterystyczne dla podtypu I raka endometrium:\n1) estrogenozależność (dodatni stan receptorowy E+ i P+);\n2) agresywny przebieg, częste przerzuty;\n3) najczęściej występują mutacje PTEN, K-ras, niestabilność mikrosatelitarna;\n4) najczęstszy typ histopatologiczny to rak endometrioidalny endometrium;\n5) najczęściej występują mutacje p53, HER2/neu, p16.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 109",
@@ -1275,8 +1275,8 @@
       "Neisseria gonorrhoeae."
     ],
     "id": "108",
-    "question": "Reakcji disulfiramowej można spodziewać się u pacjentki, która piła alkohol podczasleczenia otrzymanego od ginekologa z powodu objawów infekcji narządów płciowych:",
-    "correctAnswear": 3
+    "question": "Reakcji disulfiramowej można spodziewać się u pacjentki, która piła alkohol podczas leczenia otrzymanego od ginekologa z powodu objawów infekcji narządów płciowych:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 110",
@@ -1289,7 +1289,7 @@
     ],
     "id": "109",
     "question": "Do czynników ryzyka położenia miednicowego płodu, ze strony matki zalicza się:\n1) wady macicy utrudniające obrót płodu;\n2) mięśniaki macicy;\n3) zwężoną miednicę;\n4) nadmiernie szeroką miednicę;\n5) wielorództwo.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 111",
@@ -1302,7 +1302,7 @@
     ],
     "id": "110",
     "question": "Do powikłań cukrzycy u płodu należą:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 112",
@@ -1314,8 +1314,8 @@
       "mięśniaki mogą powodować niepłodność."
     ],
     "id": "111",
-    "question": "Mięśniaki macicy są najczęściej występującymi niezłośliwymi nowotworami macicy.Wskaż fałszywe stwierdzenie dotyczące objawów klinicznych powodowanych przezmięśniaki macicy:",
-    "correctAnswear": 3
+    "question": "Mięśniaki macicy są najczęściej występującymi niezłośliwymi nowotworami macicy. Wskaż fałszywe stwierdzenie dotyczące objawów klinicznych powodowanych przez mięśniaki macicy:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 113",
@@ -1328,7 +1328,7 @@
     ],
     "id": "112",
     "question": "Rozpoznanie endometriozy należy rozważyć u pacjentki z następującymi objawami:\n1) cyklicznie występujący ból, rozpoczynający się tuż przed krwawieniem\nmiesiączkowym trwający przez cały okres miesiączki;\n2) temperatura w okresie okołomiesiączkowym > 39°C;\n3) dyspareunia (dolegliwości bólowe związane ze współżyciem);\n4) ból w trakcie defekacji i/lub mikcji;\n5) cuchnąca wydzielina z pochwy, występująca cyklicznie po miesiączce.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 114",
@@ -1341,7 +1341,7 @@
     ],
     "id": "113",
     "question": "Najczęstsze umiejscowienie ciąży ektopowej to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 115",
@@ -1354,14 +1354,14 @@
     ],
     "id": "114",
     "question": "Amenorrhea intermittens to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 116",
     "answers": ["1,2,3.", "2,3,4.", "3,4,5.", "4,5,6.", "1,4,5."],
     "id": "115",
     "question": "Wskaż prawdziwe zdania dotyczące pojęcia rezerwy jajnikowej:\n1) jest mniejsza u Afroamerykanek w porównaniu do kobiet rasy kaukaskiej;\n2) jest uwarunkowana genetycznie;\n3) zmniejsza się po operacjach jajników;\n4) zmniejsza się w wyniku chorób jajnika;\n5) zwiększa się wraz z wiekiem kobiety;\n6) zmniejsza się po stosowaniu antybiotyków.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 117",
@@ -1373,8 +1373,8 @@
       "agenezja jajników."
     ],
     "id": "116",
-    "question": "U 16-letniej niemiesiączkującej dziewczyny stwierdzono w USG krwiak zastoinowypochwy. Najbardziej prawdopodobnym rozpoznaniem jest:",
-    "correctAnswear": 0
+    "question": "U 16-letniej niemiesiączkującej dziewczyny stwierdzono w USG krwiak zastoinowy pochwy. Najbardziej prawdopodobnym rozpoznaniem jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 118",
@@ -1386,8 +1386,8 @@
       "degeneracją ciałka żółtego z powodu wzrastającego poziomu prolaktyny."
     ],
     "id": "117",
-    "question": "Brak krwawienia miesiączkowego po zapłodnieniu i zagnieżdżeniu się jaja płodowego wendometrium jest spowodowany:",
-    "correctAnswear": 0
+    "question": "Brak krwawienia miesiączkowego po zapłodnieniu i zagnieżdżeniu się jaja płodowego w endometrium jest spowodowany:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 119",
@@ -1400,7 +1400,7 @@
     ],
     "id": "118",
     "question": "Który z wymienionych leków nie jest wskazany w leczeniu endometriozy?",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 120",
@@ -1413,7 +1413,7 @@
     ],
     "id": "119",
     "question": "Podstawową metodą leczenia ropnia gruczołu Bartholina jest:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 121",
@@ -1425,15 +1425,15 @@
       "kolejną dawkę należy przyjąć bezwzględnie o tej samej porze."
     ],
     "id": "120",
-    "question": "Czy w trakcie stosowania antykoncepcji w postaci tabletek zawierających tylkogestageny (tzw. mini pill) dopuszczalne jest przesunięcie terminu przyjmowania kolejnejdawki?",
-    "correctAnswear": 0
+    "question": "Czy w trakcie stosowania antykoncepcji w postaci tabletek zawierających tylko gestageny (tzw. mini pill) dopuszczalne jest przesunięcie terminu przyjmowania kolejnej dawki?",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 122",
     "answers": ["2,3,4.", "1,5.", "1,3,4.", "1,3.", "2,4,5."],
     "id": "121",
-    "question": "Doustna antykoncepcja hormonalna jest dobrze udokumentowanym czynnikiemprotekcyjnym w stosunku do raka:\n1) jajnika;\n2) wątroby;\n3) endometrium;\n4) szyjki macicy;\n5) nerki.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Doustna antykoncepcja hormonalna jest dobrze udokumentowanym czynnikiem protekcyjnym w stosunku do raka:\n1) jajnika;\n2) wątroby;\n3) endometrium;\n4) szyjki macicy;\n5) nerki.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 123",
@@ -1445,8 +1445,8 @@
       "wszystkie wymienione."
     ],
     "id": "122",
-    "question": "Zaburzenia statyki narządów płciowych są wynikiem osłabienia aparatu podporowego iwieszadłowego oraz nadmiernego działania sił powodujących przemieszczenie tychnarządów. Do czynników sprzyjających wystąpieniu obniżenia narządu rodnego należą:\n1) uszkodzenie nerwów sromowych i miednicznych w przebiegu porodu drogami natury;\n2) praca fizyczna w pozycji stojącej i związana z dźwiganiem;\n3) choroby układu oddechowego związane z przewlekłym kaszlem;\n4) przewlekłe zaparcia;\n5) niedobór estrogenów w okresie pomenopauzalnym.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "question": "Zaburzenia statyki narządów płciowych są wynikiem osłabienia aparatu podporowego i wieszadłowego oraz nadmiernego działania sił powodujących przemieszczenie tych narządów. Do czynników sprzyjających wystąpieniu obniżenia narządu rodnego należą:\n1) uszkodzenie nerwów sromowych i miednicznych w przebiegu porodu drogami natury;\n2) praca fizyczna w pozycji stojącej i związana z dźwiganiem;\n3) choroby układu oddechowego związane z przewlekłym kaszlem;\n4) przewlekłe zaparcia;\n5) niedobór estrogenów w okresie pomenopauzalnym.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 124",
@@ -1458,8 +1458,8 @@
       "testosteronu."
     ],
     "id": "123",
-    "question": "Pacjentka lat 25 zgłosiła się do lekarza z powodu wtórnego braku krwawieńmiesięcznych. U pacjentki występuje mlekotok oraz okresowo pojawiają się zaburzeniawidzenia. Stężenie którego hormonu powinno zostać oznaczone?",
-    "correctAnswear": 3
+    "question": "Pacjentka lat 25 zgłosiła się do lekarza z powodu wtórnego braku krwawień miesięcznych. U pacjentki występuje mlekotok oraz okresowo pojawiają się zaburzenia widzenia. Stężenie którego hormonu powinno zostać oznaczone?",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 125",
@@ -1471,8 +1471,8 @@
       "wszystkie wymienione."
     ],
     "id": "124",
-    "question": "Wskaż prawdziwe stwierdzenia dotyczące testu podwójnego w diagnostyce prenatalnej:\n1) przeprowadza się go pomiędzy 11. a 14. tygodniem ciąży;\n2) ocenia się 2 markery biochemiczne z krwi ciężarnej;\n3) w przypadku płodów z zespołem Downa stężenie wolnej podjednostki β-hCG jest\nobniżone;\n4) w przypadku płodów z zespołem Downa stężenie PAPP-A jest obniżone;\n5) w przypadku płodów z zespołem Edwardsa stężenie wolnej podjednostki β-hCG jest\nobniżone.Prawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "question": "Wskaż prawdziwe stwierdzenia dotyczące testu podwójnego w diagnostyce prenatalnej:\n1) przeprowadza się go pomiędzy 11. a 14. tygodniem ciąży;\n2) ocenia się 2 markery biochemiczne z krwi ciężarnej;\n3) w przypadku płodów z zespołem Downa stężenie wolnej podjednostki β-hCG jest\nobniżone;\n4) w przypadku płodów z zespołem Downa stężenie PAPP-A jest obniżone;\n5) w przypadku płodów z zespołem Edwardsa stężenie wolnej podjednostki β-hCG jest\nobniżone. Prawidłowa odpowiedź to:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 126",
@@ -1485,7 +1485,7 @@
     ],
     "id": "125",
     "question": "Tętnica maciczna lewa jest bezpośrednim odgałęzieniem:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 127",
@@ -1498,7 +1498,7 @@
     ],
     "id": "126",
     "question": "Najczęstszą wadą macicy jest macica:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 128",
@@ -1510,8 +1510,8 @@
       "żadna z wymienionych."
     ],
     "id": "127",
-    "question": "Poród rozpoczyna się w momencie wystąpienia regularnej czynności skurczowejmacicy, powodującej skracanie i rozwieranie się szyjki macicy. Wskaż prawdziwestwierdzenia dotyczące pierwszego okresu porodu:\n1) jest to czas od całkowitego rozwarcia do urodzenia dziecka;\n2) jest to okres wydalania popłodu;\n3) jest to czas od początku porodu do całkowitego rozwarcia szyjki macicy;\n4) dzieli się na dwie fazy: utajoną - od początku porodu do rozwarcia ok. 3-4 cm i\naktywną - od rozwarcia 3-4 cm do rozwarcia całkowitego;\n5) maksymalny czas trwania pierwszego okresu porodu to 2h.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Poród rozpoczyna się w momencie wystąpienia regularnej czynności skurczowej macicy, powodującej skracanie i rozwieranie się szyjki macicy. Wskaż prawdziwe stwierdzenia dotyczące pierwszego okresu porodu:\n1) jest to czas od całkowitego rozwarcia do urodzenia dziecka;\n2) jest to okres wydalania popłodu;\n3) jest to czas od początku porodu do całkowitego rozwarcia szyjki macicy;\n4) dzieli się na dwie fazy: utajoną - od początku porodu do rozwarcia ok. 3-4 cm i\naktywną - od rozwarcia 3-4 cm do rozwarcia całkowitego;\n5) maksymalny czas trwania pierwszego okresu porodu to 2h.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 129",
@@ -1523,8 +1523,8 @@
       "ziarniszczaka."
     ],
     "id": "128",
-    "question": "„Guz ten może wystąpić przed pokwitaniem, ale charakterystyczny szczyt zachorowańprzypada na okres rozrodczy. Łatwo pęka co może dawać objawy otrzewnowe ikonieczność operacji w trybie pilnym. U kobiet po menopauzie może powodowaćnieprawidłowe krwawienia z dróg rodnych. Leczenie operacyjne nie gwarantuje pełnegowyleczenia bowiem wznowy mogą wystąpić nawet po 30 latach od pierwotnegorozpoznania”. Powyższy opis charakteryzuje:",
-    "correctAnswear": 4
+    "question": "„Guz ten może wystąpić przed pokwitaniem, ale charakterystyczny szczyt zachorowań przypada na okres rozrodczy. Łatwo pęka co może dawać objawy otrzewnowe i konieczność operacji w trybie pilnym. U kobiet po menopauzie może powodować nieprawidłowe krwawienia z dróg rodnych. Leczenie operacyjne nie gwarantuje pełnego wyleczenia bowiem wznowy mogą wystąpić nawet po 30 latach od pierwotnego rozpoznania”. Powyższy opis charakteryzuje:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 130",
@@ -1537,7 +1537,7 @@
     ],
     "id": "129",
     "question": "Azoospermia to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 131",
@@ -1550,7 +1550,7 @@
     ],
     "id": "130",
     "question": "Czynnikiem ryzyka wystąpienia nietrzymania moczu nie jest/nie są:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 132",
@@ -1562,8 +1562,8 @@
       "ryzyko perinatalnej transmisji HIV nie zależy od sposobu porodu."
     ],
     "id": "131",
-    "question": "Połączenie odpowiedniej terapii farmakologicznej z porodem drogą planowego cięciacesarskiego redukuje ryzyko perinatalnej transmisji HIV do:",
-    "correctAnswear": 3
+    "question": "Połączenie odpowiedniej terapii farmakologicznej z porodem drogą planowego cięcia cesarskiego redukuje ryzyko perinatalnej transmisji HIV do:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 133",
@@ -1576,7 +1576,7 @@
     ],
     "id": "132",
     "question": "Głównym źródłem alfa-fetoproteiny (AFP) we krwi ciężarnej w 16. tygodniu ciąży jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 134",
@@ -1589,7 +1589,7 @@
     ],
     "id": "133",
     "question": "Ciąża u kobiety z zespołem Swyera będzie możliwa:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 135",
@@ -1602,7 +1602,7 @@
     ],
     "id": "134",
     "question": "Wskaż fałszywe stwierdzenie dotyczące interpretacji zapisu KTG:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 136",
@@ -1614,8 +1614,8 @@
       "26 kwietnia 2019."
     ],
     "id": "135",
-    "question": "U pacjentki z regularnymi miesiączkami występującymi co 32 dni, u której ostatniamiesiączka zaczęła się 15 lipca 2018 roku termin porodu wyliczony na podstawie regułyNaegelego to:",
-    "correctAnswear": 4
+    "question": "U pacjentki z regularnymi miesiączkami występującymi co 32 dni, u której ostatnia miesiączka zaczęła się 15 lipca 2018 roku termin porodu wyliczony na podstawie reguły Naegelego to:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 137",
@@ -1627,8 +1627,8 @@
       "przetokę pęcherzowo-pochwową."
     ],
     "id": "136",
-    "question": "W 12. dobie po zabiegu wycięcia macicy z przydatkami z powodu rozrostu błonyśluzowej macicy z atypią pacjentka zgłosiła się do poradni ginekologicznej z powodustałego wypływu moczu z pochwy. W związku z powyższym należy podejrzewać:",
-    "correctAnswear": 4
+    "question": "W 12. dobie po zabiegu wycięcia macicy z przydatkami z powodu rozrostu błony śluzowej macicy z atypią pacjentka zgłosiła się do poradni ginekologicznej z powodu stałego wypływu moczu z pochwy. W związku z powyższym należy podejrzewać:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 138",
@@ -1640,8 +1640,8 @@
       "starszego wieku pacjentki."
     ],
     "id": "137",
-    "question": "Do czynników zwiększających ryzyko pojawienia się konieczności okołoporodowegowycięcia macicy nie zalicza się:",
-    "correctAnswear": 1
+    "question": "Do czynników zwiększających ryzyko pojawienia się konieczności okołoporodowego wycięcia macicy nie zalicza się:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 139",
@@ -1653,8 +1653,8 @@
       "1,2."
     ],
     "id": "138",
-    "question": "Leczenie operacyjne niewydolności cieśniowo-szyjkowej opiera się na założeniu szwuokrężnego na szyjkę macicy. Jakie warunki muszą być spełnione przed przystąpieniemdo operacji założenia szwu okrężnego?\n1) prawidłowy rozwój płodu;\n2) płód żywy;\n3) brak czynności skurczowej macicy;\n4) prawidłowa biocenoza pochwy;\n5) wiek ciążowy powyżej 28. tyg. ciąży.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Leczenie operacyjne niewydolności cieśniowo-szyjkowej opiera się na założeniu szwu okrężnego na szyjkę macicy. Jakie warunki muszą być spełnione przed przystąpieniem do operacji założenia szwu okrężnego?\n1) prawidłowy rozwój płodu;\n2) płód żywy;\n3) brak czynności skurczowej macicy;\n4) prawidłowa biocenoza pochwy;\n5) wiek ciążowy powyżej 28. tyg. ciąży.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 140",
@@ -1667,7 +1667,7 @@
     ],
     "id": "139",
     "question": "Prawidłowa częstość akcji serca płodu to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 141",
@@ -1680,7 +1680,7 @@
     ],
     "id": "140",
     "question": "Cechą charakterystyczną dla zakrzepowej plamicy małopłytkowej u ciężarnej nie jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 142",
@@ -1692,8 +1692,8 @@
       "hipotrofia płodu w przebiegu niewydolności łożyska."
     ],
     "id": "141",
-    "question": "Do powikłań położniczych prowadzących do zespołu DIC (rozsiane krzepnięciewewnątrznaczyniowe) nie należy:",
-    "correctAnswear": 4
+    "question": "Do powikłań położniczych prowadzących do zespołu DIC (rozsiane krzepnięcie wewnątrznaczyniowe) nie należy:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 143",
@@ -1706,7 +1706,7 @@
     ],
     "id": "142",
     "question": "Czynnikiem ryzyka raka endometrium nie jest:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 144",
@@ -1719,7 +1719,7 @@
     ],
     "id": "143",
     "question": "Metodą z wyboru w inwazyjnej diagnostyce choroby hemolitycznej płodu jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 145",
@@ -1731,8 +1731,8 @@
       "tylko hamowania aktywności układu przywspółczulnego."
     ],
     "id": "144",
-    "question": "W fazie opróżniania pęcherza moczowego (faza mikcji) inicjowanej przez koręmózgową dochodzi do relaksacji mięśni zwieraczy cewki i wzrostu napięcia mięśniawypieracza pęcherza moczowego. Dzieje się tak w wyniku:",
-    "correctAnswear": 0
+    "question": "W fazie opróżniania pęcherza moczowego (faza mikcji) inicjowanej przez korę mózgową dochodzi do relaksacji mięśni zwieraczy cewki i wzrostu napięcia mięśnia wypieracza pęcherza moczowego. Dzieje się tak w wyniku:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 146",
@@ -1744,15 +1744,15 @@
       "powyżej 170 uderzeń na minutę."
     ],
     "id": "145",
-    "question": "Osłuchiwanie tętna płodu stanowi ważny element badania położniczego oraz pozwalana bezpieczne prowadzenie porodu. Prawidłowo w czasie porodu podstawowaczynność serca płodu powinna wynosić:",
-    "correctAnswear": 2
+    "question": "Osłuchiwanie tętna płodu stanowi ważny element badania położniczego oraz pozwala na bezpieczne prowadzenie porodu. Prawidłowo w czasie porodu podstawowa czynność serca płodu powinna wynosić:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 147",
     "answers": ["1,2,3.", "1,2,5.", "1,3,5.", "2,3,5.", "3,4,5."],
     "id": "146",
     "question": "Objawem ultrasonograficznym całkowitego zaśniadu jest:\n1) obraz „zamieci śnieżnej”;\n2) brak płodu;\n3) występowanie torbieli tekaluteinowych;\n4) obecność echa płodu z widoczną czynnością serca;\n5) obecność pęcherzyka ciążowego z płynem owodniowym.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 148",
@@ -1764,8 +1764,8 @@
       "hormonalne (octan megestrolu)."
     ],
     "id": "147",
-    "question": "65-letnia chora, w dobrym stanie ogólnym, z nadciśnieniem tętniczym i cukrzycą typu 2leczoną lekami doustnymi zgłosiła się do lekarza ginekologa z powodu miernegokrwawienia z dróg rodnych. Masa ciała 87 kg przy wzroście 163 cm. Wynik biopsjiendometrium: rak gruczołowy endometrialny G1. W badaniu USG TV podejrzewa sięminimalne naciekanie endometrium, w badaniu tomografii komputerowej niestwierdzono rozsiewu wewnątrz jamy brzusznej, ani patologicznych węzłów chłonnychmiednicyi okołoaortalnych. Optymalnym sposobem leczenia tej chorej będzie leczenie:",
-    "correctAnswear": 1
+    "question": "65-letnia chora, w dobrym stanie ogólnym, z nadciśnieniem tętniczym i cukrzycą typu 2 leczoną lekami doustnymi zgłosiła się do lekarza ginekologa z powodu miernego krwawienia z dróg rodnych. Masa ciała 87 kg przy wzroście 163 cm. Wynik biopsji endometrium: rak gruczołowy endometrialny G1. W badaniu USG TV podejrzewa się minimalne naciekanie endometrium, w badaniu tomografii komputerowej nie stwierdzono rozsiewu wewnątrz jamy brzusznej, ani patologicznych węzłów chłonnych miednicy i okołoaortalnych. Optymalnym sposobem leczenia tej chorej będzie leczenie:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 149",
@@ -1778,7 +1778,7 @@
     ],
     "id": "148",
     "question": "Do działania progesteronu na organizm kobiety nie należy:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 150",
@@ -1791,7 +1791,7 @@
     ],
     "id": "149",
     "question": "Wskaż prawdziwe stwierdzenie dotyczące raka sromu:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 151",
@@ -1804,7 +1804,7 @@
     ],
     "id": "150",
     "question": "Do czynności wykonywanych w przypadku dystocji barkowej nie należy:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 152",
@@ -1816,8 +1816,8 @@
       "przygięcie, obrót, odgięcie, obrót."
     ],
     "id": "151",
-    "question": "Główka w kanale rodnym dokonuje podczas porodu fizjologicznego następującychzwrotów:",
-    "correctAnswear": 4
+    "question": "Główka w kanale rodnym dokonuje podczas porodu fizjologicznego następujących zwrotów:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 153",
@@ -1829,8 +1829,8 @@
       "w każdym z powyższych rozpoznań brachyterapia jest stosowana jako metoda uzupełniająca."
     ],
     "id": "152",
-    "question": "W przypadku którego nowotworu brachyterapia nie jest stosowana jako metodauzupełniająca?",
-    "correctAnswear": 0
+    "question": "W przypadku którego nowotworu brachyterapia nie jest stosowana jako metoda uzupełniająca?",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 154",
@@ -1842,8 +1842,8 @@
       "ciąży bliźniaczej dwukosmówkowej."
     ],
     "id": "153",
-    "question": "Stwierdzenie objawu „lambda” w czasie badania USG pacjentki w ciąży ok. 9. tygodniapozwala na rozpoznanie:",
-    "correctAnswear": 4
+    "question": "Stwierdzenie objawu „lambda” w czasie badania USG pacjentki w ciąży ok. 9. tygodnia pozwala na rozpoznanie:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 155",
@@ -1856,14 +1856,14 @@
     ],
     "id": "154",
     "question": "Który czynnik nie wpływa na wynik testu potrójnego?",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 156",
     "answers": ["1,2.", "3,4,5.", "1,3,5.", "2,4,5.", "wszystkie wymienione."],
     "id": "155",
     "question": "Czynnikami ryzyka wystąpienia wysiłkowego nietrzymania moczu są:\n1) młody wiek;\n2) BMI < 30 kg/m ;\n3) przewlekłe zaparcia;\n4) przyjmowanie leków diuretycznych i hipotensyjnych;\n5) choroby przewlekłe przebiegające z kaszlem.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 157",
@@ -1875,8 +1875,8 @@
       "określenia kosmówkowatości w przypadku ciąży wielopłodowej."
     ],
     "id": "156",
-    "question": "2Badanie ultrasonograficzne wykonane między 11.-14. tygodniem ciąży nie obejmuje:",
-    "correctAnswear": 2
+    "question": "2 Badanie ultrasonograficzne wykonane między 11.-14. tygodniem ciąży nie obejmuje:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 158",
@@ -1888,8 +1888,8 @@
       "przedwczesne wygasanie czynności jajników."
     ],
     "id": "157",
-    "question": "W przypadku ograniczenia płodności z cyklicznym zespołem bólowym miednicymniejszej, bolesnym miesiączkowaniem, dolegliwościami bólowymi związanymi zewspółżyciem, najbardziej prawdopodobnym rozpoznaniem jest:",
-    "correctAnswear": 0
+    "question": "W przypadku ograniczenia płodności z cyklicznym zespołem bólowym miednicy mniejszej, bolesnym miesiączkowaniem, dolegliwościami bólowymi związanymi ze współżyciem, najbardziej prawdopodobnym rozpoznaniem jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 159",
@@ -1901,8 +1901,8 @@
       "pod łukami żebrowymi."
     ],
     "id": "158",
-    "question": "Badanie wysokości dna macicy stanowi ważny element badania położniczego. Ukobiety w 24. tygodniu ciąży prawidłowo dno macicy znajduje się:",
-    "correctAnswear": 1
+    "question": "Badanie wysokości dna macicy stanowi ważny element badania położniczego. U kobiety w 24. tygodniu ciąży prawidłowo dno macicy znajduje się:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 160",
@@ -1914,8 +1914,8 @@
       "badania na kobietach ciężarnych nie wykazały działania teratogennego leku."
     ],
     "id": "159",
-    "question": "Pacjentka w 26. tygodniu ciąży uległa wypadkowi komunikacyjnemu, w efekcie przebyłaleczenie operacyjne i otrzymała 2 leki oznaczone kategorią B wg klasyfikacjiamerykańskiej Agencji ds. Żywności i Leków (FDA). Kategoria B oznacza, że:",
-    "correctAnswear": 3
+    "question": "Pacjentka w 26. tygodniu ciąży uległa wypadkowi komunikacyjnemu, w efekcie przebyła leczenie operacyjne i otrzymała 2 leki oznaczone kategorią B wg klasyfikacji amerykańskiej Agencji ds. Żywności i Leków (FDA). Kategoria B oznacza, że:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 161",
@@ -1928,14 +1928,14 @@
     ],
     "id": "160",
     "question": "Do nowotworów germinalnych jajnika nie należy:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 162",
     "answers": ["1,4,5.", "2,4,5.", "1,2,3.", "4,5.", "3,4."],
     "id": "161",
     "question": "Wskazaniem do wykonania kompleksowej diagnostyki prenatalnej I trymestru jest:\n1) ciąża po 35. roku życia;\n2) urodzenie dziecka z wadą genetyczną;\n3) nieprawidłowy wynik pomiaru przezierności fałdu karkowego (NT);\n4) preeklampsja w poprzedniej ciąży;\n5) małowodzie w obrazie USG.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 163",
@@ -1947,8 +1947,8 @@
       "żaden z powyższych."
     ],
     "id": "162",
-    "question": "Chwyt wykonywany jedną ręką podczas badania palpacyjnego brzucha rodzącej,pozwalający określić co jest częścią przodującą i jak jest ona położona w stosunku dowchodu miednicy to:",
-    "correctAnswear": 2
+    "question": "Chwyt wykonywany jedną ręką podczas badania palpacyjnego brzucha rodzącej, pozwalający określić co jest częścią przodującą i jak jest ona położona w stosunku do wchodu miednicy to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 164",
@@ -1961,14 +1961,14 @@
     ],
     "id": "163",
     "question": "Położenie płodu to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 165",
     "answers": ["tylko 5.", "1,2,3.", "1,2,5.", "2,3,4.", "1,2,4."],
     "id": "164",
     "question": "Wskaż prawdziwe stwierdzenia dotyczące raka sromu:\n1) najczęściej wywodzi się z nabłonka wielowarstwowego płaskiego;\n2) w etiopatogenezie części raków sromu istotną rolę odgrywają zakażenia HPV;\n3) najczęstszym miejscem przerzutowania są węzły chłonne nadobojczykowe;\n4) podstawą leczenia jest zabieg chirurgiczny i radiochemioterapia;\n5) hormonoterapia jest najskuteczniejszą metodą leczenia raka sromu.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 166",
@@ -1980,8 +1980,8 @@
       "astenoteratozoospermia."
     ],
     "id": "165",
-    "question": "32-letni pacjent wykonał przesiewowe badanie nasienia w trakcie diagnostykiniepłodności partnerskiej. Na badanie udał się po 3 dniach abstynencji seksualnej. Wotrzymanym wyniku stwierdzono: liczba plemników 18 mln/ml; ruchliwość postępowaszybka i wolna łącznie 33%; morfologia plemników - 5% prawidłowych form. Jakierozpoznanie powinno znaleźć się na wyniku tego pacjenta?",
-    "correctAnswear": 0
+    "question": "32-letni pacjent wykonał przesiewowe badanie nasienia w trakcie diagnostyki niepłodności partnerskiej. Na badanie udał się po 3 dniach abstynencji seksualnej. W otrzymanym wyniku stwierdzono: liczba plemników 18 mln/ml; ruchliwość postępowa szybka i wolna łącznie 33%; morfologia plemników - 5% prawidłowych form. Jakie rozpoznanie powinno znaleźć się na wyniku tego pacjenta?",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 167",
@@ -1993,8 +1993,8 @@
       "glukonian wapnia podawany dożylnie."
     ],
     "id": "166",
-    "question": "U pacjentek z ciężką preeklampsją, zarówno w profilaktyce drgawek jak i w przerywaniunapadów drgawkowych, lekiem z wyboru jest:",
-    "correctAnswear": 2
+    "question": "U pacjentek z ciężką preeklampsją, zarówno w profilaktyce drgawek jak i w przerywaniu napadów drgawkowych, lekiem z wyboru jest:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 168",
@@ -2006,8 +2006,8 @@
       "zwiększenia syntezy testosteronu."
     ],
     "id": "167",
-    "question": "Przewlekłe nadużywanie alkoholu może prowadzić do zaburzenia spermatogenezy wwyniku:",
-    "correctAnswear": 2
+    "question": "Przewlekłe nadużywanie alkoholu może prowadzić do zaburzenia spermatogenezy w wyniku:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 169",
@@ -2020,7 +2020,7 @@
     ],
     "id": "168",
     "question": "Charakterystycznym objawem w wysiłkowym nietrzymaniu moczu (WNM) u kobiet jest:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 170",
@@ -2033,7 +2033,7 @@
     ],
     "id": "169",
     "question": "Wtórna profilaktyka raka szyjki macicy polega na:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 171",
@@ -2046,7 +2046,7 @@
     ],
     "id": "170",
     "question": "Co to jest sprzężna prawdziwa?",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 172",
@@ -2058,22 +2058,22 @@
       "leczenia karłowatości przysadkowej."
     ],
     "id": "171",
-    "question": "Znaczenie analogów GnRH w ginekologii jest od dawna znane. Są one stosowane wnastępujących wskazaniach, z wyjątkiem:",
-    "correctAnswear": 4
+    "question": "Znaczenie analogów GnRH w ginekologii jest od dawna znane. Są one stosowane w następujących wskazaniach, z wyjątkiem:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 173",
     "answers": ["1,2,3.", "1,3,4.", "1,3,5.", "2,3,5.", "3,4,5."],
     "id": "172",
     "question": "Do obrazu klinicznego zespołu HELLP zalicza się:\n1) podwyższona aktywność enzymów wątrobowych;\n2) małopłytkowość;\n3) hemoliza;\n4) nadpłytkowość;\n5) obniżone stężenie bilirubiny pośredniej.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 174",
     "answers": ["1,3,4.", "1,4,5.", "2,5,6.", "3,4,5.", "4,5,6."],
     "id": "173",
     "question": "Przyczynami wstecznej ejakulacji mogą być:\n1) cukrzyca;\n2) depresja;\n3) stwardnienie rozsiane;\n4) urazy rdzenia kręgowego;\n5) zawał mięśnia sercowego;\n6) złamanie kości udowej.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 175",
@@ -2086,7 +2086,7 @@
     ],
     "id": "174",
     "question": "Ultrasonograficznym czynnikiem ryzyka dystocji barkowej nie jest:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 176",
@@ -2098,8 +2098,8 @@
       "jednoczesne współistnienie ciąży prawidłowo zlokalizowanej oraz ciąży pozamacicznej."
     ],
     "id": "175",
-    "question": "Ciąża heterotopowa może być jednym z powikłań technik wspomaganego rozrodu ioznacza:",
-    "correctAnswear": 4
+    "question": "Ciąża heterotopowa może być jednym z powikłań technik wspomaganego rozrodu i oznacza:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 177",
@@ -2111,8 +2111,8 @@
       "zależy od wyjściowego poziomu hemoglobiny przed ciążą."
     ],
     "id": "176",
-    "question": "Graniczna wartość hemoglobiny, poniżej której rozpoznaje się niedokrwistość w czasieciąży:",
-    "correctAnswear": 1
+    "question": "Graniczna wartość hemoglobiny, poniżej której rozpoznaje się niedokrwistość w czasie ciąży:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 178",
@@ -2125,7 +2125,7 @@
     ],
     "id": "177",
     "question": "Zespół Sheehana - poporodowa martwica przysadki - charakteryzuje się:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 179",
@@ -2137,15 +2137,15 @@
       "sprężone powietrze."
     ],
     "id": "178",
-    "question": "W celu wytworzenia odmy podczas zabiegu laparoskopowego do jamy otrzewnejwprowadza się:",
-    "correctAnswear": 1
+    "question": "W celu wytworzenia odmy podczas zabiegu laparoskopowego do jamy otrzewnej wprowadza się:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 180",
     "answers": ["Ca125.", "beta hCG.", "estradiol.", "inhibina A.", "HE4."],
     "id": "179",
     "question": "Który z wymienionych markerów stosuje się w diagnostyce zaśniadu?",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 181",
@@ -2158,14 +2158,14 @@
     ],
     "id": "180",
     "question": "Wskaż prawdziwe zdanie dotyczące endometriozy:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 182",
     "answers": ["1,4.", "2,6.", "2,7.", "3,5.", "4,6."],
     "id": "181",
-    "question": "W ciąży wielopłodowej istnieje podwyższone ryzyko wystąpienia licznychnieprawidłowości w okresie ciąży, porodu oraz powikłań poporodowych w porównaniu zciążą jednopłodową. Wskaż, które z poniżej wymienionych powikłań nie sąobserwowane w ciąży wielopłodowej ze zwiększoną częstością:\n1) dystocja barkowa;\n2) nadciśnienie tętnicze indukowane ciążą;\n3) konieczność ukończenia ciąży cięciem cesarskim;\n4) poród po terminie;\n5) zgon okołoporodowy;\n6) łożysko przodujące;\n7) wady wrodzone.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 0
+    "question": "W ciąży wielopłodowej istnieje podwyższone ryzyko wystąpienia licznych nieprawidłowości w okresie ciąży, porodu oraz powikłań poporodowych w porównaniu z ciążą jednopłodową. Wskaż, które z poniżej wymienionych powikłań nie są obserwowane w ciąży wielopłodowej ze zwiększoną częstością:\n1) dystocja barkowa;\n2) nadciśnienie tętnicze indukowane ciążą;\n3) konieczność ukończenia ciąży cięciem cesarskim;\n4) poród po terminie;\n5) zgon okołoporodowy;\n6) łożysko przodujące;\n7) wady wrodzone.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 183",
@@ -2178,7 +2178,7 @@
     ],
     "id": "182",
     "question": "Leczenie raka szyjki macicy w stopniu przedinwazyjnym polega na:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 184",
@@ -2191,14 +2191,14 @@
     ],
     "id": "183",
     "question": "Do wirylizujących guzów jajnika zalicza się guz wywodzący się z:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 185",
     "answers": ["50 μg.", "100 μg.", "150 μg.", "300 μg.", "1500 μg."],
     "id": "184",
-    "question": "Dawka immunoglobuliny anty-D, którą powinna otrzymać pacjentka Rh ujemna, u którejdoszło do poronienia w 14. tygodniu ciąży wynosi:",
-    "correctAnswear": 0
+    "question": "Dawka immunoglobuliny anty-D, którą powinna otrzymać pacjentka Rh ujemna, u której doszło do poronienia w 14. tygodniu ciąży wynosi:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 186",
@@ -2211,7 +2211,7 @@
     ],
     "id": "185",
     "question": "Stosunek długiej osi płodu do długiej osi macicy oraz kanału rodnego to:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 187",
@@ -2223,8 +2223,8 @@
       "obecność jąder w jamie brzusznej."
     ],
     "id": "186",
-    "question": "Wspólną cechą zespołu Mayera-Rokitansky’ego-Kustnera-Hausera i całkowitejniewrażliwości na androgeny jest:",
-    "correctAnswear": 2
+    "question": "Wspólną cechą zespołu Mayera-Rokitansky’ego-Kustnera-Hausera i całkowitej niewrażliwości na androgeny jest:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 188",
@@ -2236,8 +2236,8 @@
       "jedynie gdy wystąpią objawy, takie jak np. upławy, krwawienia kontaktowe."
     ],
     "id": "187",
-    "question": "U 35-letniej kobiety, wieloródki, nieobciążonej czynnikami ryzyka, której 3 ostatniewyniki badania cytologicznego były prawidłowe, kolejne badanie cytologiczne wystarczyzlecić:",
-    "correctAnswear": 3
+    "question": "U 35-letniej kobiety, wieloródki, nieobciążonej czynnikami ryzyka, której 3 ostatnie wyniki badania cytologicznego były prawidłowe, kolejne badanie cytologiczne wystarczy zlecić:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 189",
@@ -2250,7 +2250,7 @@
     ],
     "id": "188",
     "question": "Wskaż fałszywe stwierdzenie dotyczące hormonalnych metod zapobiegania ciąży:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 190",
@@ -2262,8 +2262,8 @@
       "hipowolemii."
     ],
     "id": "189",
-    "question": "Pacjentka z ciążą bliźniaczą jednokosmówkową została poinformowana o ryzykuwystąpienia zespołu przetoczenia krwi między płodami. W zespole tym dochodzi doniezrównoważonego przepływu krwi między płodami poprzez funkcjonalnie czynnepołączenia naczyniowe. Jednym z powikłań ww. zespołu jest występowanie u biorcy:",
-    "correctAnswear": 0
+    "question": "Pacjentka z ciążą bliźniaczą jednokosmówkową została poinformowana o ryzyku wystąpienia zespołu przetoczenia krwi między płodami. W zespole tym dochodzi do niezrównoważonego przepływu krwi między płodami poprzez funkcjonalnie czynne połączenia naczyniowe. Jednym z powikłań ww. zespołu jest występowanie u biorcy:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 191",
@@ -2276,7 +2276,7 @@
     ],
     "id": "190",
     "question": "Występowanie endometriozy powinno być brane pod uwagę w przypadku:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 192",
@@ -2289,7 +2289,7 @@
     ],
     "id": "191",
     "question": "Faza proliferacyjna cyklu endometrialnego zależna jest od:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 193",
@@ -2301,8 +2301,8 @@
       "11. rokiem życia niezależnie od rasy."
     ],
     "id": "192",
-    "question": "O przedwczesnym dojrzewaniu płciowym mówi się u dziewczynek, gdy trzeciorzędowecechy płciowe pojawiają się przed:",
-    "correctAnswear": 0
+    "question": "O przedwczesnym dojrzewaniu płciowym mówi się u dziewczynek, gdy trzeciorzędowe cechy płciowe pojawiają się przed:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 194",
@@ -2314,8 +2314,8 @@
       "wierzchołkowo-bródkowy."
     ],
     "id": "193",
-    "question": "Który wymiar główki płodu jest najmniejszy i najkorzystniej pokonuje przestrzenie ipłaszczyzny miednicy mniejszej podczas porodu fizjologicznego?",
-    "correctAnswear": 0
+    "question": "Który wymiar główki płodu jest najmniejszy i najkorzystniej pokonuje przestrzenie i płaszczyzny miednicy mniejszej podczas porodu fizjologicznego?",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 195",
@@ -2327,8 +2327,8 @@
       "bradykardii."
     ],
     "id": "194",
-    "question": "Korzystnym rokowniczo zjawiskiem w zapisie kardiotokograficznym (KTG) jestobecność:",
-    "correctAnswear": 3
+    "question": "Korzystnym rokowniczo zjawiskiem w zapisie kardiotokograficznym (KTG) jest obecność:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 196",
@@ -2340,8 +2340,8 @@
       "wzrost liczby krwinek białych."
     ],
     "id": "195",
-    "question": "Która z wymienionych zmian parametrów morfologicznych krwi występuje w IItrymestrze prawidłowo przebiegającej ciąży?",
-    "correctAnswear": 1
+    "question": "Która z wymienionych zmian parametrów morfologicznych krwi występuje w II trymestrze prawidłowo przebiegającej ciąży?",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 197",
@@ -2353,8 +2353,8 @@
       "pojawienie się biegunki."
     ],
     "id": "196",
-    "question": "Bezpośrednio po trzecim okresie porodu u pacjentki wystąpił masywny krwotok wraz zewstrząsem hipowolemicznym. Po kilku dniach uzyskano istotną poprawę stanuklinicznego pacjentki, niemniej jednak podejrzewa się wystąpienie u niej zespołuSheehana, za czym przemawia:",
-    "correctAnswear": 3
+    "question": "Bezpośrednio po trzecim okresie porodu u pacjentki wystąpił masywny krwotok wraz ze wstrząsem hipowolemicznym. Po kilku dniach uzyskano istotną poprawę stanu klinicznego pacjentki, niemniej jednak podejrzewa się wystąpienie u niej zespołu Sheehana, za czym przemawia:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 198",
@@ -2366,8 +2366,8 @@
       "wzrost stężenia glukozy."
     ],
     "id": "197",
-    "question": "Do fizjologicznych przyczyn podwyższonego wydzielania prolaktyny u kobiety nienależy:",
-    "correctAnswear": 4
+    "question": "Do fizjologicznych przyczyn podwyższonego wydzielania prolaktyny u kobiety nie należy:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 199",
@@ -2380,7 +2380,7 @@
     ],
     "id": "198",
     "question": "W okresie ciąży heparyna niskocząsteczkowa:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 200",
@@ -2393,7 +2393,7 @@
     ],
     "id": "199",
     "question": "Wskaż prawdziwe stwierdzenie dotyczące oddzielenia łożyska sposobem Duncana:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 201",
@@ -2406,7 +2406,7 @@
     ],
     "id": "200",
     "question": "W leczeniu farmakologicznym endometriozy nie stosuje się:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 202",
@@ -2418,15 +2418,15 @@
       "wspomagająco w leczeniu antykoncepcyjnym."
     ],
     "id": "201",
-    "question": "Agonistów receptora dopaminowego D2 (bromokryptyna, chinagolid, kabergolina)stosuje się:",
-    "correctAnswear": 1
+    "question": "Agonistów receptora dopaminowego D2 (bromokryptyna, chinagolid, kabergolina) stosuje się:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 203",
     "answers": ["1,3,5.", "1,5.", "2,3.", "1,4,5.", "2,3,4."],
     "id": "202",
     "question": "Wskaż prawdziwe stwierdzenia dotyczące analizy zapisu kardiotokograficznego (KTG):\n1) zmienność krótkoterminowa (STV) jest szczególnie pomocna w przewidywaniu\nryzyka wystąpienia kwasicy metabolicznej u płodu;\n2) prawidłowa częstość rytmu serca płodu (FHR) wynosi 100-160 uderzeń/minutę;\n3) brak akceleracji w zapisie do 180 minut uważa się za prawidłowy i traktuje jako wyraz\ngłębokiego snu płodu;\n4) prawidłowa zmienność długoterminowa (LTV) wynosi 5-25 uderzeń/minutę;\n5) rytm sinusoidalny świadczy o wysokim stopniu zagrożenia płodu.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 204",
@@ -2438,15 +2438,15 @@
       "5. chwyt Leopolda (chwyt Zangemeistera)."
     ],
     "id": "203",
-    "question": "Badający obie dłonie umieszcza na bokach brzucha ciężarnej, na wysokości pępka,płasko i równolegle do siebie. Chwyt ten umożliwia określenie ustawienia płodu.Podany opis przedstawia:",
-    "correctAnswear": 1
+    "question": "Badający obie dłonie umieszcza na bokach brzucha ciężarnej, na wysokości pępka, płasko i równolegle do siebie. Chwyt ten umożliwia określenie ustawienia płodu. Podany opis przedstawia:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 205",
     "answers": ["1,5.", "1,2,3.", "1,3,4.", "tylko 1.", "4,5."],
     "id": "204",
-    "question": "Zmiany adaptacyjne w układzie krążenia u kobiety ciężarnej polegają na:\n1) wzroście objętości krwi krążącej, w tym o 45% objętości osocza i o 20% masy\nerytrocytarnej, przy czym wzrost objętości krwi krążącej jest większy u kobiet otyłych niżu szczupłych;\n2) wzroście pojemności minutowej serca;\n3) przyspieszeniu czynności serca o 10-15 uderzeń na minutę;\n4) zwiększeniu o 20% obwodowego oporu tętniczego;\n5) wzroście ośrodkowego ciśnienia żylnego.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "question": "Zmiany adaptacyjne w układzie krążenia u kobiety ciężarnej polegają na:\n1) wzroście objętości krwi krążącej, w tym o 45% objętości osocza i o 20% masy\nerytrocytarnej, przy czym wzrost objętości krwi krążącej jest większy u kobiet otyłych niż u szczupłych;\n2) wzroście pojemności minutowej serca;\n3) przyspieszeniu czynności serca o 10-15 uderzeń na minutę;\n4) zwiększeniu o 20% obwodowego oporu tętniczego;\n5) wzroście ośrodkowego ciśnienia żylnego.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 206",
@@ -2458,8 +2458,8 @@
       "wodonercze z powodu ucisku ciężarnej macicy na moczowód."
     ],
     "id": "205",
-    "question": "Na Izbę Przyjęć zgłasza się 27-letnia pacjentka w 29. tygodniu pierwszej ciąży. Od kilkugodzin gorączkuje do 38,3 st. C, dwa razy zwymiotowała, skarży się również na bólpleców. W kontrolnym USG stwierdza się żywy płód o biometrii odpowiadającejtygodniowi ciąży, prawidłowe łożysko w dnie macicy oraz pełen pęcherz moczowy.Brzuch jest miękki, bolesny w okolicy podbrzusza. W badaniu przez pochwę niestwierdza się bolesności przy poruszaniu szyjką macicy. Opukiwanie okolicy lędźwiowejjest dla pacjentki bardzo bolesne, szczególnie po stronie lewej. Wskaż najbardziejprawdopodobne rozpoznanie:",
-    "correctAnswear": 3
+    "question": "Na Izbę Przyjęć zgłasza się 27-letnia pacjentka w 29. tygodniu pierwszej ciąży. Od kilku godzin gorączkuje do 38,3 st. C, dwa razy zwymiotowała, skarży się również na ból pleców. W kontrolnym USG stwierdza się żywy płód o biometrii odpowiadającej tygodniowi ciąży, prawidłowe łożysko w dnie macicy oraz pełen pęcherz moczowy. Brzuch jest miękki, bolesny w okolicy podbrzusza. W badaniu przez pochwę nie stwierdza się bolesności przy poruszaniu szyjką macicy. Opukiwanie okolicy lędźwiowej jest dla pacjentki bardzo bolesne, szczególnie po stronie lewej. Wskaż najbardziej prawdopodobne rozpoznanie:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 207",
@@ -2472,14 +2472,14 @@
     ],
     "id": "206",
     "question": "Wskaż, co nie należy do cech zespołu Swyera:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 208",
     "answers": ["1,2,4.", "2,4,5.", "tylko 3.", "1,3,5.", "2,3,5."],
     "id": "207",
     "question": "Wskaż cechy charakterystyczne dla ziarniszczaka:\n1) występuje najczęściej obustronnie;\n2) jest nowotworem germinalnym;\n3) wydziela estrogeny i inhibinę;\n4) bardzo często towarzyszy mu wodobrzusze;\n5) najczęściej występuje przed pokwitaniem.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 209",
@@ -2491,8 +2491,8 @@
       "żadnym z wymienionych."
     ],
     "id": "208",
-    "question": "U ciężarnej w 41. tygodniu ciąży podłączono zapis KTG. Stwierdzono podstawowąakcję serca na poziomie 145 uderzeń na minutę. Od 20 minut pojawiają się spadki tętnado 110 /minutę na szczycie każdego skurczu. Zapis taki świadczy o:",
-    "correctAnswear": 1
+    "question": "U ciężarnej w 41. tygodniu ciąży podłączono zapis KTG. Stwierdzono podstawową akcję serca na poziomie 145 uderzeń na minutę. Od 20 minut pojawiają się spadki tętna do 110 /minutę na szczycie każdego skurczu. Zapis taki świadczy o:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 210",
@@ -2504,8 +2504,8 @@
       "dodatni test estrogenowo-progesteronowy."
     ],
     "id": "209",
-    "question": "Który z elementów wywiadu lub diagnostyki nie potwierdza rozpoznania niewydolnościpodwzgórzowo-przysadkowej?",
-    "correctAnswear": 1
+    "question": "Który z elementów wywiadu lub diagnostyki nie potwierdza rozpoznania niewydolności podwzgórzowo-przysadkowej?",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 211",
@@ -2517,8 +2517,8 @@
       "acyklowirem."
     ],
     "id": "210",
-    "question": "Reakcji disulfiramowej można spodziewać się u pacjentki z infekcją narządówpłciowych, która piła alkohol podczas leczenia:",
-    "correctAnswear": 0
+    "question": "Reakcji disulfiramowej można spodziewać się u pacjentki z infekcją narządów płciowych, która piła alkohol podczas leczenia:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 212",
@@ -2530,8 +2530,8 @@
       "ampicylina."
     ],
     "id": "211",
-    "question": "Którego z podanych leków nie stosuje się w leczeniu zakażenia układu moczowego ukobiety ciężarnej lub karmiącej piersią?",
-    "correctAnswear": 1
+    "question": "Którego z podanych leków nie stosuje się w leczeniu zakażenia układu moczowego u kobiety ciężarnej lub karmiącej piersią?",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 213",
@@ -2543,8 +2543,8 @@
       "ocena wolnego DNA płodowego we krwi matki."
     ],
     "id": "212",
-    "question": "Nieinwazyjny test prenatalny o najwyższej czułości w diagnostyce wadchromosomalnych u płodu to:",
-    "correctAnswear": 4
+    "question": "Nieinwazyjny test prenatalny o najwyższej czułości w diagnostyce wad chromosomalnych u płodu to:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 214",
@@ -2557,7 +2557,7 @@
     ],
     "id": "213",
     "question": "Teratozoospermia według kryteriów WHO z 2010 r. oznacza:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 215",
@@ -2569,8 +2569,8 @@
       "pH"
     ],
     "id": "214",
-    "question": "Obraz kliniczny wydzieliny pochwowej u pacjentki z bakteryjnym zapaleniem pochwycechują:",
-    "correctAnswear": 2
+    "question": "Obraz kliniczny wydzieliny pochwowej u pacjentki z bakteryjnym zapaleniem pochwy cechują:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 216",
@@ -2583,14 +2583,14 @@
     ],
     "id": "215",
     "question": "Wskaż prawdziwe stwierdzenie dotyczące chirurgii raka jajnika:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 217",
     "answers": ["1,4,7.", "3,4,6.", "2,4,6,7.", "1,4,5.", "2,3,7."],
     "id": "216",
     "question": "Wskaż cechy kliniczne nowotworów germinalnych jajnika:\n1) występują głównie u młodych kobiet;\n2) występują przede wszystkim u kobiet w późnej menopauzie;\n3) mogą być diagnozowane na podstawie wzrostu poziomu CA-125, CEA, CA 15-3 we\nkrwi;\n4) mogą być diagnozowane na podstawie wzrostu poziomu LDH, AFP, hCG we krwi;\n5) są wrażliwe na chemioterapię;\n6) są leczone wyłącznie metodami chirurgicznymi;\n7) są zawsze nowotworami złośliwymi.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 218",
@@ -2603,14 +2603,14 @@
     ],
     "id": "217",
     "question": "Do cech zespołu policystycznych jajników nie należy:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 219",
     "answers": ["1,2.", "1,4.", "2,3.", "2,4.", "3,4."],
     "id": "218",
     "question": "Do nowotworów jajnika produkujących hormony steroidowe zalicza się:\n1) otoczkowiaka;\n2) potworniaka dojrzałego;\n3) raka endometrioidalnego;\n4) ziarniszczaka.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 220",
@@ -2622,8 +2622,8 @@
       "wirusem opryszczki."
     ],
     "id": "219",
-    "question": "Triada Sabina-Pinkertona (wodogłowie lub małogłowie, zapalenie siatkówki inaczyniówki oraz zwapnienia śródmózgowe) jest charakterystyczna dla wrodzonegozakażenia:",
-    "correctAnswear": 1
+    "question": "Triada Sabina-Pinkertona (wodogłowie lub małogłowie, zapalenie siatkówki i naczyniówki oraz zwapnienia śródmózgowe) jest charakterystyczna dla wrodzonego zakażenia:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 221",
@@ -2636,7 +2636,7 @@
     ],
     "id": "220",
     "question": "Leczenie nadciśnienia tętniczego u kobiet w ciąży obejmuje stosowanie:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 222",
@@ -2649,7 +2649,7 @@
     ],
     "id": "221",
     "question": "Czynnikiem ryzyka raka trzonu macicy nie jest:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 223",
@@ -2661,8 +2661,8 @@
       "hipogonadyzm hipogonadotropowy."
     ],
     "id": "222",
-    "question": "W przypadku wystąpienia zaburzeń miesiączkowania związanych z przewlekłymintensywnym wysiłkiem fizycznym u pacjentki występuje zwykle:",
-    "correctAnswear": 4
+    "question": "W przypadku wystąpienia zaburzeń miesiączkowania związanych z przewlekłym intensywnym wysiłkiem fizycznym u pacjentki występuje zwykle:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 224",
@@ -2674,8 +2674,8 @@
       "położenie stópkowe."
     ],
     "id": "223",
-    "question": "Przeciwwskazaniem do bezpiecznego przeprowadzenia porodu drogą pochwową przypołożeniu miednicowym płodu jest:",
-    "correctAnswear": 4
+    "question": "Przeciwwskazaniem do bezpiecznego przeprowadzenia porodu drogą pochwową przy położeniu miednicowym płodu jest:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 225",
@@ -2687,8 +2687,8 @@
       "małowodzia."
     ],
     "id": "224",
-    "question": "Ciąża u kobiet z nadciśnieniem przewlekłym jest ciążą wysokiego ryzyka i może wiązaćsię z wymienionymi powikłaniami, z wyjątkiem:",
-    "correctAnswear": 0
+    "question": "Ciąża u kobiet z nadciśnieniem przewlekłym jest ciążą wysokiego ryzyka i może wiązać się z wymienionymi powikłaniami, z wyjątkiem:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 226",
@@ -2700,8 +2700,8 @@
       "wykonać natychmiast test tolerancji z obciążeniem 75 g glukozy."
     ],
     "id": "225",
-    "question": "W przypadku stwierdzenia glikemii na czczo wynoszącej 110 mg/dl w badaniuwykonanym w 9. tygodniu ciąży u pacjentki bez czynników ryzyka cukrzycy należy:",
-    "correctAnswear": 4
+    "question": "W przypadku stwierdzenia glikemii na czczo wynoszącej 110 mg/dl w badaniu wykonanym w 9. tygodniu ciąży u pacjentki bez czynników ryzyka cukrzycy należy:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 227",
@@ -2713,8 +2713,8 @@
       "klonidyna."
     ],
     "id": "226",
-    "question": "W leczeniu farmakologicznym nadciśnienia tętniczego u kobiet ciężarnychbezwzględnie przeciwwskazane są:",
-    "correctAnswear": 3
+    "question": "W leczeniu farmakologicznym nadciśnienia tętniczego u kobiet ciężarnych bezwzględnie przeciwwskazane są:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 228",
@@ -2727,7 +2727,7 @@
     ],
     "id": "227",
     "question": "Typowym powikłaniem cukrzycy ciążowej nie jest:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 229",
@@ -2740,7 +2740,7 @@
     ],
     "id": "228",
     "question": "Przeciwwskazaniem do karmienia piersią nie jest:",
-    "correctAnswear": 3
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 230",
@@ -2752,8 +2752,8 @@
       "Couvelaire’a."
     ],
     "id": "229",
-    "question": "Kilkanaście miesięcy temu młoda pacjentka przebyła poród siłami natury, po którymniezbędne było wyłyżeczkowanie ścian macicy ze względu na nieoddzielenie sięfragmentów łożyska. Karmienie piersią zakończyła 4 miesiące temu, ale nadal niewystąpiło u niej krwawienie miesięczne. Biorąc pod uwagę powyższy wywiad możnapodejrzewać zespół:",
-    "correctAnswear": 2
+    "question": "Kilkanaście miesięcy temu młoda pacjentka przebyła poród siłami natury, po którym niezbędne było wyłyżeczkowanie ścian macicy ze względu na nieoddzielenie się fragmentów łożyska. Karmienie piersią zakończyła 4 miesiące temu, ale nadal nie wystąpiło u niej krwawienie miesięczne. Biorąc pod uwagę powyższy wywiad można podejrzewać zespół:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 231",
@@ -2765,8 +2765,8 @@
       "żyłę pępowinową."
     ],
     "id": "230",
-    "question": "Które z naczyń wykorzystuje się w ultrasonograficznej nieinwazyjnej diagnostycestopnia niedokrwistości u płodu?",
-    "correctAnswear": 3
+    "question": "Które z naczyń wykorzystuje się w ultrasonograficznej nieinwazyjnej diagnostyce stopnia niedokrwistości u płodu?",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 232",
@@ -2779,7 +2779,7 @@
     ],
     "id": "231",
     "question": "Wysokie wartości FSH przy niskich wartościach estradiolu charakterystyczne są dla:\n1) zespołu Turnera;\n2) przedwczesnego wygasania czynności jajników (POF);\n3) czystej dysgenezji gonad;\n4) zespołu policystycznych jajników (PCOS);\n5) okresu pomenopauzalnego.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 233",
@@ -2792,7 +2792,7 @@
     ],
     "id": "232",
     "question": "W położnictwie termin ustawienie (positio) oznacza:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 234",
@@ -2804,8 +2804,8 @@
       "czynności serca płodu."
     ],
     "id": "233",
-    "question": "Do parametrów ocenianych przy badaniu profilu biofizycznego płodu nie należyanaliza:",
-    "correctAnswear": 2
+    "question": "Do parametrów ocenianych przy badaniu profilu biofizycznego płodu nie należy analiza:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 235",
@@ -2817,8 +2817,8 @@
       "obniżenie czynności serca, obniżenie objętości minutowej serca, wzrost objętości krwi krążącej, wzrost oporów naczyń obwodowych i płucnych, wzrost ciśnienia tętniczego krwi."
     ],
     "id": "234",
-    "question": "Wskaż poprawne zestawienie fizjologicznych zmian zachodzących w układzie krążeniau kobiety w ciąży:",
-    "correctAnswear": 0
+    "question": "Wskaż poprawne zestawienie fizjologicznych zmian zachodzących w układzie krążenia u kobiety w ciąży:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 236",
@@ -2830,8 +2830,8 @@
       "częste zmiany partnerów seksualnych."
     ],
     "id": "235",
-    "question": "Do ginekologa zgłosiła się 45-letnia kobieta, u której rozpoznano raka szyjki macicy.Wśród danych zebranych z wywiadu do czynników ryzyka tego nowotworu nienależy/-ą:",
-    "correctAnswear": 2
+    "question": "Do ginekologa zgłosiła się 45-letnia kobieta, u której rozpoznano raka szyjki macicy. Wśród danych zebranych z wywiadu do czynników ryzyka tego nowotworu nie należy/-ą:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 237",
@@ -2843,15 +2843,15 @@
       "1,2."
     ],
     "id": "236",
-    "question": "Charakterystyczne powikłania występujące w ciążach bliźniaczychjednokosmówkowych jednoowodniowych obejmują:\n1) ostrą postać zespołu odwróconego przetoczenia krwi między płodami (TTTS);\n2) przewlekłą postać zespołu odwróconego przetoczenia krwi między płodami (TTTS);\n3) uszkodzenie przeżywającego płodu po obumarciu wewnątrzmacicznym jego\nwspółbliźniaka;\n4) niecałkowite rozdzielenie płodów;\n5) poród przedwczesny po ukończonym 37. tygodniu ciąży.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Charakterystyczne powikłania występujące w ciążach bliźniaczych jednokosmówkowych jednoowodniowych obejmują:\n1) ostrą postać zespołu odwróconego przetoczenia krwi między płodami (TTTS);\n2) przewlekłą postać zespołu odwróconego przetoczenia krwi między płodami (TTTS);\n3) uszkodzenie przeżywającego płodu po obumarciu wewnątrzmacicznym jego\nwspółbliźniaka;\n4) niecałkowite rozdzielenie płodów;\n5) poród przedwczesny po ukończonym 37. tygodniu ciąży.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 238",
     "answers": ["50 μg.", "100 μg.", "150 μg.", "200 μg.", "300 μg."],
     "id": "237",
-    "question": "Immunoglobulinę anty-RhD podaje się kobietom RhD-ujemnym domięśniowo w czasienieprzekraczającym 72 godzin po usunięciu ciąży ektopowej do 12. tygodnia jej trwaniaw dawce jednorazowej:",
-    "correctAnswear": 0
+    "question": "Immunoglobulinę anty-RhD podaje się kobietom RhD-ujemnym domięśniowo w czasie nieprzekraczającym 72 godzin po usunięciu ciąży ektopowej do 12. tygodnia jej trwania w dawce jednorazowej:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 239",
@@ -2863,15 +2863,15 @@
       "ruchów oddechowych płodu."
     ],
     "id": "238",
-    "question": "W profilu biofizycznym płodu (test Manninga) ocenia się następujące parametry, zwyjątkiem:",
-    "correctAnswear": 2
+    "question": "W profilu biofizycznym płodu (test Manninga) ocenia się następujące parametry, z wyjątkiem:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 240",
     "answers": ["1,3,5.", "3,4,5.", "2,3,4.", "2,4.", "2,4,5."],
     "id": "239",
     "question": "Do czynników zwiększających ryzyko zachorowania na raka endometrium należą:\n1) palenie papierosów;\n2) obecność zespołu metabolicznego (otyłość, cukrzyca);\n3) wielodzietność;\n4) zespół policystycznych jajników;\n5) długotrwałe leczenie estrogenami niezrównoważone podawaniem progesteronu.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 241",
@@ -2884,7 +2884,7 @@
     ],
     "id": "240",
     "question": "Najmniejszym obwodem główki płodu jest obwód:",
-    "correctAnswear": 1
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 242",
@@ -2896,8 +2896,8 @@
       "pojawienia się zmian barwy głosu."
     ],
     "id": "241",
-    "question": "Przedwczesne thelarche różni się od przedwczesnego dojrzewania tym, że w jegoprzypadku dochodzi do izolowanego:",
-    "correctAnswear": 2
+    "question": "Przedwczesne thelarche różni się od przedwczesnego dojrzewania tym, że w jego przypadku dochodzi do izolowanego:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 243",
@@ -2910,14 +2910,14 @@
     ],
     "id": "242",
     "question": "Marsupializacja jest metodą leczenia chirurgicznego w przypadku:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 244",
     "answers": ["1,2.", "2,3.", "3,5.", "2,4,5.", "1,4,5."],
     "id": "243",
-    "question": "Bezdzietna pacjentka w wieku 32 lat ma w wywiadzie 4 poronienia samoistne w Itrymestrze ciąży. Ocena przyczyn wystąpienia poronień u tej pacjentki powinnaobejmować:\n1) diagnostykę zarażenia Toxoplasma gondii;\n2) diagnostykę zakażenia Human Papilloma Virus;\n3) oznaczenie przeciwciał antykardiolipinowych;\n4) diagnostykę infekcji Cytomegalovirus;\n5) oznaczenie antykoagulantu toczniowego.\nPrawidłowa odpowiedź to:",
-    "correctAnswear": 2
+    "question": "Bezdzietna pacjentka w wieku 32 lat ma w wywiadzie 4 poronienia samoistne w I trymestrze ciąży. Ocena przyczyn wystąpienia poronień u tej pacjentki powinna obejmować:\n1) diagnostykę zarażenia Toxoplasma gondii;\n2) diagnostykę zakażenia Human Papilloma Virus;\n3) oznaczenie przeciwciał antykardiolipinowych;\n4) diagnostykę infekcji Cytomegalovirus;\n5) oznaczenie antykoagulantu toczniowego.\nPrawidłowa odpowiedź to:",
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 245",
@@ -2930,7 +2930,7 @@
     ],
     "id": "244",
     "question": "Wskaż parametry dotyczące szyjki macicy, które oceniane są za pomocą skali Bishopa:",
-    "correctAnswear": 0
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 246",
@@ -2942,8 +2942,8 @@
       "zespołu bólowego miednicy małej."
     ],
     "id": "245",
-    "question": "Rozpoznanie endometriozy powinno być brane pod uwagę we wszystkichnastępujących stanach, z wyjątkiem:",
-    "correctAnswear": 0
+    "question": "Rozpoznanie endometriozy powinno być brane pod uwagę we wszystkich następujących stanach, z wyjątkiem:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 247",
@@ -2956,7 +2956,7 @@
     ],
     "id": "246",
     "question": "Komórki typu clue cells (komórki jeżowe) są charakterystyczne dla:",
-    "correctAnswear": 2
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie nr 248",
@@ -2969,7 +2969,7 @@
     ],
     "id": "247",
     "question": "Do czynników ryzyka rozwoju raka błony śluzowej trzonu macicy nie należy:",
-    "correctAnswear": 4
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie nr 249",
@@ -2980,7 +2980,7 @@
       "raka kosmówki.",
       "płaskonabłonkowego raka szyjki macicy."
     ],
-    "question": "Chemioterapia jako samodzielna metoda terapeutyczna (nie w terapii skojarzonej) manajwiększą skuteczność w leczeniu:",
-    "correctAnswear": 3
+    "question": "Chemioterapia jako samodzielna metoda terapeutyczna (nie w terapii skojarzonej) ma największą skuteczność w leczeniu:",
+    "correctAnswer": 3
   }
 ]

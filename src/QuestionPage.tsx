@@ -5,13 +5,14 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
-  useParams
+  useParams,
+  useHistory,
+  Link
 } from "react-router-dom";
 import {
   Box,
   Button,
   CssBaseline,
-  Link,
   AppBar,
   Toolbar,
   Typography,
@@ -27,6 +28,8 @@ export function QuestionPage() {
   const question = tests
     .find((item) => item.id === testId)
     ?.questions.find((item) => item.id === questionId);
+  const history = useHistory();
+  // @ts-ignore
   const [selected, setSelected]: [
     number,
     (index: number) => {}
@@ -39,9 +42,13 @@ export function QuestionPage() {
   }
   const handleSelectedAnswer = (selectedAnswer: number) => {
     setSelected(selectedAnswer);
-    const correctAnswer = selectedAnswer === question?.correctAnswear;
+    const correctAnswer = selectedAnswer === question?.correctAnswer;
     if (correctAnswer) {
       const index = localStorageTest.questionIds.indexOf(questionId);
+      localStorageTest.questionIds = localStorageTest.questionIds.filter(
+        (item) => item != null
+      );
+      console.log("localStorageTest.questionIds", localStorageTest.questionIds);
       localStorageTest.questionIds.splice(index, 1);
       localStorageTest.answers++;
       localStorageTest.correctAnswers++;
@@ -50,8 +57,9 @@ export function QuestionPage() {
       localStorageTest.questionIds.splice(index, 1);
       for (let i = 0; i < localStorageTest.incorrectAnswerRepeats; i++) {
         localStorageTest.questionIds.push(questionId);
-        localStorageTest.answers++;
       }
+      localStorageTest.answers++;
+      localStorageTest.incorrectAnswers++;
     }
     localStorage[localStorageTestname] = JSON.stringify(localStorageTest);
   };
@@ -64,9 +72,12 @@ export function QuestionPage() {
   if (hasNextQuestion) {
     nextQuestionId = localStorageTest.questionIds[nextQuestionIndex];
   }
+  if (nextQuestionId === null) {
+    debugger;
+  }
   return (
     <Box>
-      <AppBar position="static">
+      <AppBar position="fixed">
         <Toolbar style={{ backgroundColor: "#555" }}>
           <Box
             display="flex"
@@ -76,8 +87,8 @@ export function QuestionPage() {
           >
             <Box display="flex" alignItems="center">
               <IconButton
-                component="a"
-                href={`/tests/${testId}`}
+                component={Link}
+                to={`/tests/${testId}`}
                 edge="start"
                 color="inherit"
                 aria-label="menu"
@@ -109,20 +120,21 @@ export function QuestionPage() {
           </Box>
         </Toolbar>
       </AppBar>
-      <Box padding={4}>
+      <Box padding={4} style={{ marginTop: 60 }}>
         <QuestionComponent
           question={question as Question}
           selected={selected}
+          // @ts-ignore
           onSelected={handleSelectedAnswer}
-          showCorrectAnsewar={selected !== undefined}
+          showCorrectAnsewar={selected !== null}
         />
         <Box marginTop={2} display="flex" justifyContent="center">
           {hasNextQuestion && (
             <Button
-              disabled={selected === null}
-              component="a"
+              disabled={selected === null || nextQuestionId === null}
+              component={Link}
               variant="contained"
-              href={`/tests/${testId}/questions/${nextQuestionId}`}
+              to={`/tests/${testId}/questions/${nextQuestionId}`}
             >
               Następne Pytanie
             </Button>
@@ -134,7 +146,8 @@ export function QuestionPage() {
               color="secondary"
               onClick={() => {
                 localStorage.removeItem(localStorageTestname);
-                window.location = `/tests/${testId}`;
+                // @ts-ignore
+                history.push(`/tests/${testId}`);
               }}
             >
               Zakończ
@@ -144,4 +157,9 @@ export function QuestionPage() {
       </Box>
     </Box>
   );
+}
+
+export function QuestionPageProxy() {
+  const { questionId, testId } = useParams();
+  return <QuestionPage key={`testId${testId}+questionId:${questionId}`} />;
 }

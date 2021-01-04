@@ -30,7 +30,7 @@ import AccessibleForwardIcon from "@material-ui/icons/AccessibleForward";
 
 export function AppBar() {
   return (
-    <MaterialAppBar position="static">
+    <MaterialAppBar position="fixed">
       <Toolbar style={{ backgroundColor: "#555" }}>
         <Typography variant="h6" style={{ color: "#e57373" }}>
           <Button component={Link} to="/" style={{ color: "#fff" }}>

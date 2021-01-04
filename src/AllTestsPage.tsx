@@ -28,9 +28,15 @@ import { useState } from "react";
 import AccessibleForwardIcon from "@material-ui/icons/AccessibleForward";
 import { AppBar } from "./AppBar";
 
-const StyledPaper = styled(Paper)`
+const StyledCard = styled(Card)`
   && {
-    padding: 16px;
+    margin-right: 16px;
+  }
+  @media (max-width: 900px) {
+    && {
+      width: 100%;
+      margin-right: 0px;
+    }
   }
 `;
 
@@ -41,29 +47,31 @@ export function AllTestsPage() {
   return (
     <Box>
       <AppBar />
-      <Box padding={4}>
-        <Grid container spacing={6}>
-          <Grid item xs={4}>
-            <Card>
-              <CardContent>
-                <Typography color="textSecondary" gutterBottom>
-                  {test.title}
-                </Typography>
-              </CardContent>
-              <CardActions>
-                <Button
-                  component={Link}
-                  to={`/tests/${test.id}`}
-                  size="small"
-                  variant="outlined"
-                  color="primary"
-                >
-                  Otwórz
-                </Button>
-              </CardActions>
-            </Card>
-          </Grid>
-        </Grid>
+      <Box
+        padding={4}
+        style={{ marginTop: 60 }}
+        display="flex"
+        flexWrap="wrap"
+        flexDirection="row"
+      >
+        <StyledCard>
+          <CardContent>
+            <Typography color="textSecondary" gutterBottom>
+              {test.title}
+            </Typography>
+          </CardContent>
+          <CardActions>
+            <Button
+              component={Link}
+              to={`/tests/${test.id}`}
+              size="small"
+              variant="outlined"
+              color="primary"
+            >
+              Otwórz
+            </Button>
+          </CardActions>
+        </StyledCard>
       </Box>
     </Box>
   );

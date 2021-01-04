@@ -1,4 +1,4 @@
-import questionsGineksy from "../data/gineksy.json";
+import questionsGineksy from "./data/gineksy.json";
 export const tests = [
   {
     id: "0",

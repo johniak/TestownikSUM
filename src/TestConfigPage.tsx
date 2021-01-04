@@ -5,7 +5,9 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
-  useParams
+  useParams,
+  useHistory,
+  Link
 } from "react-router-dom";
 import {
   Box,
@@ -18,6 +20,7 @@ import {
 import styled from "styled-components";
 import { tests } from "./tests";
 import { useState } from "react";
+import { AppBar } from "./AppBar";
 
 const StyledPaper = styled(Paper)`
   && {
@@ -28,15 +31,13 @@ const StyledPaper = styled(Paper)`
 const INCORECT_ANSWER_REPEATS_DEFAULT = 2;
 
 export function TestConfigPage() {
-  const { questionId, testId } = useParams();
+  const { testId } = useParams();
   const test = tests.find((item) => item.id === testId);
   const [incorrectAnswerRepeats, setIncorrectAnswerRepeats] = useState(
     INCORECT_ANSWER_REPEATS_DEFAULT
   );
+  const history = useHistory();
   const localStorageTestname = `test:${test.id}`;
-  const handleReset = () => {
-    setIncorrectAnswerRepeats(INCORECT_ANSWER_REPEATS_DEFAULT);
-  };
   const localStorageTestJson = localStorage[localStorageTestname];
   let localStorageTest;
   if (localStorageTestJson) {
@@ -55,14 +56,16 @@ export function TestConfigPage() {
       Math.random() * newTest.questionIds?.length
     );
     const questionId = newTest.questionIds[questionIndex];
-    window.location = `/tests/${test?.id}/questions/${questionId}`;
+    // @ts-ignore
+    history.push(`/tests/${test?.id}/questions/${questionId}`);
   };
   const handleContinue = () => {
     const questionIndex = Math.floor(
       Math.random() * localStorageTest.questionIds?.length
     );
     const questionId = localStorageTest.questionIds[questionIndex];
-    window.location = `/tests/${test?.id}/questions/${questionId}`;
+    // @ts-ignore
+    history.push(`/tests/${test?.id}/questions/${questionId}`);
   };
   const marks = [];
   for (let i = 0; i < 10; i++) {
@@ -70,41 +73,42 @@ export function TestConfigPage() {
   }
 
   return (
-    <Box padding={4}>
-      <StyledPaper>
-        <Typography variant="h5" gutterBottom>
-          {test?.title}
-        </Typography>
-        <Typography gutterBottom>
-          Liczba Powtórzeń błędnej odpowiedzi
-        </Typography>
-        <Slider
-          defaultValue={INCORECT_ANSWER_REPEATS_DEFAULT}
-          valueLabelDisplay="auto"
-          step={1}
-          marks={marks}
-          onChange={(e, newValue) => setIncorrectAnswerRepeats(newValue)}
-          min={1}
-          value={incorrectAnswerRepeats}
-          max={10}
-        />
-      </StyledPaper>
-      <Box marginTop={2} display="flex" justifyContent="center">
-        <Button variant="contained" color="secondary" onClick={handleReset}>
-          Reset
-        </Button>
-        {localStorageTest && (
+    <Box>
+      <AppBar />
+      <Box padding={4} style={{ marginTop: 60 }}>
+        <StyledPaper>
+          <Typography variant="h5" gutterBottom>
+            {test?.title}
+          </Typography>
+          <Typography gutterBottom>
+            Liczba Powtórzeń błędnej odpowiedzi
+          </Typography>
+          <Slider
+            defaultValue={INCORECT_ANSWER_REPEATS_DEFAULT}
+            valueLabelDisplay="auto"
+            step={1}
+            marks={marks}
+            // @ts-ignore
+            onChange={(e, newValue) => setIncorrectAnswerRepeats(newValue)}
+            min={1}
+            value={incorrectAnswerRepeats}
+            max={10}
+          />
+        </StyledPaper>
+        <Box marginTop={2} display="flex" justifyContent="center">
+          {localStorageTest && (
+            <Box display="flex" marginLeft={2}>
+              <Button variant="contained" onClick={handleContinue}>
+                Kontynuuj naukę
+              </Button>
+            </Box>
+          )}
+
           <Box display="flex" marginLeft={2}>
-            <Button variant="contained" onClick={handleContinue}>
-              Kontynuuj naukę
+            <Button color="primary" variant="contained" onClick={handleStart}>
+              Start
             </Button>
           </Box>
-        )}
-
-        <Box display="flex" marginLeft={2}>
-          <Button color="primary" variant="contained" onClick={handleStart}>
-            Start
-          </Button>
         </Box>
       </Box>
     </Box>

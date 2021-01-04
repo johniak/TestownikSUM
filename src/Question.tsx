@@ -6,7 +6,8 @@ export interface Question {
   title: string;
   answers: string[];
   question: string;
-  correctAnswear: number;
+  correctAnswer: number;
+  id: string;
 }
 
 const AnswearButton = styled.div`
@@ -15,21 +16,29 @@ const AnswearButton = styled.div`
   text-align: left;
   padding: 10px;
   cursor: pointer;
-  transition: all 0.4s ease-in-out;
-  background-color: ${({ state }) =>
-    state === "CORRECT"
-      ? "#009688"
-      : state === "INCORRECT"
-      ? "#f44336"
-      : "#ececec"};
+  transition: all 0.3s ease-in-out;
+  background-color: ${({ state }) => {
+    switch (state) {
+      case "CORRECT":
+        return "#009688";
+      case "INCORRECT":
+        return "#f44336";
+      default:
+        return "#ececec";
+    }
+  }};
   color: ${({ state }) => (state !== "DEFAULT" ? "#fff" : "#333")};
   &:hover {
-    background-color: ${({ state }) =>
-      state === "CORRECT"
-        ? "#20b6a8"
-        : state === "INCORRECT"
-        ? "#ff6356"
-        : "#bcbcbc"};
+    background-color: ${({ state }) => {
+      switch (state) {
+        case "CORRECT":
+          return "#20b6a8";
+        case "INCORRECT":
+          return "#ff6356";
+        default:
+          return "#bcbcbc";
+      }
+    }};
   }
 `;
 const QuestionPaper = styled(Paper)``;
@@ -48,9 +57,9 @@ export function QuestionComponent({
   const letters = ["A", "B", "C", "D", "E"];
 
   return (
-    <QuestionPaper elevation={3} correct={selected === question.correctAnswear}>
+    <QuestionPaper elevation={3} correct={selected === question.correctAnswer}>
       <Box padding={2}>
-        <Box textAlign="center" paddingBottom={2}>
+        <Box textAlign="left" paddingBottom={2}>
           <Typography
             variant="h6"
             component="h6"
@@ -61,7 +70,7 @@ export function QuestionComponent({
         </Box>
         {question.answers.map((item, index) => {
           let state = "DEFAULT";
-          if (selected !== null && index === question.correctAnswear) {
+          if (selected !== null && index === question.correctAnswer) {
             state = "CORRECT";
           } else if (selected !== null && selected === index) {
             state = "INCORRECT";
@@ -70,6 +79,7 @@ export function QuestionComponent({
             <AnswearButton
               state={state}
               onClick={() => selected != null || onSelected(index)}
+              key={`answer:${index}:${question.id}`}
             >
               <Typography>
                 {letters[index]}: {item}

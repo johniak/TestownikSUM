@@ -8,9 +8,9 @@ import {
   useParams
 } from "react-router-dom";
 
-import questions from "../data/gineksy.json";
 import { Box, Button, CssBaseline, Link } from "@material-ui/core";
-import { QuestionPage } from "./QuestionPage";
+import { QuestionPage, QuestionPageProxy } from "./QuestionPage";
+import { AllTestsPage } from "./AllTestsPage";
 import { TestConfigPage } from "./TestConfigPage";
 
 export function App() {
@@ -20,10 +20,14 @@ export function App() {
       <Router>
         <Switch>
           <Route path="/tests/:testId/questions/:questionId">
-            <QuestionPage />
+            <QuestionPageProxy />
           </Route>
           <Route path="/tests/:testId">
             <TestConfigPage />
+          </Route>
+
+          <Route path="/">
+            <AllTestsPage />
           </Route>
         </Switch>
       </Router>
