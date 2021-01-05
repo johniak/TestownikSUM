@@ -31,11 +31,13 @@ import { AppBar } from "./AppBar";
 const StyledCard = styled(Card)`
   && {
     margin-right: 16px;
+    margin-top: 0;
   }
   @media (max-width: 900px) {
     && {
       width: 100%;
-      margin-right: 0px;
+      margin-right: 0;
+      margin-top: 16px;
     }
   }
 `;
@@ -43,7 +45,6 @@ const StyledCard = styled(Card)`
 const INCORECT_ANSWER_REPEATS_DEFAULT = 2;
 
 export function AllTestsPage() {
-  const test = tests[0];
   return (
     <Box>
       <AppBar />
@@ -54,24 +55,37 @@ export function AllTestsPage() {
         flexWrap="wrap"
         flexDirection="row"
       >
-        <StyledCard>
-          <CardContent>
-            <Typography color="textSecondary" gutterBottom>
-              {test.title}
-            </Typography>
-          </CardContent>
-          <CardActions>
-            <Button
-              component={Link}
-              to={`/tests/${test.id}`}
-              size="small"
-              variant="outlined"
-              color="primary"
-            >
-              Otwórz
-            </Button>
-          </CardActions>
-        </StyledCard>
+        {tests.map((test) => {
+          return (
+            <StyledCard>
+              <CardContent>
+                <Typography color="textSecondary" gutterBottom>
+                  {test.title}
+                </Typography>
+              </CardContent>
+              <CardActions>
+                <Button
+                  component={Link}
+                  to={`/tests/${test.id}`}
+                  size="small"
+                  variant="contained"
+                  color="primary"
+                >
+                  Otwórz
+                </Button>
+                <Button
+                  component={Link}
+                  to={`/tests/${test.id}/questions`}
+                  size="small"
+                  variant="outlined"
+                  color="primary"
+                >
+                  Pytania do druku
+                </Button>
+              </CardActions>
+            </StyledCard>
+          );
+        })}
       </Box>
     </Box>
   );

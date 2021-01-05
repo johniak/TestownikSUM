@@ -82,7 +82,7 @@ export function QuestionComponent({
               key={`answer:${index}:${question.id}`}
             >
               <Typography>
-                {letters[index]}: {item}
+                {letters[index]}) {item}
               </Typography>
             </AnswearButton>
           );
