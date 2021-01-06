@@ -22,18 +22,21 @@ import { tests } from "./tests";
 import SettingsIcon from "@material-ui/icons/Settings";
 import CheckIcon from "@material-ui/icons/Check";
 import CloseIcon from "@material-ui/icons/Close";
+import QuestionAnswerIcon from "@material-ui/icons/QuestionAnswer";
 
 export function QuestionPage() {
   const { questionId, testId } = useParams();
-  const question = tests
-    .find((item) => item.id === testId)
-    ?.questions.find((item) => item.id === questionId);
+  const test = tests.find((item) => item.id === testId);
+  const question = test?.questions.find((item) => item.id === questionId);
   const history = useHistory();
   // @ts-ignore
   const [selected, setSelected]: [
     number,
     (index: number) => {}
   ] = React.useState(null);
+  React.useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   const localStorageTestname = `test:${testId}`;
   const localStorageTestJson = localStorage[localStorageTestname];
   let localStorageTest;
@@ -95,7 +98,7 @@ export function QuestionPage() {
               >
                 <SettingsIcon />
               </IconButton>
-              <Typography variant="h6">Gineksy</Typography>
+              <Typography variant="h6">{test.title}</Typography>
             </Box>
             <Box display="flex" alignItems="center">
               <Box display="flex" alignItems="center">
@@ -111,9 +114,9 @@ export function QuestionPage() {
                 </Typography>
               </Box>
             </Box>
-            <Box marginLeft={1}>
+            <Box display="flex" alignItems="center">
+              <QuestionAnswerIcon />
               <Typography variant="h6">
-                Pozostało pytań:&nbsp;
                 {localStorageTest.questionIds.length}
               </Typography>
             </Box>

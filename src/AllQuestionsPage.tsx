@@ -65,7 +65,7 @@ export function AllQuestionsPage() {
       {test.questions.map((item) => (
         <PrintableQuestion
           key={`questionprintable${testId}:${item.id}`}
-          question={item}
+          question={item as Question}
         />
       ))}
     </Box>

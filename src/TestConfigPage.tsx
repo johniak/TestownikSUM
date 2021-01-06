@@ -29,13 +29,23 @@ const StyledPaper = styled(Paper)`
 `;
 
 const INCORECT_ANSWER_REPEATS_DEFAULT = 2;
-
+function shuffle(a) {
+  var j, x, i;
+  for (i = a.length - 1; i > 0; i--) {
+    j = Math.floor(Math.random() * (i + 1));
+    x = a[i];
+    a[i] = a[j];
+    a[j] = x;
+  }
+  return a;
+}
 export function TestConfigPage() {
   const { testId } = useParams();
   const test = tests.find((item) => item.id === testId);
   const [incorrectAnswerRepeats, setIncorrectAnswerRepeats] = useState(
     INCORECT_ANSWER_REPEATS_DEFAULT
   );
+  const [questionsCount, setQuestionsCount] = useState(test.questions.length);
   const history = useHistory();
   const localStorageTestname = `test:${test.id}`;
   const localStorageTestJson = localStorage[localStorageTestname];
@@ -44,8 +54,11 @@ export function TestConfigPage() {
     localStorageTest = JSON.parse(localStorageTestJson);
   }
   const handleStart = () => {
+    const questionIds = test?.questions.map((item) => item.id);
+    const shuffledQuestionIds = shuffle(questionIds);
+    const selectedQuestionIds = shuffledQuestionIds.slice(0, questionsCount);
     const newTest = {
-      questionIds: test?.questions.map((item) => item.id),
+      questionIds: selectedQuestionIds,
       incorrectAnswerRepeats,
       correctAnswers: 0,
       incorrectAnswers: 0,
@@ -55,6 +68,7 @@ export function TestConfigPage() {
     const questionIndex = Math.floor(
       Math.random() * newTest.questionIds?.length
     );
+
     const questionId = newTest.questionIds[questionIndex];
     // @ts-ignore
     history.push(`/tests/${test?.id}/questions/${questionId}`);
@@ -80,8 +94,20 @@ export function TestConfigPage() {
           <Typography variant="h5" gutterBottom>
             {test?.title}
           </Typography>
+          <Typography gutterBottom>Liczba pytań</Typography>
+          <Slider
+            defaultValue={test.questions.length}
+            valueLabelDisplay="auto"
+            step={10}
+            color="secondary"
+            value={questionsCount}
+            // @ts-ignore
+            onChange={(e, newValue) => setQuestionsCount(newValue)}
+            min={Math.min(10, test.questions.length)}
+            max={test.questions.length}
+          />
           <Typography gutterBottom>
-            Liczba Powtórzeń błędnej odpowiedzi
+            Liczba powtórzeń błędnej odpowiedzi
           </Typography>
           <Slider
             defaultValue={INCORECT_ANSWER_REPEATS_DEFAULT}

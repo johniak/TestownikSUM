@@ -697,7 +697,7 @@
     "title": "Pytanie 59",
     "answers": ["Tylko 1", "Tylko 2", "1,2,3", "1,3", "2,3"],
     "id": "58",
-    "question": "Do czynnik\u00f3w mog\u0105cych odgrywa\u0107 rol\u0119 w rozwoju cukrzycy typu 1 nale\u017c\u0105:\n1. Wirusy z grupy Coxsackie tyu B\n2. Wirus \u015bwinki\n3. Wirus r\u00f3zyczki\nWybierz prawdziwie:",
+    "question": "Do czynnik\u00f3w mog\u0105cych odgrywa\u0107 rol\u0119 w rozwoju cukrzycy typu 1 nale\u017c\u0105:\n1. Wirusy z grupy Coxsackie tyu B\n2. Wirus \u015bwinki\n3. Wirus r\u00f3\u017cyczki\nWybierz prawdziwie:",
     "correctAnswer": 2
   },
   {
@@ -1255,7 +1255,7 @@
     "title": "Pytanie 107",
     "answers": [
       "W 5%",
-      "W 10% 94",
+      "W 10%",
       "W 20%",
       "W 50%",
       "W wi\u0119kszo\u015bci przypadk\u00f3w"
@@ -1271,7 +1271,7 @@
       "Pustego p\u0119cherzyka ci\u0105\u017cowego",
       "Grubego echogenicznego pasma otaczaj\u0105cego ma\u0142e hipoechogeniczne pole",
       "Rozproszonej echogenicznej masy w jajowodach",
-      "Wsp\u00f3\u0142istnienia mas o dodatniej echogeniczno\u015bci w przydatkach oraz w jamie macicy 94"
+      "Wsp\u00f3\u0142istnienia mas o dodatniej echogeniczno\u015bci w przydatkach oraz w jamie macicy"
     ],
     "id": "107",
     "question": "Ci\u0105\u017ca ektopow\u0105 w przydatkach nie przybiera formy:",
@@ -1284,7 +1284,7 @@
       "Przep\u0142ywu krwi w naczyniach trofoblastu, kt\u00f3ry koreluje z mianem hCG",
       "Nieprawid\u0142owej siatki naczy\u0144 w zmianie podejrzanej o ci\u0105\u017c\u0119 ektopow\u0105",
       "Obrazowanie metod\u0105 Dopplera nie ma zastosowania w ci\u0105\u017cy ektopowej",
-      "Przep\u0142ywu krwi w naczyniach trofoblastu, kt\u00f3ry koreluje z cz\u0119sto\u015bci\u0105 akcji serca zarodka 95"
+      "Przep\u0142ywu krwi w naczyniach trofoblastu, kt\u00f3ry koreluje z cz\u0119sto\u015bci\u0105 akcji serca zarodka"
     ],
     "id": "108",
     "question": "Badanie ultrasonograficzne przeprowadzone metod\u0105 Dopplera jest przydatne w rozpoznaniu wczesnej ci\u0105\u017cy ektopowej. Nie stwierdzamy w takim przypadku:",
@@ -1293,7 +1293,7 @@
   {
     "title": "Pytanie 110",
     "answers": [
-      "Nie przekracza 5 ng/ml  95",
+      "Nie przekracza 5 ng/ml",
       "Nie przekracza 10 ng/ml",
       "Nie przekracza 15 ng/nl",
       "Nie przekracza 20 ng.ml",
@@ -1310,7 +1310,7 @@
       "Stosunek st\u0119\u017cenia estradiolu do st\u0119\u017cenia progesteronu jest wy\u017cszy u kobiet z ci\u0105\u017c\u0105 ektopow\u0105",
       "St\u0119\u017cenie interleukiny 8 i 6 by\u0142o wy\u017csze u kobiet z ci\u0105\u017c\u0105 ektopow\u0105",
       "St\u0119\u017cenie TNF-alfa by\u0142o wy\u017csze u kobiet z ci\u0105\u017c\u0105 ektopow\u0105",
-      "St\u0119\u017cenie kinazy kreatyninowej by\u0142o ni\u017csze u kobiet z ci\u0105\u017c\u0105 ektopow\u0105 95"
+      "St\u0119\u017cenie kinazy kreatynowej by\u0142o ni\u017csze u kobiet z ci\u0105\u017c\u0105 ektopow\u0105"
     ],
     "id": "110",
     "question": "St\u0119\u017cenia estradiolu, interleukiny 6 i 8, TNF-alfa i kinazy kreatyninowej mog\u0105 odgrywa\u0107 pewn\u0105 rol\u0119\nw etiopatogenezie ci\u0105\u017cy ektopowej. W przypadku ci\u0105\u017cy ektopowej (wska\u017c zdanie nieprawdziwe):",
@@ -1327,7 +1327,7 @@
     ],
     "id": "111",
     "question": "Ostatecznym sposobem leczenia ci\u0105\u017cy ektopowej jest najcz\u0119\u015bciej:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 113",
@@ -1347,7 +1347,7 @@
     "answers": [
       "Dobry stan og\u00f3lny,",
       "Brak p\u0119cherzyka w jamie macicy,",
-      "Zmiana odpowiadaj\u0105ca ci\u0105\u017cy pozamacicznej widoczna w USG o \u015brednicy mniejszej od 2 cm, (powinno by\u0107 mniejsze od 4 cm)",
+      "Zmiana odpowiadaj\u0105ca ci\u0105\u017cy pozamacicznej widoczna w USG o \u015brednicy mniejszej od 2 cm,",
       "St\u0119\u017cenie hCG poni\u017cej 10000 mIU/ml,",
       "Prawid\u0142owe wyniki laboratoryjne (pr\u00f3by w\u0105trobowe, nerkowe, uk\u0142ad krzepni\u0119cia, p\u0142ytki krwi),"
     ],
@@ -1453,7 +1453,7 @@
       "Nie stosuj\u0105cych uprzednio antykoncepcji doustnej",
       "Po przebytych zapaleniach jajowodu",
       "U kt\u00f3rych st\u0119\u017cenie hCG jest wy\u017csze ni\u017c 10000 mIU/ml",
-      "Oty\u0142ych 97"
+      "Oty\u0142ych"
     ],
     "id": "121",
     "question": "Ryzyko p\u0119kni\u0119cia jajowodu podczas farmakologicznego leczenia ci\u0105\u017cy pozamacicznej wzrasta u\nwymienionych ni\u017cej kobiet, z wyj\u0105tkiem:",
@@ -1466,11 +1466,11 @@
       "Obni\u017cenia oporu przep\u0142ywu krwi w t\u0119tnicy \u015brodkowej m\u00f3zgu",
       "Zmniejszenia pulsacji w przewodzie \u017cylnym p\u0142odu",
       "Wszystkich wymienionych objaw\u00f3w",
-      "\u017badnego z wymienionych objaw\u00f3w  194"
+      "\u017badnego z wymienionych objaw\u00f3w"
     ],
     "id": "122",
     "question": "Czynnikiem etiologicznym wczesnej hipotrofii p\u0142odu mog\u0105 by\u0107 nieprawid\u0142owo\u015bci \u0142o\u017cyskowe.\nNiedostateczne przekszta\u0142cenie naczy\u0144 i zaburzenie budowy kosmk\u00f3w zaburzaj\u0105 wymian\u0119 gazow\u0105 mi\u0119dzy matka i p\u0142odem, co prowadzi do niedotlenienia p\u0142odu, szczeg\u00f3lnie w II po\u0142owie ci\u0105\u017cy. W\nwyniku tego dochodzi do oszcz\u0119dzania tlenu i dostarczania go do najwa\u017cniejszych narz\u0105d\u00f3w (m\u00f3zg, serce, nadnercza). Dochodzi do redystrybucji kr\u0105\u017cenia i zaburze\u0144 wzrastania i aktywno\u015bci p\u0142odu.\nOpisane zmiany s\u0105 przyczyn\u0105 post\u0119puj\u0105cego niedotlenienia p\u0142odu, co powoduje\nnieprawid\u0142owo\u015bci w badaniu ultrasonograficznym pod postaci\u0105:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 124",
@@ -1479,11 +1479,11 @@
       "Zwi\u0119kszonej oscylacji",
       "Redukcji akceleracji",
       "Braku deceleracji",
-      "Wszystkich wymienionych  194"
+      "Wszystkich wymienionych"
     ],
     "id": "123",
     "question": "Czynnikiem etiologicznym wczesnej hipotrofii p\u0142odu mog\u0105 by\u0107 nieprawid\u0142owo\u015bci \u0142o\u017cyskowe.\nNiedostateczne przekszta\u0142cenie naczy\u0144 i zaburzenie budowy kosmk\u00f3w zaburzaj\u0105 wymian\u0119 gazow\u0105 mi\u0119dzy matka i p\u0142odem, co prowadzi do niedotlenienia p\u0142odu, szczeg\u00f3lnie w II po\u0142owie ci\u0105\u017cy. W\nwyniku tego dochodzi do oszcz\u0119dzania tlenu i dostarczania go do najwa\u017cniejszych narz\u0105d\u00f3w (m\u00f3zg, serce, nadnercza). Dochodzi do redystrybucji kr\u0105\u017cenia i zaburze\u0144 wzrastania i aktywno\u015bci p\u0142odu.\nOpisane zmiany s\u0105 przyczyn\u0105 post\u0119puj\u0105cego niedotlenienia p\u0142odu, co powoduje\nnieprawid\u0142owo\u015bci w badaniu KTG pod postaci\u0105:",
-    "correctAnswer": 4
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie 125",
@@ -1491,7 +1491,7 @@
       "Podwy\u017cszonego indeksu p\u0142ynu owodniowego",
       "Zwi\u0119kszonej aktywno\u015bci ruchowej p\u0142odu",
       "Nadmiernych ruch\u00f3w oddechowych p\u0142odu",
-      "Obni\u017conego napi\u0119cia p\u0142odu  194",
+      "Obni\u017conego napi\u0119cia p\u0142odu",
       "Wszystkich wymienionych"
     ],
     "id": "124",
@@ -1644,7 +1644,7 @@
   {
     "title": "Pytanie 137",
     "answers": [
-      "200 IU / kg m.c. co 24 godziny lub 100 IU / kg m.c. co 12 godzin * t1)",
+      "200 IU / kg m.c. co 24 godziny lub 100 IU / kg m.c. co 12 godzin",
       "100 IU / kg m.c. co 24 godziny lub 50 IU / kg m.c. co 12 godzin",
       "300 IU / kg m.c. co 24 godziny lub 150 IU / kg m.c. co 12 godzin",
       "50 IU / kg m.c. co 24 godziny lub 25 IU / kg m.c. co 12 godzin",
@@ -1812,11 +1812,11 @@
       "1, 4, 5",
       "1, 3, 4, 5",
       "1, 2, 4, 5",
-      "2, 3, 5  161-162"
+      "2, 3, 5"
     ],
     "id": "150",
     "question": "Do wad p\u0142odu, kt\u00f3re najcz\u0119\u015bciej prowadz\u0105 do obumarcia p\u0142odu zaliczamy:\n1. Wady serca\n2. Wady przewodu pokarmowego\n3. Wady uk\u0142adu kostno-szkieletowego\n4. Wady OUN\n5. Wady cewy nerwowej Prawdziwe jest:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 152",
@@ -1825,7 +1825,7 @@
       "Mimo prowadzonej profilaktyki przyczyn\u0105 wyst\u0105pienia tej patologii s\u0105 takie zaka\u017cenia jak cytomegalia, toksoplazmoza czy listerioza",
       "\u0141o\u017cysko nieprawid\u0142owo zagnie\u017cd\u017cone stanowi ryzyko gwa\u0142townego krwotoku mog\u0105cego prowadzi\u0107 do zgonu matki i p\u0142odu",
       "Jedn\u0105 z g\u0142\u00f3wnych przyczyn obumar\u0107 p\u0142odu jest przedwczesne odklejenie si\u0119 \u0142o\u017cyska",
-      "Niezapinanie pas\u00f3w bezpiecze\u0144stwa przez ci\u0119\u017carne podczas podr\u00f3\u017cy samochodem, mimo, \u017ce mo\u017ce w przypadku wypadku prowadzi\u0107 do odklejenia \u0142o\u017cyska w mechanizmie urazu, jest niezgodne z polskim prawem  162"
+      "Niezapinanie pas\u00f3w bezpiecze\u0144stwa przez ci\u0119\u017carne podczas podr\u00f3\u017cy samochodem, mimo, \u017ce mo\u017ce w przypadku wypadku prowadzi\u0107 do odklejenia \u0142o\u017cyska w mechanizmie urazu, jest niezgodne z polskim prawem"
     ],
     "id": "151",
     "question": "Wska\u017c nieprawdziwe zdanie dotycz\u0105ce obumarcia p\u0142odu:",
@@ -1946,7 +1946,7 @@
     ],
     "id": "160",
     "question": "\u0141o\u017cysko przoduj\u0105ce wyst\u0119puje z cz\u0119sto\u015bci\u0105:",
-    "correctAnswer": 4
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie 162",
@@ -1972,7 +1972,7 @@
     ],
     "id": "162",
     "question": "Do objaw\u00f3w ultrasonograficznych przewlek\u0142ej postaci zespo\u0142u przetoczenia krwi pomi\u0119dzy p\u0142odami (TTTS) nie nale\u017cy:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 164",
@@ -1985,14 +1985,14 @@
     ],
     "id": "163",
     "question": "Do powik\u0142a\u0144 u p\u0142od\u00f3w w przewlek\u0142ej postaci zespo\u0142u przetoczenia krwi pomi\u0119dzy p\u0142odami (TTTS)\nnie nale\u017cy:",
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 165",
     "answers": ["80-100%", "60-80%", "50-60%", "40-50%", "30-40%"],
     "id": "164",
     "question": "W ci\u0105\u017cach powik\u0142anych przewlek\u0142\u0105 postaci\u0105 zespo\u0142u przetoczenia krwi pomi\u0119dzy p\u0142odami (TTTS), rozwijaj\u0105cym si\u0119 przed 26 tygodniem ci\u0105\u017cy bez post\u0119powania terapeutycznego, odsetek zgon\u00f3w\nbli\u017ani\u0105t wynosi:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 166",
@@ -2004,8 +2004,8 @@
       "Przezpochwowe mechaniczne przeci\u0119cie naczy\u0144 \u0142\u0105cz\u0105cych w \u0142o\u017cysku pod kontrol\u0105 ultrasonografii"
     ],
     "id": "165",
-    "question": "Jedyn\u0105 skuteczn\u0105, przyczynow\u0105 metod\u0105 leczenia przewlek\u0142ej postaci zespo\u0142u przetoczenia krwi\npomi\u0119dzy p\u0142odami (TTTS) jests.:",
-    "correctAnswer": 4
+    "question": "Jedyn\u0105 skuteczn\u0105, przyczynow\u0105 metod\u0105 leczenia przewlek\u0142ej postaci zespo\u0142u przetoczenia krwi\npomi\u0119dzy p\u0142odami (TTTS) jest:",
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 167",
@@ -2276,9 +2276,15 @@
   },
   {
     "title": "Pytanie 188",
-    "answers": ["A", "B", "C", "D", "E"],
+    "answers": [
+      "Janek",
+      "Kto\u015b inny",
+      "Kto\u015b inny",
+      "Kto\u015b inny",
+      "Kto\u015b inny"
+    ],
     "id": "187",
-    "question": "Empty:",
+    "question": "Kto jest najlepszy na \u015bwiecie:",
     "correctAnswer": 0
   },
   {
@@ -2296,14 +2302,14 @@
   },
   {
     "title": "Pytanie 190",
-    "answers": ["100 ml", "200 ml t.I", "300 ml", "400 ml", "500 ml"],
+    "answers": ["100 ml", "200 ml", "300 ml", "400 ml", "500 ml"],
     "id": "189",
     "question": "Ma\u0142owodzie to zmniejszenie obj\u0119to\u015bci p\u0142ynu owodniowego poni\u017cej:",
     "correctAnswer": 1
   },
   {
     "title": "Pytanie 191",
-    "answers": ["4 cm", "5 cm t. I", "6 cm", "8 cm", "10 cm"],
+    "answers": ["4 cm", "5 cm", "6 cm", "8 cm", "10 cm"],
     "id": "190",
     "question": "Ma\u0142owodzie rozpoznasz, gdy AFI jest poni\u017cej:",
     "correctAnswer": 1
@@ -2412,7 +2418,7 @@
     "answers": ["73-89%", "75-85%", "85-95%", "82-100%", "25-50%"],
     "id": "200",
     "question": "Cz\u0119sto\u015b\u0107 korzystnego uko\u0144czenia ci\u0105\u017cy, tj. urodzenie noworodka zdolnego do \u017cycia, w przypadku\nszwu Shirodkara wynosi:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 202",
@@ -2445,7 +2451,7 @@
     "answers": ["90%", "80%", "70%", "60%", "50%"],
     "id": "203",
     "question": "Obecnie noworodek urodzony w 28 tygodniu ci\u0105\u017cy w krajach wysoko rozwini\u0119tych ma szans\u0119 na prze\u017cycie w:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 205",
@@ -2497,7 +2503,7 @@
     ],
     "id": "207",
     "question": "Do przyczyn ma\u0142op\u0142ytkowo\u015bci kobiet ci\u0119\u017carnych nieswoistych dla ci\u0105\u017cy nie nale\u017cy:",
-    "correctAnswer": 4
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie 209",
@@ -2510,7 +2516,7 @@
     ],
     "id": "208",
     "question": "Ma\u0142op\u0142ytkowo\u015b\u0107 rzekoma u kobiet ci\u0119\u017carnych jest to:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 210",
@@ -2523,7 +2529,7 @@
     ],
     "id": "209",
     "question": "Do bada\u0144 laboratoryjnych wykonywanych w sytuacji izolowanej ma\u0142op\u0142ytkowo\u015bci w ci\u0105\u017cy nie zaliczysz:",
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 211",
@@ -2745,7 +2751,7 @@
     "title": "Pytanie 229",
     "answers": [
       "Nast\u0119puje wzmo\u017cona, niekontrolowana synteza trombiny",
-      "Nast\u0119puje os\u0142abiona produkcja plazminy  167",
+      "Nast\u0119puje os\u0142abiona produkcja plazminy",
       "Dochodzi do zu\u017cycia czynnik\u00f3w krzepni\u0119cia",
       "Dochodzi do zu\u017cycia inhibitor\u00f3w krzepni\u0119cia",
       "Dochodzi do zaburze\u0144 czynno\u015bci p\u0142ytek krwi"
@@ -2761,7 +2767,7 @@
       "Poronienia septycznego",
       "Krwotoku spowodowanego \u0142o\u017cyskiem przoduj\u0105cym",
       "Zespo\u0142u HELLP",
-      "Ci\u0119\u017ckiej postaci cholestazy ci\u0119\u017carnych tab. 2.22.  169-170"
+      "Ci\u0119\u017ckiej postaci cholestazy ci\u0119\u017carnych tab. 2.22. -170"
     ],
     "id": "229",
     "question": "Do po\u0142o\u017cniczych przyczyn DIC nie zaliczysz:",
@@ -3791,10 +3797,10 @@
   {
     "title": "Pytanie 317",
     "answers": [
-      "12090 mmHg",
-      "14080 mmHg",
-      "13090 mmHg",
-      "160110 mmHg",
+      "120/90 mmHg",
+      "140/80 mmHg",
+      "130/90 mmHg",
+      "160/110 mmHg",
       "We wszystkich wymienionych przypadkach"
     ],
     "id": "316",
@@ -3877,7 +3883,7 @@
   {
     "title": "Pytanie 325",
     "answers": [
-      "24 godzin po porodzie (tabela 4.10)",
+      "24 godzin po porodzie",
       "36 godzin po porodzie",
       "48 godzin po porodzie",
       "72 godzin po porodzie",
@@ -3893,7 +3899,7 @@
       "Atonii macicy",
       "Wynicowania macicy",
       "P\u0119kni\u0119cia macicy",
-      "Pozosta\u0142o\u015bci pop\u0142odu w jamie macicy- jako g\u0142\u00f3wna przyczyna, ale nie bezpo\u015brednia",
+      "Pozosta\u0142o\u015bci pop\u0142odu w jamie macicy",
       "Zaburze\u0144 hemostazy"
     ],
     "id": "325",
@@ -3990,7 +3996,7 @@
     "answers": [
       "Wszystkie wymienione",
       "1, 3, 5, 8, 9, 11",
-      "2, 3, 4, 5, 8, 9 (i 11 te\u017c)",
+      "2, 3, 4, 5, 8, 9",
       "1, 2, 3, 4, 5, 9",
       "1, 2, 4, 7, 8, 10"
     ],
@@ -4283,7 +4289,7 @@
     ],
     "id": "356",
     "question": "Spo\u015br\u00f3d wymienionych lek\u00f3w dzia\u0142ania teratogennego nie wykazuje/nie wykazuj\u0105:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 358",
@@ -4404,7 +4410,7 @@
   },
   {
     "title": "Pytanie 367",
-    "answers": ["1%", "3%", "5% ?", "7%", "9%"],
+    "answers": ["1%", "3%", "5%", "7%", "9%"],
     "id": "366",
     "question": "\u0141o\u017cysko przoduj\u0105ce o nieprawid\u0142owym zagnie\u017cd\u017ceniu stanowi sytuacj\u0119, gdy u ci\u0119\u017carnej z \u0142o\u017cyskiem przoduj\u0105cym dochodzi do penetracji kosmk\u00f3w do g\u0142\u0119bszych tkanek. \u015amiertelno\u015b\u0107 kobiet z tym\npowik\u0142aniem si\u0119ga:",
     "correctAnswer": 2
@@ -4589,7 +4595,7 @@
     ],
     "id": "380",
     "question": "Do powik\u0142a\u0144 kordocentezy nie nale\u017cy:\n1. Krwawienie doowodniowe nale\u017cy\n2. Tachykardia p\u0142odu nie nale\u017cy\n3. Czynno\u015b\u0107 skurczowa macicy nale\u017cy\n4. Infekcja wewn\u0105trzmaciczna nale\u017cy\n5. Zgon wewn\u0105trzmaciczny p\u0142odu nale\u017cy\n6. Bradykardia p\u0142odu nale\u017cy\n7. PPROM nie nale\u017cyPrawdziwe jest:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 382",
@@ -4811,7 +4817,7 @@
   {
     "title": "Pytanie 401",
     "answers": [
-      "Bli\u017aniaczej jednokosm\u00f3wkowej dwuowodniowej-146",
+      "Bli\u017aniaczej jednokosm\u00f3wkowej dwuowodniowej",
       "Bli\u017aniaczej dwuzygotycznej dwukosm\u00f3wkowej dwuowodniowej",
       "Bli\u017aniaczej jednozygotycznej dwukosm\u00f3wkowej dwuowodniowej",
       "Bli\u017aniaczej jednokosm\u00f3wkowej jednoowodniowej",
@@ -6734,7 +6740,7 @@
       "Jest wskazaniem do ci\u0119cia cesarskiego optymalnie pomi\u0119dzy 36 a 37 tygodniem ci\u0105\u017cy",
       "Jest wskazaniem do ci\u0119cia cesarskiego optymalnie pomi\u0119dzy 35 a 36 tygodniem ci\u0105\u017cy",
       "Jest wskazaniem do ci\u0119cia cesarskiego optymalnie po 37 tygodniu ci\u0105\u017cy",
-      "Nie jest wskazaniem do ci\u0119cia cesarskiego 122",
+      "Nie jest wskazaniem do ci\u0119cia cesarskiego",
       "Jest wskazaniem do ci\u0119cia cesarskiego optymalnie pomi\u0119dzy 34 a 35 tygodniem ci\u0105\u017cy"
     ],
     "id": "562",
@@ -7040,7 +7046,7 @@
       "85% par bli\u017ani\u0105t",
       "80% par bli\u017ani\u0105t",
       "70% par bli\u017ani\u0105t",
-      "75% par bli\u017ani\u0105t (, 148)",
+      "75% par bli\u017ani\u0105t (, )",
       "65% par bli\u017ani\u0105t"
     ],
     "id": "586",
@@ -7704,7 +7710,7 @@
     ],
     "id": "640",
     "question": "Z\u0142otym standardem w diagnostyce niewydolno\u015bci cie\u015bniowo-szyjowej u kobiet ci\u0119\u017carnych jest:",
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 642",
@@ -7750,7 +7756,7 @@
     ],
     "id": "644",
     "question": "Wska\u017c lek, kt\u00f3ry mo\u017ce by\u0107 bezpiecznie stosowany w I trymestrze ci\u0105\u017cy w celu leczenia nudno\u015bci i wymiot\u00f3w, ale w okresie przedporodowym mo\u017ce powodowa\u0107 rozw\u00f3j depresji oddechowej u\nnoworodka:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 646",
@@ -7776,7 +7782,7 @@
     ],
     "id": "646",
     "question": "Lekiem zalecanym w farmakoterapii zapar\u0107 u kobiet ci\u0119\u017carnych, niezale\u017cnie od zaawansowania ci\u0105\u017cy, jests.:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 648",
@@ -9327,7 +9333,7 @@
     "answers": [
       "U 50 i 30% ci\u0119\u017carnych",
       "U 60 i 40% ci\u0119\u017carnych",
-      "U 90 i 50% ci\u0119\u017carnych   115",
+      "U 90 i 50% ci\u0119\u017carnych",
       "U 70 i 50% ci\u0119\u017carnych",
       "U 80 i 40% ci\u0119\u017carnych"
     ],
@@ -9338,7 +9344,7 @@
   {
     "title": "Pytanie 775",
     "answers": [
-      "S\u0105 to bardzo nasilone wymioty rozpoczynaj\u0105ce si\u0119 zwykle ju\u017c oko\u0142o 3 tygodnia ci\u0105\u017cy  115",
+      "S\u0105 to bardzo nasilone wymioty rozpoczynaj\u0105ce si\u0119 zwykle ju\u017c oko\u0142o 3 tygodnia ci\u0105\u017cy",
       "Powoduj\u0105 utrat\u0119 oko\u0142o 5% masy cia\u0142a",
       "Powoduj\u0105 znaczn\u0105 ketonuri\u0119",
       "Objawy zwykle ust\u0119puj\u0105 przed 20 tygodniem ci\u0105\u017cy",
@@ -9717,7 +9723,7 @@
     "answers": [
       "Kiedy \u0142o\u017cysko penetruje nie g\u0142\u0119biej ni\u017c w doczesn\u0105 podstawn\u0105",
       "Kiedy inwazja \u0142o\u017cyska dotyczy warstwy mi\u0119\u015bniowej \u015bciany macicy",
-      "Kiedy kosmki \u0142o\u017cyska niszcz\u0105 i naciekaj\u0105 s\u0105siaduj\u0105ce narz\u0105dy, najcz\u0119\u015bciej otrzewn\u0105 i p\u0119cherz moczowy 127",
+      "Kiedy kosmki \u0142o\u017cyska niszcz\u0105 i naciekaj\u0105 s\u0105siaduj\u0105ce narz\u0105dy, najcz\u0119\u015bciej otrzewn\u0105 i p\u0119cherz moczowy",
       "Kiedy inwazja \u0142o\u017cyska dotyczy b\u0142on p\u0142odowych",
       "Kiedy inwazja \u0142o\u017cyska dotyczy blizny po uprzednio przebytym ci\u0119ciu cesarskim"
     ],
@@ -9742,7 +9748,7 @@
     "title": "Pytanie 806",
     "answers": [
       "Kiedy \u0142o\u017cysko penetruje nie g\u0142\u0119biej ni\u017c w doczesn\u0105 podstawn\u0105",
-      "Kiedy inwazja \u0142o\u017cyska dotyczy warstwy mi\u0119\u015bniowej \u015bciany macicy  127",
+      "Kiedy inwazja \u0142o\u017cyska dotyczy warstwy mi\u0119\u015bniowej \u015bciany macicy",
       "Kiedy kosmki \u0142o\u017cyska niszcz\u0105 i naciekaj\u0105 s\u0105siaduj\u0105ce narz\u0105dy, najcz\u0119\u015bciej otrzewn\u0105 i p\u0119cherz moczowy",
       "Kiedy inwazja \u0142o\u017cyska dotyczy b\u0142on p\u0142odowych",
       "Kiedy inwazja \u0142o\u017cyska dotyczy blizny po uprzednio przebytym ci\u0119ciu cesarskim"
@@ -9754,7 +9760,7 @@
   {
     "title": "Pytanie 807",
     "answers": [
-      "Kiedy \u0142o\u017cysko penetruje nie g\u0142\u0119biej ni\u017c w doczesn\u0105 podstawn\u0105  127",
+      "Kiedy \u0142o\u017cysko penetruje nie g\u0142\u0119biej ni\u017c w doczesn\u0105 podstawn\u0105",
       "Kiedy inwazja \u0142o\u017cyska dotyczy warstwy mi\u0119\u015bniowej \u015bciany macicy",
       "Kiedy kosmki \u0142o\u017cyska niszcz\u0105 i naciekaj\u0105 s\u0105siaduj\u0105ce narz\u0105dy, najcz\u0119\u015bciej otrzewn\u0105 i p\u0119cherz moczowy",
       "Kiedy inwazja \u0142o\u017cyska dotyczy b\u0142on p\u0142odowych",
@@ -9781,7 +9787,7 @@
     "title": "Pytanie 809",
     "answers": [
       "Obni\u017cenia liczby p\u0142ytek krwi",
-      "Wzrostu st\u0119\u017cenia fibrynogenu  230",
+      "Wzrostu st\u0119\u017cenia fibrynogenu",
       "Wyd\u0142u\u017cenia czasu trombinowego",
       "Obecno\u015bci kompleks\u00f3w trombina-antytrombina",
       "Obecno\u015bci D-dimer\u00f3w"
@@ -9797,7 +9803,7 @@
       "Badania w kierunku trombofilii",
       "Badania przep\u0142yw\u00f3w dopplerowskich w t\u0119tnicach macicznych",
       "Badania marker\u00f3w biochemicznych, takich jak PAPP-A, bia\u0142ko ADAM 12 oraz angiogennych czynnik\u00f3w wzrostu VEGF i PIGF",
-      "Wykonania testu angiotensynowego, polegaj\u0105cego na infuzji angiotensyny II w 18-24 tygodniu ci\u0105\u017cy  230"
+      "Wykonania testu angiotensynowego, polegaj\u0105cego na infuzji angiotensyny II w 18-24 tygodniu ci\u0105\u017cy"
     ],
     "id": "809",
     "question": "Do metod predykcji wyst\u0105pienia stanu przedrzucawkowego nie zaliczysz:",
@@ -10079,7 +10085,7 @@
   {
     "title": "Pytanie 832",
     "answers": [
-      "Nale\u017cy przy pierwszej wizycie ka\u017cdej kobiecie ci\u0119\u017carnej zleci\u0107 po\u015bredni test antyglobulinowy (odczyn Coombsa), je\u015bli wynik b\u0119dzie negatywny, to u kobiet Rh-dodatnich dalsze dzia\u0142anie w przebiegu aktualnej ci\u0105\u017cy nie jest wymagane, a u kobiet Rh-ujemnych obowi\u0105zuje powt\u00f3rzenie badania w ka\u017cdym trymestrze oraz miesi\u0105c przed porodem(139str)",
+      "Nale\u017cy przy pierwszej wizycie ka\u017cdej kobiecie ci\u0119\u017carnej zleci\u0107 po\u015bredni test antyglobulinowy (odczyn Coombsa), je\u015bli wynik b\u0119dzie negatywny, to u kobiet Rh-dodatnich dalsze dzia\u0142anie w przebiegu aktualnej ci\u0105\u017cy nie jest wymagane, a u kobiet Rh-ujemnych obowi\u0105zuje powt\u00f3rzenie badania w ka\u017cdym trymestrze oraz miesi\u0105c przed porodem",
       "Nale\u017cy przy pierwszej wizycie ka\u017cdej kobiecie ci\u0119\u017carnej zleci\u0107 po\u015bredni test antyglobulinowy (odczyn Coombsa), je\u015bli wynik b\u0119dzie negatywny, to u kobiet Rh-ujemnych dalsze dzia\u0142anie w przebiegu aktualnej ci\u0105\u017cy nie jest wymagane, a u kobiet Rh-dodatnich obowi\u0105zuje powt\u00f3rzenie badania w ka\u017cdym trymestrze oraz miesi\u0105c przed porodem",
       "Nale\u017cy przy pierwszej wizycie ka\u017cdej kobiecie ci\u0119\u017carnej zleci\u0107 po\u015bredni test antyglobulinowy (odczyn Coombsa), je\u015bli wynik b\u0119dzie negatywny, to u kobiet Rh-dodatnich dalsze dzia\u0142anie w przebiegu aktualnej ci\u0105\u017cy nie jest wymagane, a u kobiet Rh-ujemnych obowi\u0105zuje powt\u00f3rzenie badania w ka\u017cdym trymestrze ci\u0105\u017cy",
       "Nale\u017cy przy pierwszej wizycie ka\u017cdej kobiecie ci\u0119\u017carnej zleci\u0107 po\u015bredni test antyglobulinowy (odczyn Coombsa), je\u015bli wynik b\u0119dzie negatywny, to u kobiet Rh-ujemnych dalsze dzia\u0142anie w przebiegu aktualnej ci\u0105\u017cy nie jest wymagane, a u kobiet Rh-dodatnich obowi\u0105zuje powt\u00f3rzenie badania w ka\u017cdym trymestrze oraz miesi\u0105c przed porodem",
@@ -10454,7 +10460,7 @@
       "Ci\u0105\u017ca nie predysponuje do powstania raka",
       "Ci\u0105\u017ca nie chroni przed rakiem",
       "Ci\u0105\u017ca nie predysponuje i nie chroni przed rakiem",
-      "Ci\u0105\u017ca predysponuje do powstania raka ,"
+      "Ci\u0105\u017ca predysponuje do powstania raka"
     ],
     "id": "860",
     "question": "Wp\u0142yw ci\u0105\u017cy na proces nowotworowy nie zosta\u0142 do ko\u0144ca zbadany, jednak \u2013 wybierz nieprawdziwe:",
@@ -10783,7 +10789,7 @@
   },
   {
     "title": "Pytanie 889",
-    "answers": ["1,2,3", "2,3,4,5", "3,4,5,6", "1,2,3,4,5,6-396", "2,3,4,5,6"],
+    "answers": ["1,2,3", "2,3,4,5", "3,4,5,6", "1,2,3,4,5,6", "2,3,4,5,6"],
     "id": "888",
     "question": "Czynnikami p\u0142odowymi po\u0142o\u017cenia miednicowego s\u0105:\n1. wady rozwojowe p\u0142odu\n2. wielowodzie\n3. ma\u0142owodzie\n4. ci\u0105\u017ca wielop\u0142odowa\n5. kr\u00f3tki sznur p\u0119powinowy\n6. \u0142o\u017cysko przoduj\u0105ce\nWybierz prawdziwe:",
     "correctAnswer": 3
@@ -10828,7 +10834,7 @@
       "U\u0142o\u017cenie st\u00f3pkowe",
       "U\u0142o\u017cenie kolankowe",
       "Po\u0142o\u017cenie miednicowe zupe\u0142ne",
-      "Brak prawid\u0142owej odpowiedzi Prawid\u0142owa odpowied\u017a to D lub E (wg Br\u0119borowicza 397przy porodzie nieprawid\u0142owym najbardziej odpowiednie jest po\u0142o\u017cenie miednicowe zupe\u0142ne, jednak w pytaniu nie jest okre\u015blone o jaki por\u00f3d chodzi (w prawidlowym porodzie najbardziej optymalne jest po\u0142o\u017cenie g\u0142\u00f3wkowe)"
+      "Brak prawid\u0142owej odpowiedzi"
     ],
     "id": "892",
     "question": "Najbardziej optymalne dla przebiegu porodu jest:",
@@ -10903,7 +10909,7 @@
     "title": "Pytanie 899",
     "answers": [
       "1.-2. dobie po\u0142ogu",
-      "3.-4. dobie po\u0142ogu-474",
+      "3.-4. dobie po\u0142ogu",
       "5.-7. dobie po\u0142ogu",
       "9.-11. dobie po\u0142ogu",
       "13.-15. dobie po\u0142ogu"
