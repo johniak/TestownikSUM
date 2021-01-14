@@ -56,7 +56,7 @@
     ],
     "id": "4",
     "question": "Najczęstszym powikłaniem w ciąży bliźniaczej jednoowodniowej jest:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie nr 6",
@@ -82,7 +82,7 @@
     ],
     "id": "6",
     "question": "Zakres prawidłowych wartości Indeksu Płynu Owodniowego (AFI - Amniotic Fluid Index) od 5 do 25 cm może być stosowany w odniesieniu do pacjentek:",
-    "correctAnswer": 1
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie nr 8",
@@ -365,7 +365,7 @@
     "title": "Pytanie nr 33",
     "answers": ["tylko 1.", "tylko 2.", "tylko 3.", "1,3,4,5.", "1,2,4,5."],
     "id": "32",
-    "question": "U kobiety ciężarnej będącej wegetarianką należy spodziewać się niedoboru witaminy:\n1) B ;\n2) B ;\n3) D;\n4) C;\n5) E.\nPrawidłowa odpowiedź to:",
+    "question": "U kobiety ciężarnej będącej wegetarianką należy spodziewać się niedoboru witaminy:\n1) B2;\n2) B12;\n3) D;\n4) C;\n5) E.\nPrawidłowa odpowiedź to:",
     "correctAnswer": 1
   },
   {
@@ -464,7 +464,7 @@
     ],
     "id": "40",
     "question": "U kobiet stosujących dwufazową antykoncepcję hormonalną typowe krwawienia miesiączkowe są:",
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie nr 42",

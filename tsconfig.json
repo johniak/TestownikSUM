@@ -10,6 +10,7 @@
             "es2015"
         ],
         "jsx": "react",
-        "resolveJsonModule": true
+        "resolveJsonModule": true,
+        "downlevelIteration": true
     }
 }

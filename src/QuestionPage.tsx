@@ -19,21 +19,63 @@ import {
   IconButton
 } from "@material-ui/core";
 import { tests } from "./tests";
+import styled from "styled-components";
 import SettingsIcon from "@material-ui/icons/Settings";
 import CheckIcon from "@material-ui/icons/Check";
 import CloseIcon from "@material-ui/icons/Close";
 import QuestionAnswerIcon from "@material-ui/icons/QuestionAnswer";
+import { getRandomInt } from "./utils";
+
+const ButtonContainer = styled.div`
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  @media (max-width: 900px) {
+    & {
+      margin-right: 0;
+      margin-top: 16px;
+      flex-direction: column-reverse;
+    }
+  }
+`;
+const NextButtonContainer = styled.div`
+  margin-left: 12px;
+  margin-top: 0px;
+  @media (max-width: 900px) {
+    && {
+      width: 100%;
+      margin-left: 0;
+      margin-bottom: 16px;
+    }
+  }
+`;
+
+function addQuestionInTheFuture(localStorageTest, questionId) {
+  for (let i = 0; i < localStorageTest.incorrectAnswerRepeats; i++) {
+    const questionsLength = localStorageTest.questionIds.length;
+    let min = Math.min(5, questionsLength);
+    let max = Math.min(20, questionsLength);
+    if (questionsLength < 10) {
+      min = Math.min(1, questionsLength);
+    }
+    const newIndex = getRandomInt(min, max);
+    localStorageTest.questionIds.splice(newIndex, 0, questionId);
+  }
+}
 
 export function QuestionPage() {
   const { questionId, testId } = useParams();
   const test = tests.find((item) => item.id === testId);
+  console.log("test", test);
+  console.log("test?.questions", test?.questions);
   const question = test?.questions.find((item) => item.id === questionId);
   const history = useHistory();
-  // @ts-ignore
+  const [canRepeatQuestion, setCanRepeatQuestion] = React.useState(true);
   const [selected, setSelected]: [
-    number,
-    (index: number) => {}
-  ] = React.useState(null);
+    number | null,
+    (index: number | null) => {}
+  ] = React.useState(null) as [number | null, (index: number | null) => {}];
   React.useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -43,6 +85,11 @@ export function QuestionPage() {
   if (localStorageTestJson) {
     localStorageTest = JSON.parse(localStorageTestJson);
   }
+  const handleRepeatQuestion = () => {
+    addQuestionInTheFuture(localStorageTest, questionId);
+    localStorage[localStorageTestname] = JSON.stringify(localStorageTest);
+    setCanRepeatQuestion(false);
+  };
   const handleSelectedAnswer = (selectedAnswer: number) => {
     setSelected(selectedAnswer);
     const correctAnswer = selectedAnswer === question?.correctAnswer;
@@ -51,29 +98,22 @@ export function QuestionPage() {
       localStorageTest.questionIds = localStorageTest.questionIds.filter(
         (item) => item != null
       );
-      console.log("localStorageTest.questionIds", localStorageTest.questionIds);
       localStorageTest.questionIds.splice(index, 1);
-      localStorageTest.answers++;
       localStorageTest.correctAnswers++;
     } else {
       const index = localStorageTest.questionIds.indexOf(questionId);
       localStorageTest.questionIds.splice(index, 1);
-      for (let i = 0; i < localStorageTest.incorrectAnswerRepeats; i++) {
-        localStorageTest.questionIds.push(questionId);
-      }
-      localStorageTest.answers++;
+      addQuestionInTheFuture(localStorageTest, questionId);
       localStorageTest.incorrectAnswers++;
     }
+    localStorageTest.answers++;
     localStorage[localStorageTestname] = JSON.stringify(localStorageTest);
   };
 
-  const nextQuestionIndex = Math.floor(
-    Math.random() * localStorageTest.questionIds?.length
-  );
   const hasNextQuestion = !!localStorageTest.questionIds.length;
   let nextQuestionId;
   if (hasNextQuestion) {
-    nextQuestionId = localStorageTest.questionIds[nextQuestionIndex];
+    nextQuestionId = localStorageTest.questionIds[0];
   }
   if (nextQuestionId === null) {
     debugger;
@@ -127,36 +167,48 @@ export function QuestionPage() {
         <QuestionComponent
           question={question as Question}
           selected={selected}
+          shuffleAnswers={localStorageTest.shuffleAnswers}
           // @ts-ignore
           onSelected={handleSelectedAnswer}
           showCorrectAnsewar={selected !== null}
         />
-        <Box marginTop={2} display="flex" justifyContent="center">
-          {hasNextQuestion && (
-            <Button
-              disabled={selected === null || nextQuestionId === null}
-              component={Link}
-              variant="contained"
-              to={`/tests/${testId}/questions/${nextQuestionId}`}
-            >
-              Następne Pytanie
-            </Button>
-          )}
-          {hasNextQuestion || (
-            <Button
-              disabled={selected === null}
-              variant="contained"
-              color="secondary"
-              onClick={() => {
-                localStorage.removeItem(localStorageTestname);
-                // @ts-ignore
-                history.push(`/tests/${testId}`);
-              }}
-            >
-              Zakończ
-            </Button>
-          )}
-        </Box>
+        <ButtonContainer>
+          <Button
+            disabled={selected !== question.correctAnswer || !canRepeatQuestion}
+            onClick={handleRepeatQuestion}
+            variant="outlined"
+          >
+            Powtórz Pytanie w przyszłości
+          </Button>
+          <NextButtonContainer>
+            {hasNextQuestion && (
+              <Button
+                disabled={selected === null || nextQuestionId === null}
+                component={Link}
+                fullWidth
+                variant="contained"
+                to={`/tests/${testId}/questions/${nextQuestionId}#${localStorageTest.answers}`}
+              >
+                Następne Pytanie
+              </Button>
+            )}
+            {hasNextQuestion || (
+              <Button
+                disabled={selected === null}
+                variant="contained"
+                color="secondary"
+                fullWidth
+                onClick={() => {
+                  localStorage.removeItem(localStorageTestname);
+                  // @ts-ignore
+                  history.push(`/tests/${testId}`);
+                }}
+              >
+                Zakończ
+              </Button>
+            )}
+          </NextButtonContainer>
+        </ButtonContainer>
       </Box>
     </Box>
   );
@@ -164,5 +216,9 @@ export function QuestionPage() {
 
 export function QuestionPageProxy() {
   const { questionId, testId } = useParams();
-  return <QuestionPage key={`testId${testId}+questionId:${questionId}`} />;
+  return (
+    <QuestionPage
+      key={`testId${testId}+questionId:${questionId}+${window.location.hash}`}
+    />
+  );
 }

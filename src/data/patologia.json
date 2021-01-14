@@ -61,8 +61,8 @@
       "Wszystkie wymienione s\u0105 cz\u0119sto stwierdzane w p\u0142ynie owodniowych w przypadkach porodu przedwczesnego"
     ],
     "id": "4",
-    "question": "U kobiet rodz\u0105cych przedwcze\u015bnie najcz\u0119\u015bciej stwierdzanym drobnoustrojem w p\u0142ynie owodniowych nie jests.:",
-    "correctAnswer": 4
+    "question": "U kobiet rodz\u0105cych przedwcze\u015bnie najcz\u0119\u015bciej stwierdzanym drobnoustrojem w p\u0142ynie owodniowych nie jest:",
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 6",
@@ -171,11 +171,11 @@
   {
     "title": "Pytanie 14",
     "answers": [
-      "Ponad 104 kolonii/ml tej samej bakterii",
-      "Ponad 103 kolonii/ml tej samej bakterii",
-      "Ponad 102 kolonii/ml tej samej bakterii",
-      "Ponad 106 kolonii/ml tej samej bakterii",
-      "Ponad 105 kolonii/ml tej samej bakterii"
+      "Ponad 10^4 kolonii/ml tej samej bakterii",
+      "Ponad 10^3 kolonii/ml tej samej bakterii",
+      "Ponad 10^2 kolonii/ml tej samej bakterii",
+      "Ponad 10^6 kolonii/ml tej samej bakterii",
+      "Ponad 10^5 kolonii/ml tej samej bakterii"
     ],
     "id": "13",
     "question": "Badanie bakteriologiczne moczu uwa\u017ca si\u0119 za nieprawid\u0142owe wtedy, gdy w hodowli powstaje:",
@@ -184,11 +184,11 @@
   {
     "title": "Pytanie 15",
     "answers": [
-      "Ponad 104 kolonii/ml tej samej bakterii",
-      "Ponad 103 kolonii/ml tej samej bakterii",
-      "Ponad 102 kolonii/ml tej samej bakterii",
-      "Ponad 106 kolonii/ml tej samej bakterii",
-      "Ponad 105 kolonii/ml tej samej bakterii"
+      "Ponad 10^4 kolonii/ml tej samej bakterii",
+      "Ponad 10^3 kolonii/ml tej samej bakterii",
+      "Ponad 10^2 kolonii/ml tej samej bakterii",
+      "Ponad 10^6 kolonii/ml tej samej bakterii",
+      "Ponad 10^5 kolonii/ml tej samej bakterii"
     ],
     "id": "14",
     "question": "Bakteriomocz bezobjawowy przy braku objaw\u00f3w klinicznych rozpoznajemy, gdy badanie\nbakteriologiczne moczu wykazuje:",
@@ -219,7 +219,7 @@
     "answers": [
       "1-2% ci\u0119\u017carnych",
       "3-4% ci\u0119\u017carnych",
-      "5-6 % ci\u0119\u017carnych",
+      "5-6% ci\u0119\u017carnych",
       "7-8% ci\u0119\u017carnych",
       "10-15% ci\u0119\u017carnych"
     ],
@@ -287,7 +287,7 @@
       "10-12 dni od zap\u0142odnienia",
       "6-8 dni od zap\u0142odnienia",
       "18-20 dni od zap\u0142odnienia",
-      "22-14 dni od zap\u0142odnienia"
+      "12-14 dni od zap\u0142odnienia"
     ],
     "id": "23",
     "question": "Podzia\u0142 pierwotnie pojedynczej zygoty na dwa embriony w procesie powstawania ci\u0105\u017cy jednozygotycznej mo\u017ce si\u0119 dokona\u0107:",
@@ -531,7 +531,7 @@
       "Wszystkie z wyj\u0105tkiem 3, 4, 6 i 9"
     ],
     "id": "42",
-    "question": "Do powik\u0142a\u0144 \u0142o\u017cyska przoduj\u0105cego nale\u017c\u0105:\n1. Wstrz\u0105s krwotoczny\n2. DIC\n3. Ci\u0119\u017ckie zaka\u017cenia septyczne\n4. Przedwczesne oddzielenie \u0142o\u017cyska\n5. Wcze\u015bniactwo\n6. IUGR\n7. Naczynia przoduj\u0105ce\n8. Immunizacja matki\n9. Wady rozwojowe p\u0142odu\n10. Zgon\nPrawdziwe jests.:",
+    "question": "Do powik\u0142a\u0144 \u0142o\u017cyska przoduj\u0105cego nale\u017c\u0105:\n1. Wstrz\u0105s krwotoczny\n2. DIC\n3. Ci\u0119\u017ckie zaka\u017cenia septyczne\n4. Przedwczesne oddzielenie \u0142o\u017cyska\n5. Wcze\u015bniactwo\n6. IUGR\n7. Naczynia przoduj\u0105ce\n8. Immunizacja matki\n9. Wady rozwojowe p\u0142odu\n10. Zgon\nPrawdziwe jest:",
     "correctAnswer": 0
   },
   {
@@ -764,7 +764,7 @@
     ],
     "id": "64",
     "question": "Czas obejmuj\u0105cy od 2. do 8. tygodnia po zap\u0142odnieniu to okres organogenezy, kluczowy w rozwoju cz\u0142owieka, bior\u0105c pod uwag\u0119 wra\u017cliwo\u015b\u0107 na dzia\u0142anie teratogen\u00f3w. Ekspozycja na teratogeny mo\u017ce\nspowodowa\u0107 nieprawid\u0142owy rozw\u00f3j struktur jamy ustnej i ust, je\u015bli czynnik dzia\u0142a w okresie:",
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 66",
@@ -822,11 +822,11 @@
   {
     "title": "Pytanie 71",
     "answers": [
-      "\u00bd porod\u00f3w przedwczesnych",
-      "13 porod\u00f3w przedwczesnych",
-      "\u00bc porod\u00f3w przedwczesnych",
-      "15 porod\u00f3w przedwczesnych",
-      "16 porod\u00f3w przedwczesnych"
+      "1/2 porod\u00f3w przedwczesnych",
+      "1/3 porod\u00f3w przedwczesnych",
+      "1/4 porod\u00f3w przedwczesnych",
+      "1/5 porod\u00f3w przedwczesnych",
+      "1/6 porod\u00f3w przedwczesnych"
     ],
     "id": "70",
     "question": "Przedwczesne p\u0119kni\u0119cie b\u0142on p\u0142odowych nale\u017cy do cz\u0119stych patologii po\u0142o\u017cniczych, jednocze\u015bnie jest przyczyn\u0105 oko\u0142o:",
@@ -1092,7 +1092,7 @@
     ],
     "id": "92",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce etiopatogenezy poronie\u0144:",
-    "correctAnswer": 3
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 94",
@@ -1105,13 +1105,13 @@
     ],
     "id": "93",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce leczenia poronienia zatrzymanego:",
-    "correctAnswer": 3
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 95",
     "answers": [
       "Ludzka gonadotropina kosm\u00f3wkowa jest produkowana przez trofoblast i mo\u017cna j\u0105 wykry\u0107 w surowicy 8 dni po koncepcji",
-      "W prawid\u0142owej ci\u0105\u017cy st\u0119\u017cenie beta-hCG wzrasta o 100-120%% co 48 godzin",
+      "W prawid\u0142owej ci\u0105\u017cy st\u0119\u017cenie beta-hCG wzrasta o 100-120% co 48 godzin",
       "Organopoeza jest zako\u0144czona 70 dni po ostatnim krwawieniu miesi\u0105czkowym",
       "P\u0119cherzyk ci\u0105\u017cowy powinien by\u0107 widoczny w badaniu USG w 5. tygodniu ci\u0105\u017cy",
       "Wszystkie zdania s\u0105 prawdziwe"
@@ -1126,7 +1126,7 @@
       "Najwi\u0119ksza cz\u0119sto\u015b\u0107 utraty ci\u0105\u017c wyst\u0119puje przed implantacj\u0105 i wynosi oko\u0142o 50%",
       "W okresie poimplantacyjnym cz\u0119sto\u015b\u0107 poronie\u0144 zmniejsza si\u0119 do 12-24%",
       "Przy widocznej akcji serca p\u0142odu ryzyko poronienia wynosi tylko 3%",
-      "Przy st\u0119\u017ceniu progesteronu ponad 5 ng/ml ryzyko poronienia jest bardzo niewielkie",
+      "Przy st\u0119\u017ceniu progesteronu ponad 15 ng/ml ryzyko poronienia jest bardzo niewielkie",
       "Po 13 tygodniu ci\u0105\u017cy tylko 1% ci\u0105\u017c ulega poronieniu"
     ],
     "id": "95",
@@ -1379,7 +1379,7 @@
     ],
     "id": "115",
     "question": "Aby dawka metotreksatu stosowanego podczas zachowawczego leczenia ci\u0105\u017cy pozamacicznej by\u0142a skuteczna nale\u017cy:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 117",
@@ -1418,7 +1418,7 @@
     ],
     "id": "118",
     "question": "Prawid\u0142owa dawka i droga podania metotreksatu podczas leczenia zachowawczego ci\u0105\u017cy\npozamacicznej wynosi:",
-    "correctAnswer": 0
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 120",
@@ -1599,7 +1599,7 @@
       "Je\u015b\u0107 osobno potrawy sta\u0142e i p\u0142ynne w odst\u0119pie 2 godzin"
     ],
     "id": "132",
-    "question": "W leczeniu niepow\u015bci\u0105gliwych wymiot\u00f3w ci\u0119\u017carnych nale\u017cy zaleci\u0107 zmiany w diecie i trybie \u017cycia. Ci\u0119\u017carna powinna:",
+    "question": "W leczeniu niepow\u015bci\u0105gliwych wymiot\u00f3w ci\u0119\u017carnych nale\u017cy zaleci\u0107 zmiany w diecie i trybie \u017cycia. Ci\u0119\u017carna powinna (wska\u017c zdanie nieprawdziwe):",
     "correctAnswer": 3
   },
   {
@@ -2385,13 +2385,13 @@
     "answers": [
       "Przedwczesne p\u0119kni\u0119cie b\u0142on p\u0142odowych",
       "Zaka\u017cenia wewn\u0105trzowodniowe",
-      "Spe\u0142zniecie szwu",
+      "Spe\u0142zni\u0119cie szwu",
       "Krwawienie z dr\u00f3g p\u0142ciowych",
       "Przetoki p\u0119cherzowo-pochwowe"
     ],
     "id": "197",
     "question": "Do powik\u0142a\u0144 za\u0142o\u017cenia szwu okr\u0119\u017cnego na szyjk\u0119 macicy u pacjentek z niewydolno\u015bci\u0105 cie\u015bniowo- szyjkow\u0105 zalicza si\u0119: PROM, zaka\u017cenie wewn\u0105trzowodniowe, uraz szyjki macicy w trakcie porodu,\nspe\u0142zniecie szwu, krwawienie z dr\u00f3g p\u0142ciowych oraz przetoki p\u0119cherzowo-pochwowe. Spo\u015br\u00f3d\nwymienionych najcz\u0119\u015bciej wyst\u0119puje:",
-    "correctAnswer": 2
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 199",
@@ -2567,7 +2567,7 @@
       "1, 3, 6, 8"
     ],
     "id": "212",
-    "question": "Przyczyny matczyne wielowodzia s\u0105 nast\u0119puj\u0105ce:\n1. Cukrzyca\n2. Ostre odmiedniczkowe zapalenie nerek\n3. Cholestaza ci\u0119\u017carnych\n4. Niedoczynno\u015b\u0107 tarczycy\n5. Ma\u0142op\u0142ytkowo\u015b\u0107 samoistna\n6. Konflikt serologiczny\n7. Nadci\u015bnienie t\u0119tnicze\n8. Niedob\u00f3r kwasu foliowego\n9.\nPrawdziwe jest:",
+    "question": "Przyczyny matczyne wielowodzia s\u0105 nast\u0119puj\u0105ce:\n1. Cukrzyca\n2. Ostre odmiedniczkowe zapalenie nerek\n3. Cholestaza ci\u0119\u017carnych\n4. Niedoczynno\u015b\u0107 tarczycy\n5. Ma\u0142op\u0142ytkowo\u015b\u0107 samoistna\n6. Konflikt serologiczny\n7. Nadci\u015bnienie t\u0119tnicze\n8. Niedob\u00f3r kwasu foliowego\nPrawdziwe jest:",
     "correctAnswer": 1
   },
   {
@@ -2594,7 +2594,7 @@
     ],
     "id": "214",
     "question": "Do postawienia rozpoznania wielowodzia upowa\u017cnia stwierdzenie warto\u015bci AFI:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 216",
@@ -2767,7 +2767,7 @@
       "Poronienia septycznego",
       "Krwotoku spowodowanego \u0142o\u017cyskiem przoduj\u0105cym",
       "Zespo\u0142u HELLP",
-      "Ci\u0119\u017ckiej postaci cholestazy ci\u0119\u017carnych tab. 2.22. -170"
+      "Ci\u0119\u017ckiej postaci cholestazy ci\u0119\u017carnych"
     ],
     "id": "229",
     "question": "Do po\u0142o\u017cniczych przyczyn DIC nie zaliczysz:",
@@ -2822,7 +2822,7 @@
       "65% wszystkich przedwcze\u015bnie urodzonych dzieci"
     ],
     "id": "233",
-    "question": "Tzw. \u201ep\u00f3\u017ane wcze\u015bniaki\u201d, czyli dzieci urodzone pomi\u0119dzy 34 (07) a 36 (67) tygodniem ci\u0105\u017cy stanowi\u0105 oko\u0142o:",
+    "question": "Tzw. \u201ep\u00f3\u017ane wcze\u015bniaki\u201d, czyli dzieci urodzone pomi\u0119dzy 34 (0/7) a 36 (6/7) tygodniem ci\u0105\u017cy stanowi\u0105 oko\u0142o:",
     "correctAnswer": 2
   },
   {
@@ -2835,7 +2835,7 @@
       "Hipoglikemii"
     ],
     "id": "234",
-    "question": "Tzw. \u201ep\u00f3\u017ane wcze\u015bniaki\u201d, czyli dzieci urodzone pomi\u0119dzy 34 (07) a 36 (67) tygodniem ci\u0105\u017cy, nara\u017cone s\u0105 w por\u00f3wnaniu z dzie\u0107mi urodzonymi o czasie na ni\u017cej wymienione powik\u0142ania, z wyj\u0105tkiem:",
+    "question": "Tzw. \u201ep\u00f3\u017ane wcze\u015bniaki\u201d, czyli dzieci urodzone pomi\u0119dzy 34 (0/7) a 36 (6/7) tygodniem ci\u0105\u017cy, nara\u017cone s\u0105 w por\u00f3wnaniu z dzie\u0107mi urodzonymi o czasie na ni\u017cej wymienione powik\u0142ania, z wyj\u0105tkiem:",
     "correctAnswer": 3
   },
   {
@@ -2919,21 +2919,21 @@
   {
     "title": "Pytanie 242",
     "answers": [
-      "Dzia\u0142anie teratogenne antagonist\u00f3w receptora angiotensyny II polega na: t.1",
       "Powstaniu wad p\u0142odu w obr\u0119bie uk\u0142adu moczowo-p\u0142ciowego w przypadku stosowania lek\u00f3w z tej grupy w I trymestrze ci\u0105\u017cy",
       "Powstaniu ci\u0119\u017ckiej hipotonii u p\u0142odu skutkuj\u0105cej zmniejszeniem przep\u0142ywu nerkowego i niewydolno\u015bci\u0105 nerek in utero w przypadku stosowania lek\u00f3w z tej grupy w II i III trymestrze ci\u0105\u017cy",
-      "Powstaniu wielowodzia i obrz\u0119ku nieimmunologicznego p\u0142odu mog\u0105cego prowadzi\u0107 do jego \u015bmierci wewn\u0105trzmacicznej w przypadku stosowania lek\u00f3w z tej grupy w II i III trymestrze ci\u0105\u017cy Antagoni\u015bci receptora angiotensyny II nie maj\u0105 dzia\u0142ania teratogennego",
+      "Powstaniu wielowodzia i obrz\u0119ku nieimmunologicznego p\u0142odu mog\u0105cego prowadzi\u0107 do jego \u015bmierci wewn\u0105trzmacicznej w przypadku stosowania lek\u00f3w z tej grupy w II i III trymestrze ci\u0105\u017cy",
+      "Antagoni\u015bci receptora angiotensyny II nie maj\u0105 dzia\u0142ania teratogennego",
       "Powstaniu wad uk\u0142adu kostno-szkieletowego w przypadku stosowania lek\u00f3w z tej grupy w I trymestrze ci\u0105\u017cy"
     ],
     "id": "241",
-    "question": "",
-    "correctAnswer": 0
+    "question": "Dzia\u0142anie teratogenne antagonist\u00f3w receptora angiotensyny II polega na:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 243",
     "answers": ["1,2,3,4", "2,3,4", "1,2,3,5", "2,3,5", "3,4"],
     "id": "242",
-    "question": "Potencjalne niekorzystne dzia\u0142anie lek\u00f3w moczop\u0119dnych stosowanych u kobiet w ci\u0105\u017cy: t. 1 str 220\n1. ma charakter teratogenny\n2. wi\u0105\u017ce si\u0119 ze zmniejszeniem obj\u0119to\u015bci p\u0142yn\u00f3w \u015br\u00f3dnaczyniowych i upo\u015bledzeniem przep\u0142ywu maciczno-\u0142o\u017cyskowego\n3. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju IUGR\n4. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju ma\u0142owodzia\n5. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju wielowodzia\nWybierz prawdziwe:",
+    "question": "Potencjalne niekorzystne dzia\u0142anie lek\u00f3w moczop\u0119dnych stosowanych u kobiet w ci\u0105\u017cy:\n1. ma charakter teratogenny\n2. wi\u0105\u017ce si\u0119 ze zmniejszeniem obj\u0119to\u015bci p\u0142yn\u00f3w \u015br\u00f3dnaczyniowych i upo\u015bledzeniem przep\u0142ywu maciczno-\u0142o\u017cyskowego\n3. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju IUGR\n4. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju ma\u0142owodzia\n5. mog\u0105 przyczynia\u0107 si\u0119 do rozwoju wielowodzia\nWybierz prawdziwe:",
     "correctAnswer": 1
   },
   {
@@ -3072,7 +3072,7 @@
     "title": "Pytanie 256",
     "answers": ["1,4,5", "1,2,3", "1,2,3,4,5,6", "2,3,4,5", "1,4,5,6"],
     "id": "255",
-    "question": "Lekami zalecanymi w farmakoterapii cukrzycy u kobiety ci\u0119\u017carnej s\u0105: (str.220)\n1. insulina kr\u00f3tko dzia\u0142aj\u0105ca\n2. Metformina\n3. Glibenklamid\n4. Insulina izofanowa\n5. Insulina lispro\n6. Nieinsulinowe leki przeciwcukrzycowe\nWybierz prawdziwe:",
+    "question": "Lekami zalecanymi w farmakoterapii cukrzycy u kobiety ci\u0119\u017carnej s\u0105:\n1. insulina kr\u00f3tko dzia\u0142aj\u0105ca\n2. Metformina\n3. Glibenklamid\n4. Insulina izofanowa\n5. Insulina lispro\n6. Nieinsulinowe leki przeciwcukrzycowe\nWybierz prawdziwe:",
     "correctAnswer": 0
   },
   {
@@ -3121,7 +3121,7 @@
     "answers": [
       "Jedn\u0105 z podstawowych zasad jest unikanie politerapii i stosowanie najni\u017cszych skutecznych dawek.",
       "Podawanie kwasu foliowego wraz z lekami przeciwpadaczkowymi nie zmniejsza ryzyka teratogenezy.",
-      "Wady wrodzone zwi\u0105zane ze stosowaniem lek\u00f3w przeciwpadaczkowych dotycz\u0105 przede wszystkim uk\u0142adu moczowego. (prawid\u0142owo wad OUN,)",
+      "Wady wrodzone zwi\u0105zane ze stosowaniem lek\u00f3w przeciwpadaczkowych dotycz\u0105 przede wszystkim uk\u0142adu moczowego.",
       "Niekt\u00f3re z lek\u00f3w przeciwpadaczkowych wywo\u0142uj\u0105 niedob\u00f3w witaminy K.",
       "D\u0142ugotrwa\u0142e przyjmowanie lek\u00f3w z grupy benzodiazepin przez matk\u0119, zw\u0142aszcza w okresie przedporodowym, mo\u017ce prowadzi\u0107 do depresji o\u015brodka oddechowego."
     ],
@@ -3349,7 +3349,7 @@
     ],
     "id": "280",
     "question": "Faza krzepni\u0119cia w przebiegu DIC mo\u017ce objawia\u0107 si\u0119:\n1. Niewydolno\u015bci\u0105 narz\u0105dow\u0105 (nerek, w\u0105troby, oddechow\u0105)\n2. Martwic\u0105 sk\u00f3ry\n3. Wybroczyny, zasinienie,\n4. Krwawienia z b\u0142on \u015bluzowych oraz z miejsc wk\u0142u\u0107 i ran chirurgicznych\n5. Krwawienia z przewodu pokarmowego\n6. Krwawienia do OUN\n7. Krwawienia z drzewa oskrzelowego\n8. Zakrzepic\u0105 \u017cyln\u0105\nPrawdziwe jest:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 282",
@@ -3388,7 +3388,7 @@
     ],
     "id": "283",
     "question": "Steroidoterapia prenatalna powinna by\u0107 zastosowana zar\u00f3wno u ci\u0119\u017carnych z samoistnym porodem przedwczesnym, jak i u kobiet z PPROM. Istnieje r\u00f3\u017cnica pomi\u0119dzy tymi grupami ci\u0119\u017carnych w\ntygodniu ci\u0105\u017cy, w kt\u00f3rym ko\u0144czy si\u0119 pozytywny efekt steroidoterapii. Wska\u017c prawdziwe zdanie:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 285",
@@ -3564,7 +3564,7 @@
     "title": "Pytanie 299",
     "answers": [
       "Zawiera fibrynogen i antytrombin\u0119 III",
-      "Pocz\u0105tkowa dawka to zazwyczaj 2 jednostki (4 jednostki prawid\u0142owo -)",
+      "Pocz\u0105tkowa dawka to zazwyczaj 2 jednostki",
       "Wszystkie zdania s\u0105 prawdziwe",
       "1 jednostka (250 ml) zwi\u0119ksza st\u0119\u017cenie fibrynogenu o 5-10 mg/dl",
       "Celem leczenia jest utrzymanie czasu protrombinowego oraz APTT poni\u017cej 1,5 x g\u00f3rna granica normy"
@@ -3648,16 +3648,16 @@
       "Tylko 5"
     ],
     "id": "304",
-    "question": "Klasyczna definicja rozpoznania stanu przedrzucawkowego obejmuje: pocz\u0105tek choroby po 20 tygodniu ci\u0105\u017cy, podwy\u017cszone ci\u015bnienie t\u0119tnicze krwi (\u226514090) i bia\u0142komocz (utrata co najmniej 300\nmg bia\u0142ka na dob\u0119). W przypadku braku bia\u0142komoczu postawienie rozpoznania umo\u017cliwia tak\u017ce stwierdzenie nadci\u015bnienia t\u0119tniczego wsp\u00f3\u0142istniej\u0105cego z:\n1. Nieostrym widzeniem\n2. B\u00f3lami g\u0142owy ?\n3. B\u00f3lami w nadbrzuszu\n4. Ma\u0142op\u0142ytkowo\u015bci\u0105\n5. Wzrostem st\u0119\u017ce\u0144 kreatyniny\n6. Wzrostem aktywno\u015bci enzym\u00f3w w\u0105trobowych\nPrawdziwe jest:",
+    "question": "Klasyczna definicja rozpoznania stanu przedrzucawkowego obejmuje: pocz\u0105tek choroby po 20 tygodniu ci\u0105\u017cy, podwy\u017cszone ci\u015bnienie t\u0119tnicze krwi (\u226514090) i bia\u0142komocz (utrata co najmniej 300\nmg bia\u0142ka na dob\u0119). W przypadku braku bia\u0142komoczu postawienie rozpoznania umo\u017cliwia tak\u017ce stwierdzenie nadci\u015bnienia t\u0119tniczego wsp\u00f3\u0142istniej\u0105cego z:\n1. Nieostrym widzeniem\n2. B\u00f3lami g\u0142owy\n3. B\u00f3lami w nadbrzuszu\n4. Ma\u0142op\u0142ytkowo\u015bci\u0105\n5. Wzrostem st\u0119\u017ce\u0144 kreatyniny\n6. Wzrostem aktywno\u015bci enzym\u00f3w w\u0105trobowych\nPrawdziwe jest:",
     "correctAnswer": 1
   },
   {
     "title": "Pytanie 306",
     "answers": [
-      "Cukrzycy +",
-      "Ci\u0105\u017cy pierwszej (nier\u00f3dztwa) +",
-      "Zaawansowanego wieku matki +",
-      "Ci\u0105\u017cowej choroby trofoblastycznej +",
+      "Cukrzycy",
+      "Ci\u0105\u017cy pierwszej (nier\u00f3dztwa)",
+      "Zaawansowanego wieku matki",
+      "Ci\u0105\u017cowej choroby trofoblastycznej",
       "Obumarcia p\u0142odu"
     ],
     "id": "305",
@@ -3667,10 +3667,10 @@
   {
     "title": "Pytanie 307",
     "answers": [
-      "Trombofilii +",
-      "Przyjmowania hormon\u00f3w tarczycy podczas ci\u0105\u017cy +",
-      "Kobiety urodzone jako SGA (za ma\u0142e do wieku ci\u0105\u017cowego) +",
-      "Trisomii u p\u0142odu +",
+      "Trombofilii",
+      "Przyjmowania hormon\u00f3w tarczycy podczas ci\u0105\u017cy",
+      "Kobiety urodzone jako SGA (za ma\u0142e do wieku ci\u0105\u017cowego)",
+      "Trisomii u p\u0142odu",
       "Wszystkie wymienione s\u0105 czynnikiem ryzyka wyst\u0105pienia stanu przedrzucawkowego"
     ],
     "id": "306",
@@ -3714,7 +3714,7 @@
     ],
     "id": "309",
     "question": "Wska\u017c optymalny spos\u00f3b zako\u0144czenia ci\u0105\u017cy w przypadku bli\u017ani\u0105t nieca\u0142kowicie rozdzielonych:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 311",
@@ -3805,7 +3805,7 @@
     ],
     "id": "316",
     "question": "Terapi\u0119 hipotensyjn\u0105 u kobiet ze stanem przedrzucawkowym rozpoczniesz od warto\u015bci ci\u015bnienia\nkrwi:",
-    "correctAnswer": 1
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 318",
@@ -4099,7 +4099,7 @@
   {
     "title": "Pytanie 343",
     "answers": [
-      "Stosowana jest u matek Rh(D)-ujemnych ( DODATNIE!!!!!!!!!) bez uprzedniej splenektomii",
+      "Stosowana jest u matek Rh(D)-ujemnych bez uprzedniej splenektomii",
       "Stosowana jest w dawce 50-75 mikrogram\u00f3w/kg m.c.",
       "W II i III trymestrze ci\u0105\u017cy jest bezpieczna dla matki i p\u0142odu",
       "Mo\u017cliwym powik\u0142aniem terapii jest \u017c\u00f3\u0142taczka hemolityczna",
@@ -4120,7 +4120,7 @@
     ],
     "id": "343",
     "question": "Leczenie pierwotnej ma\u0142op\u0142ytkowo\u015bci immunologicznej (idiopathic thrombocytopenic purpura \u2013 ITP) u kobiet ci\u0119\u017carnych zosta\u0142o opracowane w roku 2010 przez Grup\u0119 ds. Hemostazy Polskiego\nTowarzystwa Transfuzjolog\u00f3w i Hematolog\u00f3w. Zgodnie z tymi zaleceniami w leczeniu II rzutu mo\u017cesz zastosowa\u0107 skojarzon\u0105 terapi\u0119 lekami stosowanymi w pierwszej linii leczenia stosuj\u0105c:",
-    "correctAnswer": 0
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 345",
@@ -4333,14 +4333,14 @@
   {
     "title": "Pytanie 361",
     "answers": [
-      "U kobiet ci\u0119\u017carnych ze sztuczn\u0105 zastawk\u0105 serca leczenie p/zakrzepowe o okresie ci\u0105\u017cy: Nie musi by\u0107 stosowane",
+      "Nie musi by\u0107 stosowane",
       "Polega na podawaniu heparyn w I i III trymestrze a doustnych antykoagulant\u00f3w w II trymestrze ci\u0105\u017cy",
       "Polega na podawaniu heparyny drobnocz\u0105steczkowej przez ca\u0142\u0105 ci\u0105\u017c\u0119",
       "Polega na stosowaniu doustnych antykoagulant\u00f3w przez ca\u0142\u0105 ci\u0105\u017c\u0119",
       "Polega na podawaniu heparyn w II trymestrze a doustnych antykoagulant\u00f3w w I i III trymestrze ci\u0105\u017cy"
     ],
     "id": "360",
-    "question": "",
+    "question": "U kobiet ci\u0119\u017carnych ze sztuczn\u0105 zastawk\u0105 serca leczenie p/zakrzepowe o okresie ci\u0105\u017cy:",
     "correctAnswer": 1
   },
   {
@@ -4413,7 +4413,7 @@
     "answers": ["1%", "3%", "5%", "7%", "9%"],
     "id": "366",
     "question": "\u0141o\u017cysko przoduj\u0105ce o nieprawid\u0142owym zagnie\u017cd\u017ceniu stanowi sytuacj\u0119, gdy u ci\u0119\u017carnej z \u0142o\u017cyskiem przoduj\u0105cym dochodzi do penetracji kosmk\u00f3w do g\u0142\u0119bszych tkanek. \u015amiertelno\u015b\u0107 kobiet z tym\npowik\u0142aniem si\u0119ga:",
-    "correctAnswer": 2
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 368",
@@ -4594,7 +4594,7 @@
       "1, 3, 4, 5, 6, 7"
     ],
     "id": "380",
-    "question": "Do powik\u0142a\u0144 kordocentezy nie nale\u017cy:\n1. Krwawienie doowodniowe nale\u017cy\n2. Tachykardia p\u0142odu nie nale\u017cy\n3. Czynno\u015b\u0107 skurczowa macicy nale\u017cy\n4. Infekcja wewn\u0105trzmaciczna nale\u017cy\n5. Zgon wewn\u0105trzmaciczny p\u0142odu nale\u017cy\n6. Bradykardia p\u0142odu nale\u017cy\n7. PPROM nie nale\u017cyPrawdziwe jest:",
+    "question": "Do powik\u0142a\u0144 kordocentezy nale\u017cy:\n1. Krwawienie doowodniowe nale\u017cy\n2. Tachykardia p\u0142odu nie nale\u017cy\n3. Czynno\u015b\u0107 skurczowa macicy nale\u017cy\n4. Infekcja wewn\u0105trzmaciczna nale\u017cy\n5. Zgon wewn\u0105trzmaciczny p\u0142odu nale\u017cy\n6. Bradykardia p\u0142odu nale\u017cy\n7. PPROM nie nale\u017cy\nPrawdziwe jest:",
     "correctAnswer": 0
   },
   {
@@ -4764,7 +4764,7 @@
       "Miesi\u0105c ci\u0105\u017cy nie ma znaczenia"
     ],
     "id": "394",
-    "question": "Najkorzystniejszym czasem dla przeprowadzenia przezsk\u00f3rnych interwencji wie\u0144cowych jest okres\npo:",
+    "question": "Najkorzystniejszym czasem dla przeprowadzenia przezsk\u00f3rnych interwencji wie\u0144cowych jest okres po:",
     "correctAnswer": 3
   },
   {
@@ -5121,14 +5121,14 @@
       "1, 2, 5, 6"
     ],
     "id": "427",
-    "question": "Objawami ultrasonograficznymi obumarcia p\u0142odu s\u0105:\n1. Brak akcji serca p\u0142odu\n2. Brak ruch\u00f3w p\u0142odu\n3. Hepatosplenomegalia p\u0142odu\n4. Rozmi\u0119kanie ko\u015bci pokrywy czaszki p\u0142odu\n5. Obecno\u015b\u0107 p\u0119cherzyk\u00f3w gazu w jamie brzusznej p\u0142odu\n6. Objaw aureoli \u2013 obrz\u0119k tkanki podsk\u00f3rnej wok\u00f3\u0142 g\u0142\u00f3wki p\u0142odu Prawdziwe s\u0105:",
+    "question": "Objawami ultrasonograficznymi obumarcia p\u0142odu s\u0105:\n1. Brak akcji serca p\u0142odu\n2. Brak ruch\u00f3w p\u0142odu\n3. Hepatosplenomegalia p\u0142odu\n4. Rozmi\u0119kanie ko\u015bci pokrywy czaszki p\u0142odu\n5. Obecno\u015b\u0107 p\u0119cherzyk\u00f3w gazu w jamie brzusznej p\u0142odu\n6. Objaw aureoli \u2013 obrz\u0119k tkanki podsk\u00f3rnej wok\u00f3\u0142 g\u0142\u00f3wki p\u0142odu\nPrawdziwe s\u0105:",
     "correctAnswer": 1
   },
   {
     "title": "Pytanie 429",
     "answers": ["Wszystkie wymienione", "1, 2", "1, 3", "Tylko 1", "Tylko 3"],
     "id": "428",
-    "question": "W przypadku stwierdzenia obumarcia p\u0142odu w drugiej po\u0142owie ci\u0105\u017cy postepowanie lekarskie mo\u017ce by\u0107 aktywne (chirurgiczne uko\u0144czenie ci\u0105\u017cy) lub zachowawcze. Aby podj\u0105\u0107 decyzj\u0119 co do sposobu\npost\u0119powania, nale\u017cy bra\u0107 pod uwag\u0119 ryzyko wyst\u0105pienia powik\u0142a\u0144, do kt\u00f3rych nale\u017c\u0105:\n1. Zaburzenia krzepni\u0119cia ze zu\u017cycia\n2. Zaka\u017cenie\n3. Krwotok z dr\u00f3g p\u0142ciowych Prawdziwe jest/s\u0105:",
+    "question": "W przypadku stwierdzenia obumarcia p\u0142odu w drugiej po\u0142owie ci\u0105\u017cy postepowanie lekarskie mo\u017ce by\u0107 aktywne (chirurgiczne uko\u0144czenie ci\u0105\u017cy) lub zachowawcze. Aby podj\u0105\u0107 decyzj\u0119 co do sposobu\npost\u0119powania, nale\u017cy bra\u0107 pod uwag\u0119 ryzyko wyst\u0105pienia powik\u0142a\u0144, do kt\u00f3rych nale\u017c\u0105:\n1. Zaburzenia krzepni\u0119cia ze zu\u017cycia\n2. Zaka\u017cenie\n3. Krwotok z dr\u00f3g p\u0142ciowych\nPrawdziwe jest/s\u0105:",
     "correctAnswer": 0
   },
   {
@@ -5142,7 +5142,7 @@
     ],
     "id": "429",
     "question": "U ci\u0119\u017carnej z obumarciem wewn\u0105trzmacicznym p\u0142odu w II po\u0142owie ci\u0105\u017cy nale\u017cy po przyj\u0119ciu do szpitala zleci\u0107 szereg bada\u0144 laboratoryjnych:\n1. Morfologia krwi\n2. Badanie og\u00f3lne moczu\n3. Ocena uk\u0142adu krzepni\u0119cia\n4. Badania w kierunku zaka\u017ce\u0144 (toksoplazmoza, cytomegalia, r\u00f3\u017cyczka i inne)\n5. Bia\u0142ko C-reaktywne\n6. Posiew z pochwy\n7. Posiew krwi\n8. Grupa krwi (je\u015bli nie by\u0142a wcze\u015bniej oznaczona)\nPrawdziwe jest:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 431",
@@ -5310,14 +5310,14 @@
       "Wszystkie ci\u0119\u017carne z uwagi na niski tydzie\u0144 ci\u0105\u017cy rozwi\u0105\u017cesz ci\u0119ciem cesarskim"
     ],
     "id": "442",
-    "question": "Pacjentka A \u2013 32 tygodnie ci\u0105\u017cy, samoistny por\u00f3d przedwczesny w toku, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne g\u0142\u00f3wkowe.\nPacjentka B \u2013 32 tygodnie ci\u0105\u017cy, PPROM, nasilaj\u0105ce si\u0119 skurcze macicy, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne g\u0142\u00f3wkowe.\nPacjentka C \u2013 32 tygodnie ci\u0105\u017cy, samoistny por\u00f3d przedwczesny w toku, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne\nmiednicowe.\nPacjentka D \u2013 32 tygodnie ci\u0105\u017cy, PPROM, nasilaj\u0105ce si\u0119 skurcze macicy, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne\nmiednicowe.\nPacjentkom zaproponujesz nast\u0119puj\u0105cy spos\u00f3b rozwi\u0105zania ci\u0105\u017cy:",
+    "question": "Pacjentka A \u2013 32 tygodnie ci\u0105\u017cy, samoistny por\u00f3d przedwczesny w toku, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne g\u0142\u00f3wkowe.\nPacjentka B \u2013 32 tygodnie ci\u0105\u017cy, PPROM, nasilaj\u0105ce si\u0119 skurcze macicy, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne g\u0142\u00f3wkowe.\nPacjentka C \u2013 32 tygodnie ci\u0105\u017cy, samoistny por\u00f3d przedwczesny w toku, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne miednicowe.\nPacjentka D \u2013 32 tygodnie ci\u0105\u017cy, PPROM, nasilaj\u0105ce si\u0119 skurcze macicy, po\u0142o\u017cenie p\u0142odu pod\u0142u\u017cne miednicowe.\nPacjentkom zaproponujesz nast\u0119puj\u0105cy spos\u00f3b rozwi\u0105zania ci\u0105\u017cy:",
     "correctAnswer": 0
   },
   {
     "title": "Pytanie 444",
     "answers": ["0,7%", "1,2%", "1,7%", "2,2%", "2,7%"],
     "id": "443",
-    "question": "Ci\u0105\u017ca przeterminowana to ci\u0105\u017ca, kt\u00f3ra osi\u0105gn\u0119\u0142a 42+0 tygodni. Cz\u0119sto\u015b\u0107 jej wyst\u0119powania w\nnaszym kraju wynosi oko\u0142o:",
+    "question": "Ci\u0105\u017ca przeterminowana to ci\u0105\u017ca, kt\u00f3ra osi\u0105gn\u0119\u0142a 42+0 tygodni. Cz\u0119sto\u015b\u0107 jej wyst\u0119powania w naszym kraju wynosi oko\u0142o:",
     "correctAnswer": 2
   },
   {
@@ -5383,7 +5383,7 @@
     ],
     "id": "448",
     "question": "Wskazaniem do za\u0142o\u017cenia szwu okr\u0119\u017cnego szyjki macicy u kobiet w ci\u0105\u017cy nie jest:",
-    "correctAnswer": 3
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 450",
@@ -5395,7 +5395,7 @@
       "U wszystkich kobiet nale\u017cy oko\u0142o 24 tygodnia ci\u0105\u017cy wykonywa\u0107 badania kardiotokograficzne, USG dopochwowe szyjki macicy oraz oznaczenie fibronektyny p\u0142odowej"
     ],
     "id": "449",
-    "question": "Do metod pozwalaj\u0105cych wyselekcjonowa\u0107 kobiety zagro\u017cone porodem przedwczesnym nale\u017c\u0105\nkardiotokografia, ultrasonografia dopochwowa szyjki macicy oraz oznaczanie fibronektyny p\u0142odowej w wydzielinie pochwowo-szyjkowej. Prawid\u0142owa kolejno\u015b\u0107 post\u0119powania diagnostycznego,\nwarunkuj\u0105ca rozpocz\u0119cie leczenia, jest nast\u0119puj\u0105ca:",
+    "question": "Do metod pozwalaj\u0105cych wyselekcjonowa\u0107 kobiety zagro\u017cone porodem przedwczesnym nale\u017c\u0105 kardiotokografia, ultrasonografia dopochwowa szyjki macicy oraz oznaczanie fibronektyny p\u0142odowej w wydzielinie pochwowo-szyjkowej. Prawid\u0142owa kolejno\u015b\u0107 post\u0119powania diagnostycznego, warunkuj\u0105ca rozpocz\u0119cie leczenia, jest nast\u0119puj\u0105ca:",
     "correctAnswer": 0
   },
   {
@@ -5500,7 +5500,7 @@
     ],
     "id": "457",
     "question": "U pod\u0142o\u017ca zespo\u0142u TTTS le\u017c\u0105:",
-    "correctAnswer": 1
+    "correctAnswer": 2
   },
   {
     "title": "Pytanie 459",
@@ -5508,7 +5508,7 @@
       "W populacji kobiet europejskich bli\u017ani\u0119ta jednozygotyczne stanowi\u0105 oko\u0142o 30% a dwuzygotyczne oko\u0142o 70% og\u00f3\u0142u porod\u00f3w bli\u017aniaczych",
       "Je\u015bli bli\u017ani\u0119ta maja odmienna p\u0142e\u0107 to s\u0105 zawsze dwuzygotyczne",
       "Wszystkie ci\u0105\u017ce jednokosm\u00f3wkowe s\u0105 jednozygotyczne",
-      "Po\u015br\u00f3d ci\u0105\u017c dwukosm\u00f3wkowych wszystkie s\u0105 dwuzygotyczne i 13 jednozygotycznych",
+      "Po\u015br\u00f3d ci\u0105\u017c dwukosm\u00f3wkowych wszystkie s\u0105 dwuzygotyczne i 13% jednozygotycznych",
       "Nie istnieje ci\u0105\u017ca dwuzygotyczne jednokosm\u00f3wkowa dwuowodniowa"
     ],
     "id": "458",
@@ -5590,7 +5590,7 @@
       "Wszystkie wymienione to sk\u0142adowe post\u0119powania lekarskiego w przypadkach PROM"
     ],
     "id": "464",
-    "question": "Post\u0119powanie lekarskie w przypadku przedwczesnego odp\u0142yni\u0119cia p\u0142ynu owodniowego nie\nobejmuje:",
+    "question": "Post\u0119powanie lekarskie w przypadku przedwczesnego odp\u0142yni\u0119cia p\u0142ynu owodniowego nie obejmuje:",
     "correctAnswer": 4
   },
   {
@@ -5616,14 +5616,14 @@
   {
     "title": "Pytanie 468",
     "answers": [
-      "Post\u0119powanie inwazyjne w przypadkach przedwczesnego odp\u0142ywania p\u0142ynu owodniowego polega na uko\u0144czeniu ci\u0105\u017cy. Postepowania wyczekuj\u0105cego nie stosuje si\u0119 po osi\u0105gni\u0119ciu: 28 tygodnia ci\u0105\u017cy",
+      "28 tygodnia ci\u0105\u017cy",
       "30 tygodnia ci\u0105\u017cy",
       "32 tygodnia ci\u0105\u017cy",
       "34 tygodnia ci\u0105\u017cy",
       "36 tygodnia ci\u0105\u017cy"
     ],
     "id": "467",
-    "question": "",
+    "question": "Post\u0119powanie inwazyjne w przypadkach przedwczesnego odp\u0142ywania p\u0142ynu owodniowego polega na uko\u0144czeniu ci\u0105\u017cy. Postepowania wyczekuj\u0105cego nie stosuje si\u0119 po osi\u0105gni\u0119ciu:",
     "correctAnswer": 3
   },
   {
@@ -5649,7 +5649,7 @@
       "Ryzyko zgon\u00f3w jest takie samo w obu przypadkach"
     ],
     "id": "469",
-    "question": "Powik\u0142aniem spotykanym wy\u0142\u0105cznie w ci\u0105\u017cach wielop\u0142odowych jest asymetryczne wzrastanie\nwewn\u0105trzmaciczne p\u0142od\u00f3w. W przypadku rozbie\u017cnego wzrastania bli\u017ani\u0105t, gdy masy cia\u0142a p\u0142od\u00f3w r\u00f3\u017cni\u0105 si\u0119 o ponad 25%, ryzyko zgon\u00f3w oko\u0142oporodowych p\u0142od\u00f3w jest wy\u017csze w por\u00f3wnaniu do\np\u0142od\u00f3w z r\u00f3\u017cnic\u0105 masy cia\u0142a do 10%, o:",
+    "question": "Powik\u0142aniem spotykanym wy\u0142\u0105cznie w ci\u0105\u017cach wielop\u0142odowych jest asymetryczne wzrastanie wewn\u0105trzmaciczne p\u0142od\u00f3w. W przypadku rozbie\u017cnego wzrastania bli\u017ani\u0105t, gdy masy cia\u0142a p\u0142od\u00f3w r\u00f3\u017cni\u0105 si\u0119 o ponad 25%, ryzyko zgon\u00f3w oko\u0142oporodowych p\u0142od\u00f3w jest wy\u017csze w por\u00f3wnaniu do p\u0142od\u00f3w z r\u00f3\u017cnic\u0105 masy cia\u0142a do 10%, o:",
     "correctAnswer": 3
   },
   {
@@ -5753,7 +5753,7 @@
       "Ni\u017csze ni\u017c w prawid\u0142owej ci\u0105\u017cy bli\u017aniaczej st\u0119\u017cenie progesteronu"
     ],
     "id": "477",
-    "question": "Do objaw\u00f3w biochemicznych wyst\u0119puj\u0105cych w zespole \u201eznikaj\u0105cego p\u0142odu\u201d w ci\u0105\u017cy bli\u017aniaczej\nzaliczamy:",
+    "question": "Do objaw\u00f3w biochemicznych wyst\u0119puj\u0105cych w zespole \u201eznikaj\u0105cego p\u0142odu\u201d w ci\u0105\u017cy bli\u017aniaczej zaliczamy:",
     "correctAnswer": 1
   },
   {
@@ -5984,7 +5984,7 @@
     ],
     "id": "497",
     "question": "Najcz\u0119stsz\u0105 chorob\u0105 przewlek\u0142\u0105 uk\u0142adu oddechowego wyst\u0119puj\u0105c\u0105 u ci\u0119\u017carnych jest:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 499",
@@ -6088,7 +6088,7 @@
     "title": "Pytanie 507",
     "answers": ["1,3,5", "1,3,4", "2,3,4", "2,3,5", "1,5"],
     "id": "506",
-    "question": "Przedwczesne p\u0119kni\u0119cie b\u0142on p\u0142odowych wyst\u0119puje:\n1. przed rozpocz\u0119ciem czynno\u015bci skurczowej macicy\n2. godzin\u0119 po rozpocz\u0119ciu czynno\u015bci skurczowej macicy\n3. niezale\u017cnie od czasu trwania ci\u0105\u017cy\n4. w obr\u0119bie uj\u015bcia zewn\u0119trznego szyjki macicy\n5. w obr\u0119bie uj\u015bcia wewn\u0119trznego szyjki macicy Prawid\u0142owa odpowied\u017a to:",
+    "question": "Przedwczesne p\u0119kni\u0119cie b\u0142on p\u0142odowych wyst\u0119puje:\n1. przed rozpocz\u0119ciem czynno\u015bci skurczowej macicy\n2. godzin\u0119 po rozpocz\u0119ciu czynno\u015bci skurczowej macicy\n3. niezale\u017cnie od czasu trwania ci\u0105\u017cy\n4. w obr\u0119bie uj\u015bcia zewn\u0119trznego szyjki macicy\n5. w obr\u0119bie uj\u015bcia wewn\u0119trznego szyjki macicy\nPrawid\u0142owa odpowied\u017a to:",
     "correctAnswer": 0
   },
   {
@@ -6102,7 +6102,7 @@
     ],
     "id": "507",
     "question": "W prawid\u0142owych warunkach b\u0142ony p\u0142odowe tworz\u0105 sterylny zbiornik, kt\u00f3rego \u015brodowisko\numo\u017cliwia wzrost i rozw\u00f3j p\u0142odu.\nNajkorzystniejszym momentem odp\u0142yni\u0119cia p\u0142ynu owodniowego zar\u00f3wno dla p\u0142odu, jak i dla matki jest:",
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 509",
@@ -6289,7 +6289,7 @@
   {
     "title": "Pytanie 523",
     "answers": [
-      "Masa p\u0142odu 500g",
+      "Masa p\u0142odu 500 g",
       "Masa p\u0142odu 700 g",
       "Masa p\u0142odu 1000 g",
       "Masa p\u0142odu 1250 g",
@@ -6309,7 +6309,7 @@
       "Obecne produkty degradacji fibryny i fibrynogenu"
     ],
     "id": "523",
-    "question": "Rozpoznanie DIC stawiane jest na podstawie objaw\u00f3w klinicznych, dla potwierdzenia wykonuje si\u0119 i ocenia wyniki bada\u0144 laboratoryjnych. Wska\u017c wynik laboratoryjny, kt\u00f3ry nie wyst\u0119puje w postaci\nbezobjawowej DIC (DIC skompensowany):",
+    "question": "Rozpoznanie DIC stawiane jest na podstawie objaw\u00f3w klinicznych, dla potwierdzenia wykonuje si\u0119 i ocenia wyniki bada\u0144 laboratoryjnych. Wska\u017c wynik laboratoryjny, kt\u00f3ry nie wyst\u0119puje w postaci bezobjawowej DIC (DIC skompensowany):",
     "correctAnswer": 0
   },
   {
@@ -6322,7 +6322,7 @@
       "Obecne produkty degradacji fibryny i fibrynogenu"
     ],
     "id": "524",
-    "question": "Rozpoznanie DIC stawiane jest na podstawie objaw\u00f3w klinicznych, dla potwierdzenia wykonuje si\u0119 i ocenia wyniki bada\u0144 laboratoryjnych. Wska\u017c wynik laboratoryjny, kt\u00f3ry nie wyst\u0119puje w postaci DIC\no przebiegu utajonym (DIC nieskompensowany):",
+    "question": "Rozpoznanie DIC stawiane jest na podstawie objaw\u00f3w klinicznych, dla potwierdzenia wykonuje si\u0119 i ocenia wyniki bada\u0144 laboratoryjnych. Wska\u017c wynik laboratoryjny, kt\u00f3ry nie wyst\u0119puje w postaci DIC o przebiegu utajonym (DIC nieskompensowany):",
     "correctAnswer": 1
   },
   {
@@ -6494,7 +6494,7 @@
     "answers": [
       "Ocena morfologii i okre\u015blenie wska\u017anik\u00f3w erytrocytarnych",
       "Rozmaz krwi obwodowej",
-      "Oznaczenie poziomu BC",
+      "Oznaczenie poziomu TIBC",
       "Oznaczenie st\u0119\u017cenia transferryny i \u017celaza",
       "Oznaczenie st\u0119\u017cenia witaminy B12"
     ],
@@ -6855,7 +6855,7 @@
     "title": "Pytanie 572",
     "answers": [
       "Oko\u0142o 0,5% ci\u0119\u017carnych",
-      "Oko\u0142o 1-2 % ci\u0119\u017carnych",
+      "Oko\u0142o 1-2% ci\u0119\u017carnych",
       "Oko\u0142o 5% ci\u0119\u017carnych",
       "Oko\u0142o 7% ci\u0119\u017carnych",
       "Oko\u0142o 4% ci\u0119\u017carnych"
@@ -7046,7 +7046,7 @@
       "85% par bli\u017ani\u0105t",
       "80% par bli\u017ani\u0105t",
       "70% par bli\u017ani\u0105t",
-      "75% par bli\u017ani\u0105t (, )",
+      "75% par bli\u017ani\u0105t",
       "65% par bli\u017ani\u0105t"
     ],
     "id": "586",
@@ -7138,7 +7138,7 @@
       "Najcz\u0119\u015bciej zawa\u0142 m\u00f3zgu rozwija si\u0119 w mechanizmie zatoru, zazwyczaj pochodzenia sercowego i w wi\u0119kszo\u015bci przypadk\u00f3w stwierdza si\u0119 obecno\u015b\u0107 istniej\u0105cej przed ci\u0105\u017c\u0105 choroby serca",
       "Wzrost ci\u015bnienia podczas parcia w II okresie porodu u kobiet z przetrwa\u0142ym otworem owalnym mo\u017ce powodowa\u0107 przemieszczenie si\u0119 materia\u0142u zatorowego pochodzenia \u017cylnego do lewego przedsionka i dalej do m\u00f3zgu",
       "Do czynnik\u00f3w predysponuj\u0105cych mi\u0119dzy innymi nale\u017cy zako\u0144czenie ci\u0105\u017cy drog\u0105 ci\u0119cia cesarskiego, migrena i rak kosm\u00f3wki",
-      "W udarze niedokrwiennym w przebiegu rzucawki objawom ogniskowym nie towarzyszy spl\u0105tanie lub pe\u0142na utrata przytomno\u015bci, a tak\u017ce napady drgawkowe."
+      "W udarze niedokrwiennym w przebiegu rzucawki objawom ogniskowym nie towarzyszy spl\u0105tanie lub pe\u0142na utrata przytomno\u015bci, a tak\u017ce napady drgawkowe"
     ],
     "id": "594",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce udaru niedokrwiennego u kobiet ci\u0119\u017carnych:",
@@ -7200,7 +7200,7 @@
       "Krwawienie z VVM"
     ],
     "id": "599",
-    "question": "Najcz\u0119stsz\u0105 przyczyn\u0105 w dominuj\u0105cej wi\u0119kszo\u015bci przypadk\u00f3w jest:",
+    "question": "Najcz\u0119stsz\u0105 przyczyn\u0105 krwotoku podpaj\u0119czyn\u00f3wkowego w dominuj\u0105cej wi\u0119kszo\u015bci przypadk\u00f3w jest:",
     "correctAnswer": 2
   },
   {
@@ -7781,7 +7781,7 @@
       "Antrachinony"
     ],
     "id": "646",
-    "question": "Lekiem zalecanym w farmakoterapii zapar\u0107 u kobiet ci\u0119\u017carnych, niezale\u017cnie od zaawansowania ci\u0105\u017cy, jests.:",
+    "question": "Lekiem zalecanym w farmakoterapii zapar\u0107 u kobiet ci\u0119\u017carnych, niezale\u017cnie od zaawansowania ci\u0105\u017cy, jest:",
     "correctAnswer": 0
   },
   {
@@ -8005,7 +8005,7 @@
       "16-20% wszystkich ci\u0105\u017c"
     ],
     "id": "666",
-    "question": "Ma\u0142op\u0142ytkowo\u015b\u0107 ci\u0119\u017carnych jest najcz\u0119stsz\u0105 przyczyn\u0105 obni\u017conej liczby p\u0142ytek krwi u kobiet ci\u0119\u017carnych (stanowi 70-870% przypadk\u00f3w) i wik\u0142a:",
+    "question": "Ma\u0142op\u0142ytkowo\u015b\u0107 ci\u0119\u017carnych jest najcz\u0119stsz\u0105 przyczyn\u0105 obni\u017conej liczby p\u0142ytek krwi u kobiet ci\u0119\u017carnych (stanowi 70-80% przypadk\u00f3w) i wik\u0142a:",
     "correctAnswer": 0
   },
   {
@@ -8025,7 +8025,7 @@
     "title": "Pytanie 669",
     "answers": [
       "Jest bogaty w fibrynogen",
-      "Zalecana dawka to 1 jednostka / 15 kg m.c. (1j./10kg m.c.)",
+      "Zalecana dawka to 1 jednostka / 15 kg m.c.",
       "Wszystkie zdania s\u0105 prawdziwe",
       "Zawiera czynniki krzepni\u0119cia VIII, XIII, vWF",
       "Celem leczenia jest utrzymanie st\u0119\u017cenia fibrynogenu powy\u017cej 100 mg/dl"
@@ -8065,7 +8065,7 @@
     "answers": [
       "Stosowana jest, gdy aktywno\u015b\u0107 osoczowa antytrombiny jest mniejsza ni\u017c 70-75%",
       "Nale\u017cy stosowa\u0107 dawk\u0119 3000 IU",
-      "Wszystkie zdania s\u0105 prawdziwe,",
+      "Wszystkie zdania s\u0105 prawdziwe",
       "Wszystkie zdania s\u0105 nieprawdziwe",
       "Docelowa aktywno\u015b\u0107 osoczowa antytrombiny wynosi 140%"
     ],
@@ -8078,13 +8078,13 @@
     "answers": [
       "1 jednostka zwi\u0119ksza st\u0119\u017cenie hemoglobiny o 1 g/dl",
       "1 jednostka zwi\u0119ksza warto\u015b\u0107 hematokrytu o 5%",
-      "Wszystkie zdania s\u0105 prawdziwe,",
+      "Wszystkie zdania s\u0105 prawdziwe",
       "Docelowa warto\u015b\u0107 hematokrytu to ponad 21%",
       "Docelowa warto\u015b\u0107 hemoglobiny wynosi ponad 8 g/dl"
     ],
     "id": "672",
     "question": "W leczeniu DIC u kobiet ci\u0119\u017carnych wa\u017cnym elementem terapii jest stosowanie preparat\u00f3w takich jak osocze \u015bwie\u017co mro\u017cone, krioprecypitat, koncentrat fibrynogenu, koncentrat p\u0142ytek krwi,\nantytrombina czy koncentrat krwinek czerwonych. Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce\nstosowanego koncentratu krwinek czerwonych:",
-    "correctAnswer": 2
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 674",
@@ -8182,7 +8182,7 @@
     ],
     "id": "680",
     "question": "Wg ostatnich ustale\u0144 do rozpoznania stanu przedrzucawkowego nie jest konieczna obecno\u015b\u0107 bia\u0142komoczu. Je\u017celi bia\u0142komocz nie wyst\u0119puje, rozpoznanie stanu przedrzucawkowego jest\nmo\u017cliwe, kiedy nadci\u015bnienie t\u0119tnicze wsp\u00f3\u0142istnieje z:",
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 682",
@@ -8389,7 +8389,7 @@
   {
     "title": "Pytanie 698",
     "answers": [
-      "Kr\u00f3tkie domi\u0119\u015bniowe stosowanie kortykosteroid\u00f3w (stosujemy doustnie,)",
+      "Kr\u00f3tkie domi\u0119\u015bniowe stosowanie kortykosteroid\u00f3w",
       "Stosowanie ekstraktu z imbiru w dawce 1 g przez 4 dni",
       "Zastosowanie akupunktury",
       "Zastosowanie psychoterapii",
@@ -8480,7 +8480,6 @@
   {
     "title": "Pytanie 705",
     "answers": [
-      "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest metyldopa. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku.",
       "Ma dzia\u0142anie obwodowe wp\u0142ywaj\u0105c na mi\u0119\u015bni\u00f3wk\u0119 naczy\u0144",
       "Jest lekiem pierwszego wyboru w ci\u0105\u017cy",
       "Maksymalna dawka wynosi 2 gramy na dob\u0119",
@@ -8488,7 +8487,7 @@
       "Mo\u017ce powodowa\u0107 depresj\u0119 szpiku"
     ],
     "id": "704",
-    "question": "",
+    "question": "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest metyldopa. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku:",
     "correctAnswer": 0
   },
   {
@@ -8515,7 +8514,7 @@
     ],
     "id": "706",
     "question": "Misodel to:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 708",
@@ -8676,7 +8675,7 @@
   {
     "title": "Pytanie 720",
     "answers": [
-      "Ma\u0142op\u0142ytkowo\u015b\u0107 wyst\u0119puje w II po\u0142owie ci\u0105\u017cy (zazwyczaj w III trymestrze)",
+      "Ma\u0142op\u0142ytkowo\u015b\u0107 wyst\u0119puje w II po\u0142owie ci\u0105\u017cy",
       "St\u0119\u017cenie p\u0142ytek krwi zazwyczaj przekracza 100.000 / mm3",
       "Mo\u017cliwe jest wyst\u0105pienie ma\u0142op\u0142ytkowo\u015bci u noworodka",
       "Zawsze ust\u0119puje po zako\u0144czeniu ci\u0105\u017cy",
@@ -8940,8 +8939,7 @@
       "Stosowany w dawce 2-3 x 25-50 mg / dob\u0119",
       "Zwi\u0119ksza ryzyko IUGR",
       "Gwa\u0142towne odstawienie mo\u017ce spowodowa\u0107 zawa\u0142 serca",
-      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka",
-      "(bradykardia, hipotonia)"
+      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka (bradykardia, hipotonia)"
     ],
     "id": "739",
     "question": "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest metoprolol. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku:",
@@ -8963,28 +8961,28 @@
   {
     "title": "Pytanie 742",
     "answers": [
-      "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest labetalol. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku.",
-      "Jest przeciwwskazany w astmie oskrzelowej Mo\u017ce powodowa\u0107 hipotoni\u0119 ortostatyczn\u0105 Maksymalna dawka to 1,2 g / dob\u0119",
+      "Jest przeciwwskazany w astmie oskrzelowej",
+      "Mo\u017ce powodowa\u0107 hipotoni\u0119 ortostatyczn\u0105",
+      "Maksymalna dawka to 1,2 g / dob\u0119",
       "Jest nieselektywnym antagonist\u0105 receptora beta",
-      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka",
-      "(bradykardia, hipotonia)"
+      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka (bradykardia, hipotonia)"
     ],
     "id": "741",
-    "question": "",
-    "correctAnswer": 3
+    "question": "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest labetalol. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 743",
     "answers": [
-      "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest dihydralazyna. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku. Mo\u017ce powodowa\u0107 tachykardi\u0119 i b\u00f3l g\u0142owy",
-      "Mo\u017ce powodowa\u0107 tachyfilaksj\u0119 Maksymalna dawka to 200 mg / dob\u0119",
+      "Mo\u017ce powodowa\u0107 tachykardi\u0119 i b\u00f3l g\u0142owy",
+      "Mo\u017ce powodowa\u0107 tachyfilaksj\u0119",
+      "Maksymalna dawka to 200 mg / dob\u0119",
       "Jest bezpo\u015brednim t\u0119tniczkowym wazodilatatorem",
-      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka",
-      "(bradykardia, hipotonia)"
+      "Lek nale\u017cy odstawi\u0107 48 godzin przed porodem z powodu mo\u017cliwego wp\u0142ywu na noworodka (bradykardia, hipotonia)"
     ],
     "id": "742",
-    "question": "",
-    "correctAnswer": 3
+    "question": "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych jednym ze stosowanych lek\u00f3w jest dihydralazyna. Wska\u017c nieprawid\u0142owe zdanie opisuj\u0105ce stosowanie tego leku:",
+    "correctAnswer": 4
   },
   {
     "title": "Pytanie 744",
@@ -8993,7 +8991,7 @@
       "Labetalolu",
       "Dihydralazynie",
       "Nifedypinie",
-      "Inhibotorach konwertazy angiotensyny tab 3,5"
+      "Inhibotorach konwertazy angiotensyny"
     ],
     "id": "743",
     "question": "W terapii nadci\u015bnienia t\u0119tniczego kobiet ci\u0119\u017carnych lek nie powinien by\u0107 stosowany ze wzgl\u0119du na ryzyko wyst\u0105pienia ma\u0142owodzia i hipoplazji czaszki p\u0142odu. Mowa o:",
@@ -9049,7 +9047,7 @@
     ],
     "id": "747",
     "question": "Do czynnik\u00f3w ryzyka wyst\u0105pienia ci\u0105\u017cy bli\u017aniaczej dwuzygotycznej nie nale\u017cy:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 749",
@@ -9075,7 +9073,7 @@
     ],
     "id": "749",
     "question": "Wi\u0119ksze ryzyko pocz\u0119cia ci\u0105\u017cy bli\u017aniaczej dwuzygotycznej ma kobieta mieszkaj\u0105ca:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 751",
@@ -9153,7 +9151,7 @@
     ],
     "id": "755",
     "question": "Przyczyn\u0105 wczesnej hipotrofii p\u0142odu rozpoznawanej w II trymestrze ci\u0105\u017cy jests.:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 757",
@@ -9172,7 +9170,7 @@
     "title": "Pytanie 758",
     "answers": [
       "W 26-28 tygodniu ci\u0105\u017cy",
-      "W 24-26 tygodniu ci\u0105\u017c",
+      "W 24-26 tygodniu ci\u0105\u017cy",
       "W 22-24 tygodniu ci\u0105\u017cy",
       "W 28-30 tygodniu ci\u0105\u017cy",
       "Przed 22 tygodniem ci\u0105\u017cy"
@@ -9417,7 +9415,7 @@
     ],
     "id": "779",
     "question": "Lekiem przeciwwskazanym w leczeniu zaka\u017ce\u0144 u kobiet ci\u0119\u017carnych jests.:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 781",
@@ -9430,7 +9428,7 @@
     ],
     "id": "780",
     "question": "Wska\u017c lek/grup\u0119 lek\u00f3w, kt\u00f3ry podawany mi\u0119dzy 15 tygodniem ci\u0105\u017cy a 12 rokiem \u017cycia dziecka mo\u017ce powodowa\u0107 przebarwienie z\u0119b\u00f3w i dysplazj\u0119 ko\u015bci:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 782",
@@ -9443,7 +9441,7 @@
     ],
     "id": "781",
     "question": "Wska\u017c lek/grup\u0119 lek\u00f3w, kt\u00f3ry podawany kobiecie podczas ci\u0105\u017cy mo\u017ce powodowa\u0107 uszkodzenie ucha wewn\u0119trznego u p\u0142odu prowadz\u0105ce do g\u0142uchoty:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 783",
@@ -9455,8 +9453,8 @@
       "Tylko 4 i 5"
     ],
     "id": "782",
-    "question": "Wska\u017c czynniki \u0142o\u017cyskowe mog\u0105ce prowadzi\u0107 do hipotrofii p\u0142odu:\n1. Zaburzenia w modelowaniu naczy\u0144 macicznych\n2. \u0141o\u017cysko przoduj\u0105ce i naczynia przoduj\u0105ce\n3. B\u0142oniasty przyczep p\u0119powiny\n4. Wt\u00f3rne do hiperglikemii powi\u0119kszenie \u0142o\u017cyska\n5. Zwi\u0119kszony transport \u0142o\u017cyskowy\n6. Nieprawid\u0142owe po\u0142\u0105czenia naczyniowe w ci\u0105\u017cy wielop\u0142odowej\n7. Wady macicy Prawdziwe jest:",
-    "correctAnswer": 4
+    "question": "Wska\u017c czynniki \u0142o\u017cyskowe mog\u0105ce prowadzi\u0107 do hipotrofii p\u0142odu:\n1. Zaburzenia w modelowaniu naczy\u0144 macicznych\n2. \u0141o\u017cysko przoduj\u0105ce i naczynia przoduj\u0105ce\n3. B\u0142oniasty przyczep p\u0119powiny\n4. Wt\u00f3rne do hiperglikemii powi\u0119kszenie \u0142o\u017cyska\n5. Zwi\u0119kszony transport \u0142o\u017cyskowy\n6. Nieprawid\u0142owe po\u0142\u0105czenia naczyniowe w ci\u0105\u017cy wielop\u0142odowej\n7. Wady macicy\nPrawdziwe jest:",
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 784",
@@ -9468,7 +9466,7 @@
       "Tylko 4 i 5"
     ],
     "id": "783",
-    "question": "Wska\u017c czynniki \u0142o\u017cyskowe mog\u0105ce prowadzi\u0107 do makrosomii p\u0142odu:\n1. Zaburzenia w modelowaniu naczy\u0144 macicznych\n2. \u0141o\u017cysko przoduj\u0105ce i naczynia przoduj\u0105ce\n3. B\u0142oniasty przyczep p\u0119powiny\n4. Wt\u00f3rne do hiperglikemii powi\u0119kszenie \u0142o\u017cyska\n5. Zwi\u0119kszony transport \u0142o\u017cyskowy\n6. Nieprawid\u0142owe po\u0142\u0105czenia naczyniowe w ci\u0105\u017cy wielop\u0142odowej\n7. Wady macicy Prawdziwe jest:",
+    "question": "Wska\u017c czynniki \u0142o\u017cyskowe mog\u0105ce prowadzi\u0107 do makrosomii p\u0142odu:\n1. Zaburzenia w modelowaniu naczy\u0144 macicznych\n2. \u0141o\u017cysko przoduj\u0105ce i naczynia przoduj\u0105ce\n3. B\u0142oniasty przyczep p\u0119powiny\n4. Wt\u00f3rne do hiperglikemii powi\u0119kszenie \u0142o\u017cyska\n5. Zwi\u0119kszony transport \u0142o\u017cyskowy\n6. Nieprawid\u0142owe po\u0142\u0105czenia naczyniowe w ci\u0105\u017cy wielop\u0142odowej\n7. Wady macicy\nPrawdziwe jest:",
     "correctAnswer": 4
   },
   {
@@ -9507,7 +9505,7 @@
       "Tylko 2, 3, 13 i 14"
     ],
     "id": "786",
-    "question": "Wska\u017c czynniki matczyne b\u0119d\u0105ce etiologi\u0105 hipotrofii p\u0142odu:\n1. Ma\u0142y przyrost masy cia\u0142a w ci\u0105\u017cy\n2. Nikotynizm\n3. Nadci\u015bnienie t\u0119tnicze\n4. Du\u017cy przyrost masy cia\u0142a w ci\u0105\u017cy\n5. Oty\u0142o\u015b\u0107\n6. Cukrzyca typu 1 z powik\u0142aniami naczyniowymi\n7. Cukrzyca przedci\u0105\u017cowa typu 1 i 2\n8. Cukrzyca ci\u0105\u017cowa\n9. Przewlek\u0142a choroba nerek\n10. Choroby autoimmunologiczne\n11. Choroby infekcyjne\n12. Cukromocz\n13. Alkoholizm\n14. Narkomania Prawdziwe jest:",
+    "question": "Wska\u017c czynniki matczyne b\u0119d\u0105ce etiologi\u0105 hipotrofii p\u0142odu:\n1. Ma\u0142y przyrost masy cia\u0142a w ci\u0105\u017cy\n2. Nikotynizm\n3. Nadci\u015bnienie t\u0119tnicze\n4. Du\u017cy przyrost masy cia\u0142a w ci\u0105\u017cy\n5. Oty\u0142o\u015b\u0107\n6. Cukrzyca typu 1 z powik\u0142aniami naczyniowymi\n7. Cukrzyca przedci\u0105\u017cowa typu 1 i 2\n8. Cukrzyca ci\u0105\u017cowa\n9. Przewlek\u0142a choroba nerek\n10. Choroby autoimmunologiczne\n11. Choroby infekcyjne\n12. Cukromocz\n13. Alkoholizm\n14. Narkomania\nPrawdziwe jest:",
     "correctAnswer": 1
   },
   {
@@ -9520,7 +9518,7 @@
       "2, 3, 7, 8, 11"
     ],
     "id": "787",
-    "question": "Wska\u017c czynniki matczyne b\u0119d\u0105ce etiologi\u0105 makrosomii p\u0142odu: (s.191)\n1. Nikotynizm\n2. Nadci\u015bnienie t\u0119tnicze\n3. Du\u017cy przyrost masy cia\u0142a w ci\u0105\u017cy\n4. Oty\u0142o\u015b\u0107\n5. Cukrzyca typu 1 z powik\u0142aniami naczyniowymi\n6. Cukrzyca przedci\u0105\u017cowa typu 1 i 2\n7. Cukrzyca ci\u0105\u017cowa\n8. Przewlek\u0142a choroba nerek\n9. Choroby autoimmunologiczne\n10. Choroby infekcyjne\n11. Cukromocz Prawdziwe jest:",
+    "question": "Wska\u017c czynniki matczyne b\u0119d\u0105ce etiologi\u0105 makrosomii p\u0142odu:\n1. Nikotynizm\n2. Nadci\u015bnienie t\u0119tnicze\n3. Du\u017cy przyrost masy cia\u0142a w ci\u0105\u017cy\n4. Oty\u0142o\u015b\u0107\n5. Cukrzyca typu 1 z powik\u0142aniami naczyniowymi\n6. Cukrzyca przedci\u0105\u017cowa typu 1 i 2\n7. Cukrzyca ci\u0105\u017cowa\n8. Przewlek\u0142a choroba nerek\n9. Choroby autoimmunologiczne\n10. Choroby infekcyjne\n11. Cukromocz\nPrawdziwe jest:",
     "correctAnswer": 1
   },
   {
@@ -9553,7 +9551,7 @@
     "title": "Pytanie 791",
     "answers": [
       "\u017b\u00f3\u0142taczki jader podkorowych u p\u0142odu i noworodka",
-      "Polekowej niedokrwisto\u015bci hemolitycznej u noworodka(218)",
+      "Polekowej niedokrwisto\u015bci hemolitycznej u noworodka",
       "Ryzyka wi\u0119kszej utraty krwi podczas porodu",
       "Wspomniane leki mog\u0105 by\u0107 bezpiecznie stosowane tak\u017ce w okresie oko\u0142oporodowym",
       "Zaburze\u0144 elektrolitowych u noworodka"
@@ -9568,7 +9566,7 @@
       "Heparyna drobnocz\u0105steczkowa",
       "Danaparoid",
       "Streptokinaza",
-      "Kwas acetylosalicylowy (t1)",
+      "Kwas acetylosalicylowy",
       "Tiklopidyna"
     ],
     "id": "791",
@@ -9582,7 +9580,7 @@
       "Enoksaparyna",
       "Dalteparyna",
       "Nadroparyna",
-      "Danaparoid (t1)"
+      "Danaparoid"
     ],
     "id": "792",
     "question": "Do lek\u00f3w zalecanych w leczeniu schorze\u0144 o pod\u0142o\u017cu zakrzepowo-zatorowym u kobiet ci\u0119\u017carnych nie nale\u017cy:",
@@ -9773,7 +9771,7 @@
   {
     "title": "Pytanie 808",
     "answers": [
-      "Obrz\u0119k p\u0142uc nie wyst\u0119puje u kobiet ze stanem przedrzucawkowym",
+      "Obrz\u0119k p\u0142uc wyst\u0119puje u kobiet ze stanem przedrzucawkowym",
       "Mo\u017ce by\u0107 efektem niewydolno\u015bci uk\u0142adu kr\u0105\u017cenia",
       "Mo\u017ce by\u0107 efektem nadmiernej poda\u017cy p\u0142yn\u00f3w",
       "Mo\u017ce by\u0107 efektem przy\u015bpieszonego uruchamiania p\u0142yn\u00f3w z przestrzeni pozakom\u00f3rkowej",
@@ -9781,7 +9779,7 @@
     ],
     "id": "807",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce obrz\u0119ku p\u0142uc, kt\u00f3ry mo\u017ce rozwin\u0105\u0107 si\u0119 u kobiet ze stanem\nprzedrzucawkowym:",
-    "correctAnswer": 0
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 809",
@@ -9812,11 +9810,11 @@
   {
     "title": "Pytanie 811",
     "answers": [
-      "Dwukrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 150100 mmHg",
-      "Trzykrotne stwierdzenie w odst\u0119pie 2 godzin warto\u015bci ci\u015bnienia krwi co najmniej 14090 mmHg",
-      "Dwukrotne stwierdzenie w odst\u0119pie 2 godzin warto\u015bci ci\u015bnienia krwi co najmniej 14090 mmHg",
-      "Dwukrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 14090 mmHg",
-      "Trzykrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 14090 mmHg"
+      "Dwukrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 150/100 mmHg",
+      "Trzykrotne stwierdzenie w odst\u0119pie 2 godzin warto\u015bci ci\u015bnienia krwi co najmniej 140/90 mmHg",
+      "Dwukrotne stwierdzenie w odst\u0119pie 2 godzin warto\u015bci ci\u015bnienia krwi co najmniej 140/90 mmHg",
+      "Dwukrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 140/90 mmHg",
+      "Trzykrotne stwierdzenie w odst\u0119pie 4 godzin warto\u015bci ci\u015bnienia krwi co najmniej 140/90 mmHg"
     ],
     "id": "810",
     "question": "Wiod\u0105cym objawem stanu przedrzucawkowego jest nadci\u015bnienie t\u0119tnicze. Podstawowym\nkryterium jest:",
@@ -9827,7 +9825,7 @@
     "answers": [
       "Pomiar w spoczynku w pozycji siedz\u0105cej z ramieniem na poziomie serca przez 5 minut przed dokonaniem pomiaru",
       "U\u017cycie odpowiedniego mankietu \u2013 1,5-krotnie d\u0142u\u017cszego od obwodu ramienia",
-      "Powolne, ze sta\u0142\u0105 szybko\u015bci\u0105 (2-5 mmHgs.k) wypuszczanie powietrza z mankietu",
+      "Powolne, ze sta\u0142\u0105 szybko\u015bci\u0105 (2-5 mmHg/sekund\u0119) wypuszczanie powietrza z mankietu",
       "U\u015brednienie 2 odczyt\u00f3w z powodu zmienno\u015bci ci\u015bnienia t\u0119tniczego",
       "Wszystkie wymieniony musz\u0105 by\u0107 spe\u0142nione aby pomiar wykonany by\u0142 prawid\u0142owo"
     ],
@@ -9898,7 +9896,7 @@
     ],
     "id": "816",
     "question": "Profilaktyk\u0119 \u017bChZZ u kobiet po ci\u0119ciu cesarskim:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 818",
@@ -9924,7 +9922,7 @@
     ],
     "id": "818",
     "question": "Ze wzgl\u0119du na zwi\u0119kszone ryzyko urazu oraz dystocji barkowej w przypadkach podejrzenia hipertrofii p\u0142odu niezb\u0119dna jest ocena wymiar\u00f3w p\u0142odu w badaniu USG. Cech\u0105 \u015bwiadcz\u0105c\u0105 o zwi\u0119kszonym\nryzyku dystocji barkowej nie jest:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 820",
@@ -9950,7 +9948,7 @@
     ],
     "id": "820",
     "question": "W etiologii niewydolno\u015bci cie\u015bniowo-szyjkowej u kobiet ci\u0119\u017carnych wyr\u00f3\u017cnia si\u0119 trzy grupy czynnik\u00f3w \u2013 wrodzone, uraz szyjki macicy oraz czynniki hormonalne i biochemiczne. W\u015br\u00f3d czynnik\u00f3w\nwrodzonych za najbardziej istotny uznaje si\u0119:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 822",
@@ -10023,12 +10021,12 @@
       "Jest to bezpo\u015brednie wprowadzenie ig\u0142y do p\u0119cherzyka ci\u0105\u017cowego zlokalizowanego w jajowodzie",
       "Metoda s\u0142u\u017cy do podania lek\u00f3w, takich jak metotreksat lub hipertoniczny (50%) roztw\u00f3r glukozy",
       "Metoda wykonywana jest pod kontrol\u0105 laparoskopii, histeroskopii lub ultrasonografii",
-      "Cz\u0119stym powik\u0142aniem zabiegu jest nag\u0142y wzrost ci\u015bnienia wewn\u0105trzjajowodowego, co powoduje p\u0119kni\u0119cie jajowodu podczas zabiegu lub do 4 godzin po nim",
+      "Cz\u0119stym powik\u0142aniem zabiegu jest nag\u0142y wzrost ci\u015bnienia wewn\u0105trzjajowodowego, co powoduje  p\u0119kni\u0119cie jajowodu podczas zabiegu lub do 4 godzin po nim",
       "Wszystkie zdania w spos\u00f3b prawid\u0142owy opisuj\u0105 salpingocentez\u0119"
     ],
     "id": "826",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce salipingocentezy:",
-    "correctAnswer": 4
+    "correctAnswer": 3
   },
   {
     "title": "Pytanie 828",
@@ -10054,7 +10052,7 @@
     ],
     "id": "828",
     "question": "Wska\u017c nieprawdziwe zdanie dotycz\u0105ce leczenia laparoskopowego w przypadku ci\u0105\u017cy jajowodowej:",
-    "correctAnswer": 4
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 830",
@@ -10072,7 +10070,7 @@
   {
     "title": "Pytanie 831",
     "answers": [
-      "Laparoskopowa salipingotomia bez stosowania szw\u00f3w(99str)",
+      "Laparoskopowa salipingotomia bez stosowania szw\u00f3w",
       "Laparoskopowa salipingotomia ze zbli\u017ceniem \u015bcian jajowodu przy pomocy szw\u00f3w",
       "Laparoskopowa salpingektomia",
       "Leczenie metotreksatem z nast\u0119pow\u0105 laparoskopi\u0105 zwiadowcz\u0105 celem sprawdzenia czy nie pozosta\u0142y resztki trofoblastu",
@@ -10151,7 +10149,7 @@
       "Codzienna kontrola profilu biofizycznego p\u0142odu wraz z kontrol\u0105 przep\u0142yw\u00f3w krwi w t\u0119tnicy p\u0119powinowej i \u015brodkowej m\u00f3zgu p\u0142odu"
     ],
     "id": "836",
-    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem\nwzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieprawid\u0142owy przep\u0142yw w t\u0119tnicy p\u0119powinowej pod postaci\u0105 odwr\u00f3conego\nko\u0144cowo- rozkurczowego przep\u0142ywu krwi\n2. AFI < 2 cm\n3. Prawid\u0142owy przep\u0142yw w \u017cyle p\u0119powinowej\n4. profil biofizyczny p\u0142odu co najmniej 810 pkt:",
+    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem\nwzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieprawid\u0142owy przep\u0142yw w t\u0119tnicy p\u0119powinowej pod postaci\u0105 odwr\u00f3conego\nko\u0144cowo- rozkurczowego przep\u0142ywu krwi\n2. AFI < 2 cm\n3. Prawid\u0142owy przep\u0142yw w \u017cyle p\u0119powinowej\n4. profil biofizyczny p\u0142odu co najmniej 8/10 pkt:",
     "correctAnswer": 1
   },
   {
@@ -10164,7 +10162,7 @@
       "Brak poprawnej odpowiedzi"
     ],
     "id": "837",
-    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieprawid\u0142owy przep\u0142yw w przewodzie \u017cylnym pod postaci\u0105 zwi\u0119kszonej pulsacji,\n2. AFI < 2 cm\n3. profil biofizyczny p\u0142odu co najmniej 610 pkt:",
+    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieprawid\u0142owy przep\u0142yw w przewodzie \u017cylnym pod postaci\u0105 zwi\u0119kszonej pulsacji,\n2. AFI < 2 cm\n3. profil biofizyczny p\u0142odu co najmniej 6/10 pkt:",
     "correctAnswer": 0
   },
   {
@@ -10177,7 +10175,7 @@
       "Codzienna kontrola profilu biofizycznego p\u0142odu wraz z kontrol\u0105 przep\u0142yw\u00f3w krwi w t\u0119tnicy p\u0119powinowej i \u015brodkowej m\u00f3zgu p\u0142odu"
     ],
     "id": "838",
-    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. prawid\u0142owy przep\u0142yw w t\u0119tnicy p\u0119powinowej,\n2. centralizacj\u0119 kr\u0105\u017cenia p\u0142odu,\n3. AFI > 2 cm\n4. profil biofizyczny p\u0142odu co najmniej 810 pkt:",
+    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. prawid\u0142owy przep\u0142yw w t\u0119tnicy p\u0119powinowej,\n2. centralizacj\u0119 kr\u0105\u017cenia p\u0142odu,\n3. AFI > 2 cm\n4. profil biofizyczny p\u0142odu co najmniej 8/10 pkt:",
     "correctAnswer": 0
   },
   {
@@ -10190,7 +10188,7 @@
       "Brak poprawnej odpowiedzi"
     ],
     "id": "839",
-    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieobecn\u0105 lub odwr\u00f3cona fal\u0119 w przewodzie \u017cylnym\n2. pulsacj\u0119 w \u017cyle p\u0119powinowej\n3. profil biofizyczny p\u0142odu mniej ni\u017c 610 pkt.\n4. AFI < 2 cm:",
+    "question": "Wska\u017c prawid\u0142owe post\u0119powanie u ci\u0119\u017carnej z wewn\u0105trzmacicznym ograniczeniem wzrastania p\u0142odu (IUGR), u kt\u00f3rej stwierdzono:\n1. nieobecn\u0105 lub odwr\u00f3cona fal\u0119 w przewodzie \u017cylnym\n2. pulsacj\u0119 w \u017cyle p\u0119powinowej\n3. profil biofizyczny p\u0142odu mniej ni\u017c 6/10 pkt.\n4. AFI < 2 cm:",
     "correctAnswer": 1
   },
   {
@@ -10230,7 +10228,7 @@
     ],
     "id": "842",
     "question": "Wska\u017c nieprawid\u0142owe zdanie dotycz\u0105ce ma\u0142op\u0142ytkowo\u015bci u noworodka urodzonego od matki, u kt\u00f3rej wyst\u0119puje pierwotna ma\u0142op\u0142ytkowo\u015b\u0107 immunologiczna (idiopathic thrombocytopenic purpura \u2013\nITP):",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 844",
@@ -10778,7 +10776,7 @@
     ],
     "id": "886",
     "question": "Z\u0142otym standardem \u0142agodzenia b\u00f3lu porodowego jest:",
-    "correctAnswer": 1
+    "correctAnswer": 0
   },
   {
     "title": "Pytanie 888",
@@ -10805,7 +10803,7 @@
     ],
     "id": "889",
     "question": "W po\u0142o\u017ceniu miednicowym zupe\u0142nym:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 891",
@@ -11282,7 +11280,7 @@
     ],
     "id": "928",
     "question": "Wska\u017c nieprawdziwe zdanie dotycz\u0105ce transfuzji dop\u0142odowych stosowanych w leczeniu choroby\nhemolitycznej p\u0142odu:",
-    "correctAnswer": 4
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 930",
@@ -11309,7 +11307,7 @@
     "answers": ["Wszystkie wymienione", "1, 2, 3", "1, 2", "2, 3, 4", "1, 4"],
     "id": "931",
     "question": "W przebiegu ci\u0105\u017cy stwierdzono zmiany w zakresie aktywno\u015bci naturalnych mechanizm\u00f3w przeciwkrzepliwych. Stwierdza si\u0119:\n1. Obni\u017cenie st\u0119\u017cenia bia\u0142ka S\n2. Nie obserwuje si\u0119 spadku ilo\u015bci bia\u0142ka C\n3. Oporno\u015b\u0107 na aktywowan\u0105 form\u0119 bia\u0142ka C\n4. Obni\u017cenie st\u0119\u017cenia trombomoduliny\nPrawdziwe jest:",
-    "correctAnswer": 0
+    "correctAnswer": 1
   },
   {
     "title": "Pytanie 933",

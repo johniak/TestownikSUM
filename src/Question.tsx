@@ -1,6 +1,7 @@
 import { Box, Paper, Typography } from "@material-ui/core";
 import styled from "styled-components";
 import * as React from "react";
+import { shuffle } from "./utils";
 
 export interface Question {
   title: string;
@@ -47,15 +48,23 @@ export interface QuestionComponentPropTypes {
   question: Question;
   selected: number;
   onSelected: (index: number) => {};
+  shuffleAnswers: boolean;
 }
 
 export function QuestionComponent({
   question,
   selected,
-  onSelected
+  onSelected,
+  shuffleAnswers = true
 }: QuestionComponentPropTypes) {
   const letters = ["A", "B", "C", "D", "E"];
-
+  let [answerOrder] = React.useState(() => {
+    const range = [...Array(question.answers.length).keys()];
+    if (shuffleAnswers) {
+      return shuffle(range);
+    }
+    return range;
+  });
   return (
     <QuestionPaper elevation={3} correct={selected === question.correctAnswer}>
       <Box padding={2}>
@@ -68,7 +77,8 @@ export function QuestionComponent({
             {question.question}
           </Typography>
         </Box>
-        {question.answers.map((item, index) => {
+        {answerOrder.map((index, letterIndex) => {
+          const item = question.answers[index];
           let state = "DEFAULT";
           if (selected !== null && index === question.correctAnswer) {
             state = "CORRECT";
@@ -82,7 +92,7 @@ export function QuestionComponent({
               key={`answer:${index}:${question.id}`}
             >
               <Typography>
-                {letters[index]}) {item}
+                {letters[letterIndex]}) {item}
               </Typography>
             </AnswearButton>
           );
